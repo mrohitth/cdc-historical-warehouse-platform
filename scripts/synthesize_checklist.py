@@ -1,0 +1,1 @@
+../output/repos/mrohitth_products-distribution/scripts/synthesize_checklist.py

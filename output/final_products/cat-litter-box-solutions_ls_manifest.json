@@ -1,0 +1,29 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Cat Litter Box Solutions: The Complete Diagnostic Guide",
+    "slug": "cat-litter-box-solutions",
+    "description": "A comprehensive guide to cat litter box solutions.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "cat-litter-box-solutions.pdf",
+      "path": "output/final_products/cat-litter-box-solutions_v1.pdf",
+      "size_bytes": 44187
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/cat-litter-box-solutions",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Cat Litter Box Solutions: The Complete Diagnostic Guide",
+    "3. Slug: cat-litter-box-solutions",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/cat-litter-box-solutions"
+  ]
+}

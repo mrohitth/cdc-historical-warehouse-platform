@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "date": "2026-05-22",
+  "trends": [
+    {
+      "trend_id": "toddler-sleep-battles",
+      "slug": "toddler-sleep-battles",
+      "source": "Reddit r/toddlers + r/sleeptrain",
+      "raw_quote": "Bedtime becomes a huge issue and leads to tantrums. I know a parent who it takes 2 hours to get their toddler to sleep.",
+      "problem_description": "Parents of toddlers (18mo–3.5yr) face nightly bedtime battles lasting 1–2+ hours. Common triggers: nursing-to-sleep associations, boundary testing, and sleep regressions. Parents feel guilty, exhausted, and stuck.",
+      "can_solution_standalone": true,
+      "score": 8.5,
+      "pain_points": [
+        "Bedtime battles lasting 1-2+ hours nightly",
+        "Nursing/feeding to sleep dependency",
+        "Toddler tantrums at sleep onset",
+        "No method works consistently across toddlers",
+        "Guilt around sleep training methods"
+      ],
+      "actionable_scope": "10-page guide with gentle sleep transition method for toddlers already dependency-trained"
+    },
+    {
+      "trend_id": "cat-litter-frustration",
+      "slug": "cat-litter-guide",
+      "source": "Reddit r/CatAdvice",
+      "raw_quote": "It honestly blows my mind that it's 2025 and we still haven't found a solid cat litter option that checks all the boxes.",
+      "problem_description": "Cat owners frustrated with litter that tracks, smells, doesn't clump well, or creates dust. No single litter does everything well.",
+      "can_solution_standalone": true,
+      "score": 7.0,
+      "pain_points": [
+        "Cat litter tracking through the house",
+        "Smell control failures",
+        "Clumping issues with certain brands",
+        "Dust from clay litter affecting respiratory health",
+        "No clear buying guide for litter types"
+      ],
+      "actionable_scope": "10-page guide: cat litter type guide, best picks per situation, maintenance tips"
+    },
+    {
+      "trend_id": "toilet-clog-prevention",
+      "slug": "toilet-clog-prevention",
+      "source": "Reddit r/homeowners + Quora",
+      "raw_quote": "Backups that overflow into my basement. There's a long, nearly-level run of PVC drain pipe in the basement.",
+      "problem_description": "Homeowners deal with toilet clogs and drain backups that are expensive to fix via plumber ($150–$500+). Want to prevent them.",
+      "can_solution_standalone": true,
+      "score": 7.0,
+      "pain_points": [
+        "Emergency plumber costs for clogs",
+        "Basement backup flooding risk",
+        "Not knowing what can be unclogged DIY vs needs pro",
+        "Older plumbing systems prone to slow drains",
+        "No clear guide on toilet-safe vs flushable products"
+      ],
+      "actionable_scope": "10-page guide: drain prevention, DIY tools, when to call pro, toilet-safe products"
+    }
+  ],
+  "summary": "3 trends found. 1 trend (toddler-sleep-battles) score > 8/10. Proceeding with Stage 2: Architect."
+}

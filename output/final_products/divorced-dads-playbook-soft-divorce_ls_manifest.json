@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "When She's Done and You're Not: The Soft Divorce Playbook",
+    "slug": "divorced-dads-playbook-soft-divorce",
+    "description": "A comprehensive guide to divorced dads playbook soft divorce.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "divorced-dads-playbook-soft-divorce.pdf",
+      "path": "output/final_products/divorced-dads-playbook-soft-divorce.pdf",
+      "size_bytes": 95067
+    },
+    {
+      "name": "divorced-dads-playbook-soft-divorce_CHECKLIST.pdf",
+      "path": "output/final_products/divorced-dads-playbook-soft-divorce_CHECKLIST.pdf",
+      "size_bytes": 20871
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/divorced-dads-playbook-soft-divorce",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: When She's Done and You're Not: The Soft Divorce Playbook",
+    "3. Slug: divorced-dads-playbook-soft-divorce",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - divorced-dads-playbook-soft-divorce_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/divorced-dads-playbook-soft-divorce"
+  ]
+}
