@@ -1,0 +1,52 @@
+# docker-compose.yml — CDC Pipeline Local Development & Test Stack
+#
+# Spins up:
+#   operational_db  (port 5432) — source orders table
+#   warehouse_db    (port 5433) — dim_orders_history + pipeline_metadata
+#
+# Usage:
+#   docker compose up -d
+#   docker compose down -v   # -v removes volumes (clean slate)
+#
+
+version: "3.9"
+
+services:
+  operational_db:
+    image: postgres:16-alpine
+    container_name: cdc_operational_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: operational_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - operational_data:/var/lib/postgresql/data
+      - ./init-scripts:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d operational_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  warehouse_db:
+    image: postgres:16-alpine
+    container_name: cdc_warehouse_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: warehouse_db
+    ports:
+      - "5433:5433"
+    volumes:
+      - warehouse_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d warehouse_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  operational_data:
+  warehouse_data:
