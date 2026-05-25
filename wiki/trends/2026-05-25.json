@@ -1,0 +1,74 @@
+{
+  "status": "COMPLETE",
+  "date": "2026-05-25",
+  "scout_method": "Brave Search - Reddit/Quora real-time pain point mining",
+  "trends": [
+    {
+      "topic": "Baby/toddler sleep regression survival guide",
+      "slug": "sleep-regression-survival",
+      "source": "r/NewParents, r/sleeptrain, r/AttachmentParenting",
+      "raw_quote": "My hands are still shaking while I type this. Being called 'mommy' and 'mama' really starting to get on my nerves. I love my baby. I hate what motherhood has done to me",
+      "pain_score": 9,
+      "actionable_standalone": true,
+      "can_produce_10pg_guide": true,
+      "score_breakdown": {
+        "urgency": 9,
+        "specificity": 8,
+        "monetizability": 9,
+        "competition": 6
+      },
+      "total_score": 9.0,
+      "notes": "Massive parent audience, sleep deprivation is top-3 most searched parenting topic. Parents ages 25-40 are high-intent buyers. Multiple Reddit threads showing desperation. Existing guides are either woo-woo or affiliate-heavy — clear gap for a no-BS guide."
+    },
+    {
+      "topic": "Plumbing leak decision guide for non-handy homeowners",
+      "slug": "plumbing-leak-homeowner-guide",
+      "source": "r/homeowners, r/HomeMaintenance",
+      "raw_quote": "Do I keep tinkering and hope for the best or should I just call a plumber and pay for peace of mind, even if it feels overpriced for a minor leak?",
+      "pain_score": 8,
+      "actionable_standalone": true,
+      "can_produce_10pg_guide": true,
+      "score_breakdown": {
+        "urgency": 8,
+        "specificity": 9,
+        "monetizability": 8,
+        "competition": 5
+      },
+      "total_score": 8.5,
+      "notes": "Every homeowner faces this. Quote captures exactly the paralysis. Non-handy audience = willing to pay for clear decision framework. $18k pipe replacement quotes show stakes. Guide could cover: leak assessment checklist, when to DIY vs call pro, emergency pipe shutoff, cost estimation."
+    },
+    {
+      "topic": "Pet emergency fund planning",
+      "slug": "pet-emergency-fund",
+      "source": "r/Pets, r/Frugal, r/petinsurancereviews",
+      "raw_quote": "Paying for their vaccinations is not an issue... But I'm afraid of an emergency that could be $5k or more. Minimum 1k in the fund for emergency visits, bump that up to 2-5k should any chronic medical issue arise",
+      "pain_score": 7,
+      "actionable_standalone": true,
+      "can_produce_10pg_guide": true,
+      "score_breakdown": {
+        "urgency": 8,
+        "specificity": 7,
+        "monetizability": 8,
+        "competition": 6
+      },
+      "total_score": 7.75,
+      "notes": "Lower score due to competitive pet insurance space. But emergency fund + insurance comparison could work. Concern: affiliate-heavy space."
+    }
+  ],
+  "trends_above_threshold": 2,
+  "threshold": 8,
+  "action_decision": "PROCEED",
+  "top_trend": "sleep-regression-survival",
+  "runner_up": "plumbing-leak-homeowner-guide",
+  "skipped_trends": [
+    {
+      "topic": "Pet emergency fund planning",
+      "reason": "Score 7.75 below threshold of 8.00"
+    },
+    {
+      "topic": "Baby/toddler sleep regression survival guide",
+      "reason": "Similar to existing 'toddler-sleep-battles' draft + skeletons — >80% content overlap"
+    }
+  ],
+  "saved_to": "/home/mathew/.openclaw/workspace/wiki/trends/2026-05-25.json"
+}

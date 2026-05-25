@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "The Plumbing Leak Decision Guide: Know When to Fix It Yourself and When to Call a Pro",
+    "slug": "plumbing-leak-homeowner-guide-v1",
+    "description": "A comprehensive guide to plumbing leak homeowner guide v1.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "plumbing-leak-homeowner-guide-v1.pdf",
+      "path": "output/final_products/plumbing-leak-homeowner-guide_v1.pdf",
+      "size_bytes": 62090
+    },
+    {
+      "name": "plumbing-leak-homeowner-guide-v1_CHECKLIST.pdf",
+      "path": "output/final_products/plumbing-leak-homeowner-guide_v1_CHECKLIST.pdf",
+      "size_bytes": 18332
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/plumbing-leak-homeowner-guide-v1",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: The Plumbing Leak Decision Guide: Know When to Fix It Yourself and When to Call a Pro",
+    "3. Slug: plumbing-leak-homeowner-guide-v1",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - plumbing-leak-homeowner-guide-v1_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/plumbing-leak-homeowner-guide-v1"
+  ]
+}
