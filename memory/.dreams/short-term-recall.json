@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-27T13:34:15.343Z",
+  "entries": {
+    "memory:memory/2026-05-22.md:24:54": {
+      "key": "memory:memory/2026-05-22.md:24:54",
+      "path": "memory/2026-05-22.md",
+      "startLine": 24,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "### Today's Pipeline Run (2026-05-22) - **toddler-sleep-battles** (8.5/10): PDF built, pushed to GitHub - **cat-litter-guide** (7.0/10): PDF built, pushed to GitHub - **toilet-clog-prevention** (7.0/10): skeleton exists, draft gen had issues — score below 8.0 so not pushed (pipeline correctly skipped it) ### GitHub Status - Push: https://github.com/mrohitth/products-distribution/tree/dev/final_products - Workspace committed and pushed (clean state) ### Key Files - `workspace/wiki/trends/2026-05-22.json` — today's scored trends - `workspace/products/drafts/toddler-sleep-battles.md` + `cat-litter-guide.md` — today's drafts - `workspace/output/final_products/toddler-sleep-battles.pdf` + `_C",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4323950558900833,
+      "maxScore": 0.4323950558900833,
+      "firstRecalledAt": "2026-05-27T13:34:09.251Z",
+      "lastRecalledAt": "2026-05-27T13:34:09.251Z",
+      "queryHashes": [
+        "31e758aa8cf5"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "toddler-sleep-battles",
+        "8.5/10",
+        "cat-litter-guide",
+        "7.0/10",
+        "toilet-clog-prevention",
+        "8.0",
+        "cat-litter-guide.md",
+        "today's"
+      ]
+    },
+    "memory:memory/2026-05-23.md:1:24": {
+      "key": "memory:memory/2026-05-23.md:1:24",
+      "path": "memory/2026-05-23.md",
+      "startLine": 1,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "- [x] [K] PDF Pipeline Daily — full run completed at 11:15 ET ## Kaizen Analysis — 2026-05-23 **Health Pulse:** RAM=43-44%, Disk=56%, Sessions=365MB | SESSION_WARN=1 (sessions over 150MB threshold) **Alert Pattern:** Repeated HEALTH_CRITICAL log entries — but RAM=43% is not genuinely critical. Likely threshold misconfiguration in health_pulse.sh. **SSH:** No failed login attempts logged **Firewall:** Not checked (ufw status requires elevated — skipped for now) **Gateway:** Running OK (loopback, port 18789) **Cron:** No errors detected in syslog **Kaizen #1 — Fix health threshold false alarms** Title: Repeated HEALTH_CRITICAL with normal RAM Root cause: health_pulse.sh threshold likely set",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4307825773954391,
+      "maxScore": 0.4307825773954391,
+      "firstRecalledAt": "2026-05-27T13:34:09.251Z",
+      "lastRecalledAt": "2026-05-27T13:34:09.251Z",
+      "queryHashes": [
+        "31e758aa8cf5"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "43-44",
+        "session-warn",
+        "health-critical",
+        "health-pulse.sh",
+        "pdf",
+        "pipeline",
+        "full"
+      ]
+    },
+    "memory:memory/2026-05-22.md:1:29": {
+      "key": "memory:memory/2026-05-22.md:1:29",
+      "path": "memory/2026-05-22.md",
+      "startLine": 1,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) ## Pipeline Fixes Completed ### Root Cause: `slug_candidate` field missing from `trendscout_scout.py` output The TrendScout scout script writes `slug` to the JSON but the gen script was looking for `slug_candidate`. Fixed by adding fallback `or trend.get(\"slug\", \"\")` in two places in `trendscout_gen.py`: - Line ~",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.43063571155071256,
+      "maxScore": 0.43063571155071256,
+      "firstRecalledAt": "2026-05-27T13:34:09.251Z",
+      "lastRecalledAt": "2026-05-27T13:34:09.251Z",
+      "queryHashes": [
+        "31e758aa8cf5"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "slug-candidate",
+        "trendscout-scout.py",
+        "trend.get",
+        "trendscout-gen.py",
+        "marketbot",
+        "scanner",
+        "delivered",
+        "scan"
+      ]
+    },
+    "memory:memory/2026-05-24.md:25:58": {
+      "key": "memory:memory/2026-05-24.md:25:58",
+      "path": "memory/2026-05-24.md",
+      "startLine": 25,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "- **Listening ports:** Only local services (OpenClaw loopback 18789, CUPS 631, local DNS) — no external exposure ✓ - **RAM:** 6.8 GB total · 2.3 GB used · 4.5 GB available — healthy ✓ - **Disk:** 80 GB total · 41 GB used · 36 GB available (54%) — healthy ✓ - **Gateway service:** systemd user installed · enabled · running ✓ ### OpenClaw Update - Update available — `npm update 2026.5.20` (pnpm) ### Active Cron Jobs (Health-Related) - `Mitty Security Audit` — daily at 23:00 ✓ - `Mitty Health Pulse` — every 1h ✓ - `Credential Leak Scanner` — every 6h ✓ ### Notes - `mitty_security_audit.sh` script not found; audit run directly via `openclaw security audit [--deep]` and host tooling - Gateway p",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.43446119129657745,
+      "maxScore": 0.43446119129657745,
+      "firstRecalledAt": "2026-05-27T13:34:15.343Z",
+      "lastRecalledAt": "2026-05-27T13:34:15.343Z",
+      "queryHashes": [
+        "3a8d4be5b892"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "6.8",
+        "2.3",
+        "4.5",
+        "2026.5.20",
+        "health-related",
+        "mitty-security-audit.sh",
+        "listening"
+      ]
+    },
+    "memory:memory/2026-05-25.md:66:116": {
+      "key": "memory:memory/2026-05-25.md:66:116",
+      "path": "memory/2026-05-25.md",
+      "startLine": 66,
+      "endLine": 116,
+      "source": "memory",
+      "snippet": "- [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-05-25 — plumbing-leak-homeowner-guide pipeline complete - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 15:03 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) --- ## Audit Timestamp 2026-05-26 03:00 UTC / Mon May 25 23:00 EDT ## SSH Check - No SSH server listening on port 22 (not running",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.43008198142051696,
+      "maxScore": 0.43008198142051696,
+      "firstRecalledAt": "2026-05-27T13:34:15.343Z",
+      "lastRecalledAt": "2026-05-27T13:34:15.343Z",
+      "queryHashes": [
+        "3a8d4be5b892"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "plumbing-leak-homeowner-guide",
+        "marketbot",
+        "scan",
+        "cron",
+        "trendscout",
+        "plumbing",
+        "leak",
+        "homeowner"
+      ]
+    },
+    "memory:memory/2026-05-24.md:198:217": {
+      "key": "memory:memory/2026-05-24.md:198:217",
+      "path": "memory/2026-05-24.md",
+      "startLine": 198,
+      "endLine": 217,
+      "source": "memory",
+      "snippet": "1. `client/src/components/NavigationBar.tsx` — fix `/resume.pdf` dead link 2. `client/index.html` — reduce Google Fonts to 4–5 families max 3. `client/src/components/sections/ContactSection.tsx` — wire up backend or add mailto fallback 4. `client/src/components/sections/ContactSection.tsx` — change \"© 2026\" to \"© 2025\" 5. `client/src/data/portfolio.ts` — correct experience duration claims 6. `client/src/components/sections/ExperienceSection.tsx` — fix location to \"McLean, VA\" 7. `client/src/components/sections/ExperienceSection.tsx` — fix Bosmos description 8. `client/src/App.tsx` — clean up duplicate section imports (was corrupted during sed incident) --- *End of session notes* ## Kaizen",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.42902742624282836,
+      "maxScore": 0.42902742624282836,
+      "firstRecalledAt": "2026-05-27T13:34:15.343Z",
+      "lastRecalledAt": "2026-05-27T13:34:15.343Z",
+      "queryHashes": [
+        "3a8d4be5b892"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "resume.pdf",
+        "client/index.html",
+        "client/src/data/portfolio.ts",
+        "client/src/app.tsx",
+        "client",
+        "src",
+        "components",
+        "navigationbar.tsx"
+      ]
+    }
+  }
+}
