@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Save Your Couch from Cat Scratching",
+    "slug": "save-your-couch-from-cat-scratching",
+    "description": "A comprehensive guide to save your couch from cat scratching.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "save-your-couch-from-cat-scratching.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/save-your-couch-from-cat-scratching_v1.pdf",
+      "size_bytes": 100098
+    },
+    {
+      "name": "save-your-couch-from-cat-scratching_CHECKLIST.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/save-your-couch-from-cat-scratching_v1_CHECKLIST.pdf",
+      "size_bytes": 85778
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/save-your-couch-from-cat-scratching",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Save Your Couch from Cat Scratching",
+    "3. Slug: save-your-couch-from-cat-scratching",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - save-your-couch-from-cat-scratching_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/save-your-couch-from-cat-scratching"
+  ]
+}

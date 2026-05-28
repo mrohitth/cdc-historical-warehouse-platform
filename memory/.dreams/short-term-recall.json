@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T13:34:15.343Z",
+  "updatedAt": "2026-05-27T19:32:16.890Z",
   "entries": {
     "memory:memory/2026-05-22.md:24:54": {
       "key": "memory:memory/2026-05-22.md:24:54",
@@ -71,15 +71,16 @@
       "endLine": 29,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) ## Pipeline Fixes Completed ### Root Cause: `slug_candidate` field missing from `trendscout_scout.py` output The TrendScout scout script writes `slug` to the JSON but the gen script was looking for `slug_candidate`. Fixed by adding fallback `or trend.get(\"slug\", \"\")` in two places in `trendscout_gen.py`: - Line ~",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.43063571155071256,
-      "maxScore": 0.43063571155071256,
+      "totalScore": 0.8857132583856582,
+      "maxScore": 0.45507754683494567,
       "firstRecalledAt": "2026-05-27T13:34:09.251Z",
-      "lastRecalledAt": "2026-05-27T13:34:09.251Z",
+      "lastRecalledAt": "2026-05-27T19:32:16.890Z",
       "queryHashes": [
-        "31e758aa8cf5"
+        "31e758aa8cf5",
+        "d8b765a407d4"
       ],
       "recallDays": [
         "2026-05-27"
@@ -102,15 +103,16 @@
       "endLine": 58,
       "source": "memory",
       "snippet": "- **Listening ports:** Only local services (OpenClaw loopback 18789, CUPS 631, local DNS) — no external exposure ✓ - **RAM:** 6.8 GB total · 2.3 GB used · 4.5 GB available — healthy ✓ - **Disk:** 80 GB total · 41 GB used · 36 GB available (54%) — healthy ✓ - **Gateway service:** systemd user installed · enabled · running ✓ ### OpenClaw Update - Update available — `npm update 2026.5.20` (pnpm) ### Active Cron Jobs (Health-Related) - `Mitty Security Audit` — daily at 23:00 ✓ - `Mitty Health Pulse` — every 1h ✓ - `Credential Leak Scanner` — every 6h ✓ ### Notes - `mitty_security_audit.sh` script not found; audit run directly via `openclaw security audit [--deep]` and host tooling - Gateway p",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.43446119129657745,
+      "totalScore": 0.8627914428710937,
       "maxScore": 0.43446119129657745,
       "firstRecalledAt": "2026-05-27T13:34:15.343Z",
-      "lastRecalledAt": "2026-05-27T13:34:15.343Z",
+      "lastRecalledAt": "2026-05-27T19:30:51.962Z",
       "queryHashes": [
-        "3a8d4be5b892"
+        "3a8d4be5b892",
+        "84ed8b2174dc"
       ],
       "recallDays": [
         "2026-05-27"
@@ -133,15 +135,18 @@
       "endLine": 116,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-05-25 — plumbing-leak-homeowner-guide pipeline complete - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 15:03 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) --- ## Audit Timestamp 2026-05-26 03:00 UTC / Mon May 25 23:00 EDT ## SSH Check - No SSH server listening on port 22 (not running",
-      "recallCount": 1,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.43008198142051696,
-      "maxScore": 0.43008198142051696,
+      "totalScore": 1.7124020099639892,
+      "maxScore": 0.447761270403862,
       "firstRecalledAt": "2026-05-27T13:34:15.343Z",
-      "lastRecalledAt": "2026-05-27T13:34:15.343Z",
+      "lastRecalledAt": "2026-05-27T19:32:16.890Z",
       "queryHashes": [
-        "3a8d4be5b892"
+        "3a8d4be5b892",
+        "d434d1b75344",
+        "84ed8b2174dc",
+        "d8b765a407d4"
       ],
       "recallDays": [
         "2026-05-27"
@@ -186,6 +191,256 @@
         "src",
         "components",
         "navigationbar.tsx"
+      ]
+    },
+    "memory:memory/2026-05-27.md:1:13": {
+      "key": "memory:memory/2026-05-27.md:1:13",
+      "path": "memory/2026-05-27.md",
+      "startLine": 1,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "- [x] [K] MarketBot scan (cron) - [x] TrendScout 2026-05-27 — SKIPPED: all 3 trends (cat-vet-bills, plumbing-emergency-ripoff, toddler-sleep-regression) matched existing products >80% - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron)",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8677464962005614,
+      "maxScore": 0.47100485563278194,
+      "firstRecalledAt": "2026-05-27T19:30:45.332Z",
+      "lastRecalledAt": "2026-05-27T19:32:16.890Z",
+      "queryHashes": [
+        "d434d1b75344",
+        "d8b765a407d4"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "cat-vet-bills",
+        "plumbing-emergency-ripoff",
+        "toddler-sleep-regression",
+        "marketbot",
+        "scan",
+        "cron",
+        "trendscout",
+        "skipped"
+      ]
+    },
+    "memory:memory/2026-05-22.md:49:59": {
+      "key": "memory:memory/2026-05-22.md:49:59",
+      "path": "memory/2026-05-22.md",
+      "startLine": 49,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "Sessions: 324MB | Failed logins (24h): 0 ## Kaizen Analysis - Health Pulse Cron failing: mitty_health_pulse.sh not found at /home/mathew/.openclaw/workspace/ — cron has been spamming errors every 5min. Root cause: script missing. Fix: recreate the health pulse script. - RAM stable 60%, Disk stable 53%, Sessions 10MB (all healthy, no spikes) - Gateway running (PID 159600, ~7h CPU since May 10) - No SSH failed logins - No DeepSeek PAYG calls yesterday — all MiniMax M2.7 (subscription)",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.39672236442565917,
+      "maxScore": 0.39672236442565917,
+      "firstRecalledAt": "2026-05-27T19:30:45.332Z",
+      "lastRecalledAt": "2026-05-27T19:30:45.332Z",
+      "queryHashes": [
+        "d434d1b75344"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "mitty-health-pulse.sh",
+        "home/mathew",
+        "openclaw/workspace",
+        "m2.7",
+        "324mb",
+        "failed",
+        "logins"
+      ]
+    },
+    "memory:memory/2026-05-26.md:1:23": {
+      "key": "memory:memory/2026-05-26.md:1:23",
+      "path": "memory/2026-05-26.md",
+      "startLine": 1,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-05-26 — cat-litter-box-aversion + child-selective-eating-guide pipeline complete. 2 products: cat-litter (125KB guide + 18KB checklist), child-selective-eating (41KB guide + 14KB checklist). Both synced to GitHub products-distribution dev branch. QA passed with 7 warnings (warnings not critical). - [x] [K] MarketBot scanner — delivered - [x] [K] PDF Pipeline Daily — full run completed at 15:04 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBo",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8539628654718399,
+      "maxScore": 0.45740530788898465,
+      "firstRecalledAt": "2026-05-27T19:30:45.332Z",
+      "lastRecalledAt": "2026-05-27T19:32:16.890Z",
+      "queryHashes": [
+        "d434d1b75344",
+        "d8b765a407d4"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "cat-litter-box-aversion",
+        "child-selective-eating-guide",
+        "cat-litter",
+        "child-selective-eating",
+        "products-distribution",
+        "marketbot",
+        "scanner",
+        "delivered"
+      ]
+    },
+    "memory:memory/2026-05-25.md:105:142": {
+      "key": "memory:memory/2026-05-25.md:105:142",
+      "path": "memory/2026-05-25.md",
+      "startLine": 105,
+      "endLine": 142,
+      "source": "memory",
+      "snippet": "- Credential Leak Scanner every 6h - Morning Kaizen at 9am, Capital Pilot at 9:30am - Session BAK Auto-Clean at 2am ## RAM Check - 6.7Gi total · 3.4Gi used · 749Mi free · 3.2Gi available - RAM 51% (was 49% last audit) — trending slightly up - Swap: 19Gi total · 1.1Gi used ## Filesystem Check - / 80G · 42G used · 34G available · 56% (unchanged) ## Listening Ports (change since last) - 192.168.1.159:3702 UDP (added wifi multicast — likely mdns reflector) - 0.0.0.0:5175 — chrome remote debugging - 127.0.0.1:45703 — chrome another port ## Security Findings (same as last) - trustedProxies empty - brave plugin unpinned (@openclaw/brave-plugin) - agents.defaults sandbox=off - OpenClaw update av",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3954704165458679,
+      "maxScore": 0.3954704165458679,
+      "firstRecalledAt": "2026-05-27T19:30:45.332Z",
+      "lastRecalledAt": "2026-05-27T19:30:45.332Z",
+      "queryHashes": [
+        "d434d1b75344"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "auto-clean",
+        "6.7gi",
+        "3.4gi",
+        "3.2gi",
+        "1.1gi",
+        "192.168.1.159",
+        "0.0.0.0",
+        "127.0.0.1"
+      ]
+    },
+    "memory:memory/2026-05-24.md:53:82": {
+      "key": "memory:memory/2026-05-24.md:53:82",
+      "path": "memory/2026-05-24.md",
+      "startLine": 53,
+      "endLine": 82,
+      "source": "memory",
+      "snippet": "- Hero tagline: \"Building real-time streaming pipelines on Kafka & Flink, designing multi-petabyte lakehouses on Snowflake, and reducing cloud spend by 40–70%\" — good - Top 3 projects: CDC Pipeline (9/10), Data Observability (8/10), Batch Analytics (7.8/10) — genuinely strong, FAANG-relevant - Experience bullets: all achievement-framed (good) **WEAK** (needs fixing): - 8 of 11 projects are CMU computer vision research — signals academic researcher not production DE - 40–70% number buried in paragraph, should be standalone callout - No open source presence (critical gap at FAANG) - No petabyte-scale numbers surfaced (only \"40M records/batch\") - No certifications, no talks, no blog posts - Sa",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.42280786633491513,
+      "maxScore": 0.42280786633491513,
+      "firstRecalledAt": "2026-05-27T19:30:51.962Z",
+      "lastRecalledAt": "2026-05-27T19:30:51.962Z",
+      "queryHashes": [
+        "84ed8b2174dc"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "real-time",
+        "multi-petabyte",
+        "9/10",
+        "8/10",
+        "7.8/10",
+        "faang-relevant",
+        "achievement-framed",
+        "petabyte-scale"
+      ]
+    },
+    "memory:memory/2026-05-24.md:144:165": {
+      "key": "memory:memory/2026-05-24.md:144:165",
+      "path": "memory/2026-05-24.md",
+      "startLine": 144,
+      "endLine": 165,
+      "source": "memory",
+      "snippet": "| 16 | Emoji bullets in ProjectsSection (\"⭐ Featured\", \"📚 Academic\") — template-y | ProjectsSection.tsx | | 17 | Scroll indicator bounce animation (`animate-bounce`) still present in HeroSection | HeroSection.tsx | #### 🟢 LOW / STRUCTURAL OBSERVATIONS | # | Issue | |---|-------| | 18 | No streaming experience shown anywhere — all batch; if targeting streaming roles, this is a gap | | 19 | EKS listed in SKILL_DOMAINS but never referenced in experience or projects — questions about credibility | | 20 | ROLES array in portfolio.ts has \"Pipeline Builder\", \"AWS EMR Specialist\", \"Batch Systems Engineer\" — these look like internal team names, not job title descriptors a recruiter would search |",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4200115323066711,
+      "maxScore": 0.4200115323066711,
+      "firstRecalledAt": "2026-05-27T19:30:51.962Z",
+      "lastRecalledAt": "2026-05-27T19:30:51.962Z",
+      "queryHashes": [
+        "84ed8b2174dc"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "template-y",
+        "projectssection.tsx",
+        "animate-bounce",
+        "herosection.tsx",
+        "skill-domains",
+        "portfolio.ts",
+        "emoji",
+        "bullets"
+      ]
+    },
+    "memory:memory/2026-05-24.md:105:131": {
+      "key": "memory:memory/2026-05-24.md:105:131",
+      "path": "memory/2026-05-24.md",
+      "startLine": 105,
+      "endLine": 131,
+      "source": "memory",
+      "snippet": "- Added `}` at end of file → build now passes cleanly **portfolio.ts — Double commas (2 instances)** - `scale: \"...\",` and `scale: \"...\",` had trailing commas with commas — build errors - Fixed both; build passes **Em-dashes removed from 8 files:** - `animations.ts`, `sandbox.ts`, `portfolio.ts`, `theme.ts`, `use-toast.ts` - `PhilosophySection.tsx`, `SandboxSection.tsx`, `DataPlatformSandbox.tsx` - Replaced 70+ em-dashes with hyphens --- ### Full Audit Findings #### 🔴 MUST FIX (broken/misleading) | # | Issue | Location | |---|-------|----------| | 1 | `/resume.pdf` is a dead link — PDF doesn't exist in repo | NavBar.tsx | | 2 | Contact form POSTs to `/api/contact` — no backend exists",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4197141081094742,
+      "maxScore": 0.4197141081094742,
+      "firstRecalledAt": "2026-05-27T19:30:51.962Z",
+      "lastRecalledAt": "2026-05-27T19:30:51.962Z",
+      "queryHashes": [
+        "84ed8b2174dc"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "portfolio.ts",
+        "em-dashes",
+        "animations.ts",
+        "sandbox.ts",
+        "theme.ts",
+        "use-toast.ts",
+        "philosophysection.tsx",
+        "sandboxsection.tsx"
+      ]
+    },
+    "memory:memory/2026-05-25.md:32:72": {
+      "key": "memory:memory/2026-05-25.md:32:72",
+      "path": "memory/2026-05-25.md",
+      "startLine": 32,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "- **Swap**: 19Gi total, 1.1Gi used, 18Gi free - **Gateway RAM**: ~1GB (pid 437986, 15.2% of system) - **Top process**: resources-processes (4.3% CPU, 0.4% MEM), resources (3.8% CPU, 2.9% MEM) ## Filesystem Check - **Root**: /dev/nvme0n1p6 80G · 42G used · 34G available · 56% - **Sessions dir**: 392MB total (sessions.json 1.2MB) ## Listening Ports - 127.0.0.1:18789 (gateway) - 127.0.0.53:53 / 127.0.0.54:53 (dnsmasq) - 127.0.0.1:631 (CUPS) - 0.0.0.0:5175, 4175, 4174 (node/vite) - 0.0.0.0:3737 (node/npm serve) - mDNS (5353), DHCPv6 (546), chrony (323), unknown (39299, 33211) ## Security Findings - `gateway.trustedProxies` empty — set if reverse proxy used - `plugins.installs_unpinned_npm_spe",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4160353273153305,
+      "maxScore": 0.4160353273153305,
+      "firstRecalledAt": "2026-05-27T19:30:51.962Z",
+      "lastRecalledAt": "2026-05-27T19:30:51.962Z",
+      "queryHashes": [
+        "84ed8b2174dc"
+      ],
+      "recallDays": [
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "1.1gi",
+        "15.2",
+        "resources-processes",
+        "4.3",
+        "0.4",
+        "3.8",
+        "2.9"
       ]
     }
   }

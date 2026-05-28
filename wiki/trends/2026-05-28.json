@@ -1,0 +1,61 @@
+{
+  "scout_date": "2026-05-28",
+  "status": "PROCEED",
+  "trends": [
+    {
+      "trend_id": "cat-furniture-scratching-2026",
+      "source": "Reddit r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1o3aecj/cant_get_cat_to_stop_scratching_furniture_gf_is/",
+      "raw_quote": "Can't get cat to stop scratching furniture, GF is wanting her declawed which I said is a nonnegotiable 'no'. I would definitely show you gf what declawing cats really is and how it harms them! I totally understand it's frustrating having furniture ruined by claws but declawing is so inhumane, hopefully if she knows the reality of it she wouldn't dream of wanting that done to your cats.",
+      "pain_point": "Cat keeps shredding furniture; partner pushing for declaw; owner caught between protecting furniture and protecting the cat",
+      "category": "Pet Care",
+      "total_score": 9,
+      "can_produce": true,
+      "score_breakdown": {
+        "urgency": 3,
+        "frequency": 3,
+        "emotional_charge": 3
+      },
+      "notes": "Multiple recent posts (2024-2025) show this is a live issue. CatAdvice consistently sees posts from owners facing furniture destruction AND relationship pressure around declawing. Not yet addressed by any guide in our catalog."
+    },
+    {
+      "trend_id": "cat-scratch-furniture-ruined-2026",
+      "source": "Reddit r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1mzeonl/cat_scratching_is_ruining_my_couch_no_matter_what/",
+      "raw_quote": "Need all your advice on how to get cat to stop scratching couch/ all upholstered furniture including dining chairs. I have never had a cat that is so destructive with his scratching!",
+      "pain_point": "Multi-furniture destruction; tried multiple solutions; at wit's end",
+      "category": "Pet Care",
+      "total_score": 8,
+      "can_produce": true,
+      "score_breakdown": {
+        "urgency": 2,
+        "frequency": 3,
+        "emotional_charge": 3
+      },
+      "notes": "Owner tried 'everything' with no results. High desperation signal."
+    },
+    {
+      "trend_id": "cat-scratch-biting-solutions-2026",
+      "source": "Reddit r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1hxcwoi/new_cat_wont_stop_scratching_my_furniture_any/",
+      "raw_quote": "Hey y'all, not new to cats but new to this issue. We have adopted a kitten from someone who just had cats running around outside. She is 6 months old.",
+      "pain_point": "New cat owner; cat won't stop scratching furniture; no solutions working",
+      "category": "Pet Care",
+      "total_score": 7,
+      "can_produce": true,
+      "score_breakdown": {
+        "urgency": 2,
+        "frequency": 2,
+        "emotional_charge": 3
+      },
+      "notes": "Confirms kitten adoption as trigger. Related to new-cat-first-weeks survival but distinct focus on scratching specifically."
+    }
+  ],
+  "proceed_trend": {
+    "trend_id": "cat-furniture-scratching-2026",
+    "slug": "save-your-couch-from-cat-scratching",
+    "title": "Save Your Couch: The Cat Scratching Fix Guide",
+    "target_audience": "Cat owners with furniture-destroying cats who want humane, lasting solutions — not declawing",
+    "top_quote": "Can't get cat to stop scratching furniture, GF is wanting her declawed which I said is a nonnegotiable 'no'"
+  }
+}
