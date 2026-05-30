@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T19:32:16.890Z",
+  "updatedAt": "2026-05-29T16:20:45.992Z",
   "entries": {
     "memory:memory/2026-05-22.md:24:54": {
       "key": "memory:memory/2026-05-22.md:24:54",
@@ -71,19 +71,21 @@
       "endLine": 29,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) ## Pipeline Fixes Completed ### Root Cause: `slug_candidate` field missing from `trendscout_scout.py` output The TrendScout scout script writes `slug` to the JSON but the gen script was looking for `slug_candidate`. Fixed by adding fallback `or trend.get(\"slug\", \"\")` in two places in `trendscout_gen.py`: - Line ~",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.8857132583856582,
-      "maxScore": 0.45507754683494567,
+      "totalScore": 1.342758348584175,
+      "maxScore": 0.4570450901985168,
       "firstRecalledAt": "2026-05-27T13:34:09.251Z",
-      "lastRecalledAt": "2026-05-27T19:32:16.890Z",
+      "lastRecalledAt": "2026-05-29T16:20:45.992Z",
       "queryHashes": [
         "31e758aa8cf5",
-        "d8b765a407d4"
+        "d8b765a407d4",
+        "9ec9fd8fd8e2"
       ],
       "recallDays": [
-        "2026-05-27"
+        "2026-05-27",
+        "2026-05-29"
       ],
       "conceptTags": [
         "slug-candidate",
@@ -135,21 +137,23 @@
       "endLine": 116,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-05-25 — plumbing-leak-homeowner-guide pipeline complete - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 15:03 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) --- ## Audit Timestamp 2026-05-26 03:00 UTC / Mon May 25 23:00 EDT ## SSH Check - No SSH server listening on port 22 (not running",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.7124020099639892,
-      "maxScore": 0.447761270403862,
+      "totalScore": 2.1604984432458876,
+      "maxScore": 0.44809643328189847,
       "firstRecalledAt": "2026-05-27T13:34:15.343Z",
-      "lastRecalledAt": "2026-05-27T19:32:16.890Z",
+      "lastRecalledAt": "2026-05-29T16:20:45.992Z",
       "queryHashes": [
         "3a8d4be5b892",
         "d434d1b75344",
         "84ed8b2174dc",
-        "d8b765a407d4"
+        "d8b765a407d4",
+        "9ec9fd8fd8e2"
       ],
       "recallDays": [
-        "2026-05-27"
+        "2026-05-27",
+        "2026-05-29"
       ],
       "conceptTags": [
         "plumbing-leak-homeowner-guide",
@@ -263,19 +267,21 @@
       "endLine": 23,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-05-26 — cat-litter-box-aversion + child-selective-eating-guide pipeline complete. 2 products: cat-litter (125KB guide + 18KB checklist), child-selective-eating (41KB guide + 14KB checklist). Both synced to GitHub products-distribution dev branch. QA passed with 7 warnings (warnings not critical). - [x] [K] MarketBot scanner — delivered - [x] [K] PDF Pipeline Daily — full run completed at 15:04 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBo",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.8539628654718399,
+      "totalScore": 1.308112382888794,
       "maxScore": 0.45740530788898465,
       "firstRecalledAt": "2026-05-27T19:30:45.332Z",
-      "lastRecalledAt": "2026-05-27T19:32:16.890Z",
+      "lastRecalledAt": "2026-05-29T16:20:45.992Z",
       "queryHashes": [
         "d434d1b75344",
-        "d8b765a407d4"
+        "d8b765a407d4",
+        "9ec9fd8fd8e2"
       ],
       "recallDays": [
-        "2026-05-27"
+        "2026-05-27",
+        "2026-05-29"
       ],
       "conceptTags": [
         "cat-litter-box-aversion",
@@ -441,6 +447,37 @@
         "0.4",
         "3.8",
         "2.9"
+      ]
+    },
+    "memory:memory/2026-05-28.md:32:60": {
+      "key": "memory:memory/2026-05-28.md:32:60",
+      "path": "memory/2026-05-28.md",
+      "startLine": 32,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) ## Kaizen Analysis — 2026-05-28 ### Health: Session size still the only irritant - RAM: 33% | Disk: 55% | Sessions: 429-430MB (threshold: 400MB) - HEALTH_CRITICAL triggered every pulse due to session size alone, not RAM or disk - 2 AM cleanup cron exists, sessions haven't shrunk yet in this data window ### Cron: Timeout fix applied - Kitty Morning Kaizen Generator timed out at 300s — fixed, raised to 600s - Next run should complete cleanly ### No other issues - SSH: inactive | Firewa",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4563127219676971,
+      "maxScore": 0.4563127219676971,
+      "firstRecalledAt": "2026-05-29T16:20:45.992Z",
+      "lastRecalledAt": "2026-05-29T16:20:45.992Z",
+      "queryHashes": [
+        "9ec9fd8fd8e2"
+      ],
+      "recallDays": [
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "429-430mb",
+        "health-critical",
+        "marketbot",
+        "scanner",
+        "delivered",
+        "scan",
+        "cron",
+        "kaizen"
       ]
     }
   }

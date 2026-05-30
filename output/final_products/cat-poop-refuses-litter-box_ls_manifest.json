@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Cat Poops on Floor but Uses Box for Pee: The Fix Guide",
+    "slug": "cat-poop-refuses-litter-box",
+    "description": "A comprehensive guide to cat poop refuses litter box.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "cat-poop-refuses-litter-box.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/cat-poop-refuses-litter-box_v1.pdf",
+      "size_bytes": 45051
+    },
+    {
+      "name": "cat-poop-refuses-litter-box_CHECKLIST.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/cat-poop-refuses-litter-box_v1_CHECKLIST.pdf",
+      "size_bytes": 17437
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/cat-poop-refuses-litter-box",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Cat Poops on Floor but Uses Box for Pee: The Fix Guide",
+    "3. Slug: cat-poop-refuses-litter-box",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - cat-poop-refuses-litter-box_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/cat-poop-refuses-litter-box"
+  ]
+}
