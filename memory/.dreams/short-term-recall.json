@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T16:20:45.992Z",
+  "updatedAt": "2026-06-02T07:00:01.877Z",
   "entries": {
     "memory:memory/2026-05-22.md:24:54": {
       "key": "memory:memory/2026-05-22.md:24:54",
@@ -71,21 +71,23 @@
       "endLine": 29,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) ## Pipeline Fixes Completed ### Root Cause: `slug_candidate` field missing from `trendscout_scout.py` output The TrendScout scout script writes `slug` to the JSON but the gen script was looking for `slug_candidate`. Fixed by adding fallback `or trend.get(\"slug\", \"\")` in two places in `trendscout_gen.py`: - Line ~",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.342758348584175,
-      "maxScore": 0.4570450901985168,
+      "totalScore": 1.800660455226898,
+      "maxScore": 0.4579021066427231,
       "firstRecalledAt": "2026-05-27T13:34:09.251Z",
-      "lastRecalledAt": "2026-05-29T16:20:45.992Z",
+      "lastRecalledAt": "2026-06-02T07:00:01.877Z",
       "queryHashes": [
         "31e758aa8cf5",
         "d8b765a407d4",
-        "9ec9fd8fd8e2"
+        "9ec9fd8fd8e2",
+        "df2ecdec3db7"
       ],
       "recallDays": [
         "2026-05-27",
-        "2026-05-29"
+        "2026-05-29",
+        "2026-06-02"
       ],
       "conceptTags": [
         "slug-candidate",
@@ -137,23 +139,25 @@
       "endLine": 116,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-05-25 — plumbing-leak-homeowner-guide pipeline complete - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 15:03 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) --- ## Audit Timestamp 2026-05-26 03:00 UTC / Mon May 25 23:00 EDT ## SSH Check - No SSH server listening on port 22 (not running",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.1604984432458876,
-      "maxScore": 0.44809643328189847,
+      "totalScore": 2.616568773984909,
+      "maxScore": 0.45607033073902126,
       "firstRecalledAt": "2026-05-27T13:34:15.343Z",
-      "lastRecalledAt": "2026-05-29T16:20:45.992Z",
+      "lastRecalledAt": "2026-06-02T07:00:01.877Z",
       "queryHashes": [
         "3a8d4be5b892",
         "d434d1b75344",
         "84ed8b2174dc",
         "d8b765a407d4",
-        "9ec9fd8fd8e2"
+        "9ec9fd8fd8e2",
+        "df2ecdec3db7"
       ],
       "recallDays": [
         "2026-05-27",
-        "2026-05-29"
+        "2026-05-29",
+        "2026-06-02"
       ],
       "conceptTags": [
         "plumbing-leak-homeowner-guide",
@@ -267,21 +271,23 @@
       "endLine": 23,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-05-26 — cat-litter-box-aversion + child-selective-eating-guide pipeline complete. 2 products: cat-litter (125KB guide + 18KB checklist), child-selective-eating (41KB guide + 14KB checklist). Both synced to GitHub products-distribution dev branch. QA passed with 7 warnings (warnings not critical). - [x] [K] MarketBot scanner — delivered - [x] [K] PDF Pipeline Daily — full run completed at 15:04 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBo",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.308112382888794,
+      "totalScore": 1.7628621101379394,
       "maxScore": 0.45740530788898465,
       "firstRecalledAt": "2026-05-27T19:30:45.332Z",
-      "lastRecalledAt": "2026-05-29T16:20:45.992Z",
+      "lastRecalledAt": "2026-06-02T07:00:01.877Z",
       "queryHashes": [
         "d434d1b75344",
         "d8b765a407d4",
-        "9ec9fd8fd8e2"
+        "9ec9fd8fd8e2",
+        "df2ecdec3db7"
       ],
       "recallDays": [
         "2026-05-27",
-        "2026-05-29"
+        "2026-05-29",
+        "2026-06-02"
       ],
       "conceptTags": [
         "cat-litter-box-aversion",
@@ -456,18 +462,20 @@
       "endLine": 60,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) ## Kaizen Analysis — 2026-05-28 ### Health: Session size still the only irritant - RAM: 33% | Disk: 55% | Sessions: 429-430MB (threshold: 400MB) - HEALTH_CRITICAL triggered every pulse due to session size alone, not RAM or disk - 2 AM cleanup cron exists, sessions haven't shrunk yet in this data window ### Cron: Timeout fix applied - Kitty Morning Kaizen Generator timed out at 300s — fixed, raised to 600s - Next run should complete cleanly ### No other issues - SSH: inactive | Firewa",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.4563127219676971,
-      "maxScore": 0.4563127219676971,
+      "totalScore": 0.9148923307657242,
+      "maxScore": 0.458579608798027,
       "firstRecalledAt": "2026-05-29T16:20:45.992Z",
-      "lastRecalledAt": "2026-05-29T16:20:45.992Z",
+      "lastRecalledAt": "2026-06-02T07:00:01.877Z",
       "queryHashes": [
-        "9ec9fd8fd8e2"
+        "9ec9fd8fd8e2",
+        "df2ecdec3db7"
       ],
       "recallDays": [
-        "2026-05-29"
+        "2026-05-29",
+        "2026-06-02"
       ],
       "conceptTags": [
         "429-430mb",
@@ -478,6 +486,68 @@
         "scan",
         "cron",
         "kaizen"
+      ]
+    },
+    "memory:memory/2026-06-01.md:1:17": {
+      "key": "memory:memory/2026-06-01.md:1:17",
+      "path": "memory/2026-06-01.md",
+      "startLine": 1,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-06-01 — No viable trends found, pipeline SKIPPED. Reddit blocking direct fetches, no new >8/10 pain points beyond existing catalog. - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 11:05 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] Market",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.46432414948940276,
+      "maxScore": 0.46432414948940276,
+      "firstRecalledAt": "2026-06-02T07:00:01.877Z",
+      "lastRecalledAt": "2026-06-02T07:00:01.877Z",
+      "queryHashes": [
+        "df2ecdec3db7"
+      ],
+      "recallDays": [
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "8/10",
+        "marketbot",
+        "scanner",
+        "delivered",
+        "scan",
+        "cron",
+        "trendscout",
+        "viable"
+      ]
+    },
+    "memory:memory/2026-05-30.md:70:77": {
+      "key": "memory:memory/2026-05-30.md:70:77",
+      "path": "memory/2026-05-30.md",
+      "startLine": 70,
+      "endLine": 77,
+      "source": "memory",
+      "snippet": "No DeepSeek PAYG calls — all yesterday sessions used MiniMax-M2.7 (subscription). DeepSeek mentions in session filenames are non-model references only. ### Kaizen Ideas 1. **Cron Stall Fix** — Extend model_call stall threshold for long-running crons OR simplify Kaizen/Security/Capital reports to run faster (reduce context, parallelize checks) 2. **Gateway Probe** — Investigate why deep probe times out — auth token refresh or endpoint issue 3. **Brave Plugin Pin** — Pin `@openclaw/brave-plugin` to exact version in package.json to prevent supply-chain drift",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.44771424829959866,
+      "maxScore": 0.44771424829959866,
+      "firstRecalledAt": "2026-06-02T07:00:01.877Z",
+      "lastRecalledAt": "2026-06-02T07:00:01.877Z",
+      "queryHashes": [
+        "df2ecdec3db7"
+      ],
+      "recallDays": [
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "gateway",
+        "minimax-m2.7",
+        "non-model",
+        "model-call",
+        "long-running",
+        "kaizen/security/capital",
+        "openclaw/brave-plugin",
+        "package.json"
       ]
     }
   }

@@ -1,0 +1,33 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "The Contact Nap Exit Plan",
+    "slug": "baby-contact-nap-survival-guide",
+    "description": "A gradual system for transitioning your baby from contact sleep to independent sleep — without cry-it-out.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "baby-contact-nap-survival-guide_v1.pdf",
+      "path": "output/final_products/baby-contact-nap-survival-guide_v1.pdf",
+      "size_bytes": 34875
+    },
+    {
+      "name": "baby-contact-nap-survival-guide_v1_CHECKLIST.pdf",
+      "path": "output/final_products/baby-contact-nap-survival-guide_v1_CHECKLIST.pdf",
+      "size_bytes": 20162
+    }
+  ],
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: The Contact Nap Exit Plan",
+    "3. Slug: baby-contact-nap-survival-guide",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/baby-contact-nap-survival-guide"
+  ]
+}
