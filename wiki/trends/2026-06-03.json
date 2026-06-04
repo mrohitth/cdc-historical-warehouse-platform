@@ -1,0 +1,42 @@
+{
+  "status": "COMPLETE",
+  "scouted_at": "2026-06-03T14:00:00Z",
+  "trends": [
+    {
+      "trend_id": "cat-meow-night-001",
+      "platform": "reddit",
+      "subreddit": "CatAdvice",
+      "raw_quote": "\"I'm on the verge of divorce because of my cat's meowing at night. ... I can hear him even with my fans running and earplugs in... what else can I do or try?\"",
+      "pain_point": "Cat meowing/yowling at night destroying sleep",
+      "product_angle": "Quiet Nights: The Cat Behavior Training Guide",
+      "slug_candidate": "cat-morning-meowing-fix",
+      "estimated_page_count": 10,
+      "total_score": 9,
+      "can_be_standalone_guide": true
+    },
+    {
+      "trend_id": "toddler-tantrum-001",
+      "platform": "reddit",
+      "subreddit": "Parenting",
+      "raw_quote": "\"When I stopped trying to fix things and just stayed present with my kids, they calmed down way faster... My toddler's tantrums ended with him going silent, pale and glassy eyed like he'd had a seizure.\"",
+      "pain_point": "Toddler tantrums with no clear calming strategy",
+      "product_angle": "From Meltdown to Calm: A Parent's Field Guide",
+      "slug_candidate": "toddler-tantrum-guide",
+      "estimated_page_count": 10,
+      "total_score": 8,
+      "can_be_standalone_guide": true
+    },
+    {
+      "trend_id": "hvac-repair-quotes-001",
+      "platform": "reddit",
+      "subreddit": "HomeImprovement",
+      "raw_quote": "\"Quoted almost $10,000 for a $150 HVAC repair job... How do you know what's actually fair?\"",
+      "pain_point": "Homeowners blindsided by inflated HVAC/AC repair estimates",
+      "product_angle": "HVAC Repair Negotiation Guide: Don't Get Ripped Off",
+      "slug_candidate": "hvac-repair-quote-guide",
+      "estimated_page_count": 10,
+      "total_score": 9,
+      "can_be_standalone_guide": true
+    }
+  ]
+}
