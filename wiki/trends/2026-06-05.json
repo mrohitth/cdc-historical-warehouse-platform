@@ -1,0 +1,70 @@
+{
+  "status": "SKIPPED",
+  "reason": "No high-value pain points found",
+  "scouted_at": "2026-06-05T14:00:00Z",
+  "search_constraints_encountered": [
+    "Reddit direct fetch blocked (Cloudflare verification wall)",
+    "Quora returned minimal substantive results",
+    "Brave search provided snippets only, no full context"
+  ],
+  "trends_evaluated": [
+    {
+      "trend_id": "screen-time-tantrum-control-001",
+      "platform": "reddit",
+      "subreddit": "r/toddlers",
+      "raw_quote": "How do I stop screen time meltdowns for a 3yr old that doesn't get screen time. We've gone 3 weeks without TV now and he still has daily meltdowns about wanting TV.",
+      "pain_point": "Parents struggling with screen time refusal and resulting meltdowns",
+      "product_angle": "Screen Time Without Screens: The Calm Transition Guide",
+      "slug_candidate": "screen-time-tantrum-stop-guide",
+      "can_be_standalone_guide": true,
+      "total_score": 6,
+      "score_breakdown": "Overlap with existing toddler-tantrum-guide_v1 (8/10 already produced). New angle (screen-time-specific) is too narrow for standalone guide."
+    },
+    {
+      "trend_id": "pet-safe-pest-control-001",
+      "platform": "reddit",
+      "subreddit": "r/Pets",
+      "raw_quote": "Pet safe roach spray and general bug control for a house with a dog who licks everything?",
+      "pain_point": "Homeowners with pets needing effective pest control without chemical risk",
+      "product_angle": "Pet-Safe Home Pest Control: The Chemical-Free Solution Guide",
+      "slug_candidate": "pet-safe-pest-control-guide",
+      "can_be_standalone_guide": false,
+      "total_score": 5,
+      "score_breakdown": "Too product-recommendation focused. Narrow angle — not enough for 10-page standalone guide. Best as blog content."
+    },
+    {
+      "trend_id": "new-cat-owner-anxiety-001",
+      "platform": "reddit",
+      "subreddit": "r/CatAdvice",
+      "raw_quote": "Terrified New Cat Owner — I feel like I can't possibly take care of him the way he deserves.",
+      "pain_point": "First-time cat owners overwhelmed with anxiety and uncertainty",
+      "product_angle": "First Cat Owner Anxiety Guide",
+      "can_be_standalone_guide": true,
+      "total_score": 6,
+      "score_breakdown": "Already covered by new-kitten-overwhelmed-owner_v1 (deployed, live LS checkout). Same audience, near-identical pain point. SKIP."
+    },
+    {
+      "trend_id": "concrete-floor-maintenance-001",
+      "platform": "reddit",
+      "subreddit": "r/HomeImprovement",
+      "raw_quote": "Stained concrete floor chipping after 5 years. Looking for best way to fix.",
+      "pain_point": "Homeowners with stained/polished concrete floors unsure how to maintain or repair them",
+      "product_angle": "Concrete Floor Repair and Maintenance Guide",
+      "can_be_standalone_guide": true,
+      "total_score": 4,
+      "score_breakdown": "Niche audience. No emotional intensity. Low search volume. No clear Lemon Squeezy monetization path."
+    },
+    {
+      "trend_id": "contractor-price-negotiation-001",
+      "platform": "reddit",
+      "subreddit": "r/HomeImprovement",
+      "raw_quote": "I've gotten quotes as low as $950 and as high as $4200. Wtf. How do I know what's fair?",
+      "pain_point": "Homeowners confused by wildly divergent contractor quotes",
+      "product_angle": "Contractor Quote Negotiation Guide",
+      "can_be_standalone_guide": true,
+      "total_score": 7,
+      "score_breakdown": "Strong emotional pain. But overlaps with contractor-scam-protection-guide_v2 and hvac-repair-quote-guide. Without fetch access, can't get fresh quotes to differentiate. Score capped at 7."
+    }
+  ],
+  "notes": "Catalog is highly saturated across cat, toddler, contractor, and pet categories. Reddit blocking prevents fresh raw quote extraction. Best action: wait for fetch access to restore, or explore non-Reddit discovery channels (Quora, forums, niche communities)."
+}
