@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T07:00:01.877Z",
+  "updatedAt": "2026-06-05T15:58:51.612Z",
   "entries": {
     "memory:memory/2026-05-22.md:24:54": {
       "key": "memory:memory/2026-05-22.md:24:54",
@@ -71,23 +71,25 @@
       "endLine": 29,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) ## Pipeline Fixes Completed ### Root Cause: `slug_candidate` field missing from `trendscout_scout.py` output The TrendScout scout script writes `slug` to the JSON but the gen script was looking for `slug_candidate`. Fixed by adding fallback `or trend.get(\"slug\", \"\")` in two places in `trendscout_gen.py`: - Line ~",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.800660455226898,
+      "totalScore": 2.240160125494003,
       "maxScore": 0.4579021066427231,
       "firstRecalledAt": "2026-05-27T13:34:09.251Z",
-      "lastRecalledAt": "2026-06-02T07:00:01.877Z",
+      "lastRecalledAt": "2026-06-05T15:58:51.612Z",
       "queryHashes": [
         "31e758aa8cf5",
         "d8b765a407d4",
         "9ec9fd8fd8e2",
-        "df2ecdec3db7"
+        "df2ecdec3db7",
+        "82fdafde1a82"
       ],
       "recallDays": [
         "2026-05-27",
         "2026-05-29",
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-05"
       ],
       "conceptTags": [
         "slug-candidate",
@@ -271,23 +273,25 @@
       "endLine": 23,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-05-26 — cat-litter-box-aversion + child-selective-eating-guide pipeline complete. 2 products: cat-litter (125KB guide + 18KB checklist), child-selective-eating (41KB guide + 14KB checklist). Both synced to GitHub products-distribution dev branch. QA passed with 7 warnings (warnings not critical). - [x] [K] MarketBot scanner — delivered - [x] [K] PDF Pipeline Daily — full run completed at 15:04 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBo",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.7628621101379394,
+      "totalScore": 2.1960716664791105,
       "maxScore": 0.45740530788898465,
       "firstRecalledAt": "2026-05-27T19:30:45.332Z",
-      "lastRecalledAt": "2026-06-02T07:00:01.877Z",
+      "lastRecalledAt": "2026-06-05T15:58:51.612Z",
       "queryHashes": [
         "d434d1b75344",
         "d8b765a407d4",
         "9ec9fd8fd8e2",
-        "df2ecdec3db7"
+        "df2ecdec3db7",
+        "82fdafde1a82"
       ],
       "recallDays": [
         "2026-05-27",
         "2026-05-29",
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-05"
       ],
       "conceptTags": [
         "cat-litter-box-aversion",
@@ -462,20 +466,22 @@
       "endLine": 60,
       "source": "memory",
       "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) ## Kaizen Analysis — 2026-05-28 ### Health: Session size still the only irritant - RAM: 33% | Disk: 55% | Sessions: 429-430MB (threshold: 400MB) - HEALTH_CRITICAL triggered every pulse due to session size alone, not RAM or disk - 2 AM cleanup cron exists, sessions haven't shrunk yet in this data window ### Cron: Timeout fix applied - Kitty Morning Kaizen Generator timed out at 300s — fixed, raised to 600s - Next run should complete cleanly ### No other issues - SSH: inactive | Firewa",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.9148923307657242,
+      "totalScore": 1.3552544206380843,
       "maxScore": 0.458579608798027,
       "firstRecalledAt": "2026-05-29T16:20:45.992Z",
-      "lastRecalledAt": "2026-06-02T07:00:01.877Z",
+      "lastRecalledAt": "2026-06-05T15:58:51.612Z",
       "queryHashes": [
         "9ec9fd8fd8e2",
-        "df2ecdec3db7"
+        "df2ecdec3db7",
+        "82fdafde1a82"
       ],
       "recallDays": [
         "2026-05-29",
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-05"
       ],
       "conceptTags": [
         "429-430mb",
@@ -548,6 +554,99 @@
         "kaizen/security/capital",
         "openclaw/brave-plugin",
         "package.json"
+      ]
+    },
+    "memory:memory/2026-06-05.md:1:8": {
+      "key": "memory:memory/2026-06-05.md:1:8",
+      "path": "memory/2026-06-05.md",
+      "startLine": 1,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "- [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-06-05 — SKIPPED (no qualifying trends >8/10; Reddit fetch blocked; catalog saturated) - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 11:08 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron)",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4495498210191726,
+      "maxScore": 0.4495498210191726,
+      "firstRecalledAt": "2026-06-05T15:58:51.612Z",
+      "lastRecalledAt": "2026-06-05T15:58:51.612Z",
+      "queryHashes": [
+        "82fdafde1a82"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "8/10",
+        "marketbot",
+        "scan",
+        "cron",
+        "trendscout",
+        "skipped",
+        "qualifying",
+        "trends"
+      ]
+    },
+    "memory:memory/2026-06-04.md:1:23": {
+      "key": "memory:memory/2026-06-04.md:1:23",
+      "path": "memory/2026-06-04.md",
+      "startLine": 1,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "- [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] TrendScout 2026-06-04 — SKIPPED (no qualifying trends >8/10) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 11:06 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) --- 2026-06-05 03:00 UTC: Mitt",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.44327070116996764,
+      "maxScore": 0.44327070116996764,
+      "firstRecalledAt": "2026-06-05T15:58:51.612Z",
+      "lastRecalledAt": "2026-06-05T15:58:51.612Z",
+      "queryHashes": [
+        "82fdafde1a82"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "8/10",
+        "marketbot",
+        "scan",
+        "cron",
+        "scanner",
+        "delivered",
+        "trendscout",
+        "skipped"
+      ]
+    },
+    "memory:memory/2026-06-03.md:1:37": {
+      "key": "memory:memory/2026-06-03.md:1:37",
+      "path": "memory/2026-06-03.md",
+      "startLine": 1,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "- [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 11:16 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) ## 🔒 Mitty Security Audit — 2026-06-03 23:00 EDT **Status:** ⚠️ 3 CRITICAL · 3 WARN · 1 INFO ### OpenClaw Security Audit Results - **CRITI",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4376244187355041,
+      "maxScore": 0.4376244187355041,
+      "firstRecalledAt": "2026-06-05T15:58:51.612Z",
+      "lastRecalledAt": "2026-06-05T15:58:51.612Z",
+      "queryHashes": [
+        "82fdafde1a82"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "marketbot",
+        "scanner",
+        "delivered",
+        "scan",
+        "cron",
+        "pdf",
+        "pipeline",
+        "full"
       ]
     }
   }
