@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "date": "2026-06-07",
+  "trends": [
+    {
+      "trend_id": "cat-aggressive-vet-2026-06-07",
+      "slug_candidate": "stress-free-cat-vet-visit",
+      "slug": "stress-free-cat-vet-visit_v1",
+      "product_direction": "The Stress-Free Vet Visit: A Cat Owner's Guide to Calm Carrier Training, Pre-Visit Sedation Options, and At-Home Vet Alternatives",
+      "source": "Reddit r/Pets",
+      "url": "https://www.reddit.com/r/Pets/comments/o6g4ba/cat_becomes_extremely_aggressive_at_the_vet/",
+      "raw_quote": "He is so aggressive at the vet that they can't do anything with him. And his vet does everything... He can be in the room for about an hour, and will still be aggressive toward anyone and everyone that tries to come in contact with him. It's so frustrating because he's really affectionate and calm at home.",
+      "pain_point": "Cat becomes extremely aggressive at the vet, making routine care impossible",
+      "niche": "CatAdvice",
+      "score": 9,
+      "score_breakdown": {
+        "urgency": 3,
+        "frequency": 3,
+        "solvability": 3
+      },
+      "solvable_in_guide": true
+    }
+  ],
+  "summary": "1 of 1 trend passed scoring threshold (>=8/10). Proceeding with stress-free-cat-vet-visit."
+}
