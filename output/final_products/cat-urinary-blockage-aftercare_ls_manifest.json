@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Cat Urinary Blockage Aftercare: The Owner's Field Guide",
+    "slug": "cat-urinary-blockage-aftercare",
+    "description": "A comprehensive guide to cat urinary blockage aftercare.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "cat-urinary-blockage-aftercare.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/cat-urinary-blockage-aftercare_v1.pdf",
+      "size_bytes": 42014
+    },
+    {
+      "name": "cat-urinary-blockage-aftercare_CHECKLIST.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/cat-urinary-blockage-aftercare_v1_CHECKLIST.pdf",
+      "size_bytes": 21704
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/cat-urinary-blockage-aftercare",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Cat Urinary Blockage Aftercare: The Owner's Field Guide",
+    "3. Slug: cat-urinary-blockage-aftercare",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - cat-urinary-blockage-aftercare_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/cat-urinary-blockage-aftercare"
+  ]
+}

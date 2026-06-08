@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-08",
+  "status": "PROCEED",
+  "trends": [
+    {
+      "slug": "cat-urinary-blockage-aftercare",
+      "trend_name": "Cat Urinary Blockage Aftercare & Prevention",
+      "source": "r/CatAdvice + r/CatHelp",
+      "raw_quote": "My cat has urinary blockage and we can't afford the treatment. I just can't decide what to do.",
+      "pain_point": "Cat owners face life-threatening urinary blockage emergencies costing $2,000-5,000+, with 28-58% recurrence rate and zero clear guidance on post-surgery care, prescription food choices, and early warning signs to prevent repeat emergency.",
+      "conviction": 9,
+      "can_solve_10page": true,
+      "justification": "Solvable in 10-page guide: early signs checklist, at-home monitoring, prescription food guide, environmental tweaks, vet communication template, warning signs requiring ER vs wait"
+    },
+    {
+      "slug": "4-month-sleep-regression-survival",
+      "trend_name": "4-Month Sleep Regression Survival Guide",
+      "source": "r/NewParents",
+      "raw_quote": "I just can't deal with the randomness of sleep regression. I feel like we have a newborn baby again: we don't understand why she's crying, can't figure out how to comfort her, don't know how to soothe her to sleep, don't understand her cues.",
+      "pain_point": "Parents of 4-month-olds hit a sudden sleep regression with no predictable pattern, leaving them exhausted, confused about cues, unsure how to soothe, and resetting all prior sleep progress.",
+      "conviction": 8.5,
+      "can_solve_10page": true,
+      "justification": "Solvable in 10-page guide: what's actually happening developmentally, soothing techniques, environment tweaks, schedule adjustments, when to worry vs ride it out"
+    },
+    {
+      "slug": "water-damage-claim-denied",
+      "trend_name": "When Your Water Damage Claim Gets Denied",
+      "source": "Quora + legal blogs",
+      "raw_quote": "Dealing with water damage in your property can be an arduous experience, especially when your insurance claim gets denied. It's a situation that often leaves homeowners feeling helpless and stressed.",
+      "pain_point": "Homeowners discover too late that water damage from sewer backups and gradual leaks is excluded from standard policies, leaving them with massive repair bills and no clear path to appeal or recover costs.",
+      "conviction": 8,
+      "can_solve_10page": true,
+      "justification": "Solvable in 10-page guide: what standard policies exclude, how to file an appeal, documenting evidence, public adjuster vs lawyer, alternative funding sources"
+    }
+  ]
+}
