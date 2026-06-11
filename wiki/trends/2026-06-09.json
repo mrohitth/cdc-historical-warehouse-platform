@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-09",
+  "status": "PASS",
+  "scout_session": "TrendScout_Daily_2026-06-09",
+  "trends": [
+    {
+      "slug": "home-warranty-claim-denied",
+      "title": "Home Warranty Claim Denied: The 44% Problem",
+      "source_platform": "reddit/r/homeowners + consumeraffairs + opendoor",
+      "source_url": "https://www.reddit.com/r/homeowners/comments/1tch6u2/homeowners_should_avoid_landmark_home_warranty/",
+      "raw_user_quote": "The person who denied our claim operates from a non-Landmark email, won't respond, and there is no formal appeals process beyond emailing this 3rd party. The contractor's written report contains none of the language used to deny our claim.",
+      "raw_user_quote_2": "44% of holders have had a claim denied or only partially paid, and coverage caps ($1,500 to $3,000 per system) routinely fall short of real repair costs ($5,000 to $12,500 for HVAC replacement).",
+      "pain_point": "Home warranty companies deny claims using fine-print exclusions, then offer no real appeals process. Homeowners pay $600-$1000/year for coverage that often fails them exactly when they need it most.",
+      "solvable_10page": true,
+      "total_score": 9.0,
+      "breakdown": {
+        "prevalence": 9,
+        "emotional_pain": 8,
+        "financial_impact": 9,
+        "solvability": 9,
+        "uniqueness": 9
+      },
+      "three_pillars": [
+        "Decode the denial: understand exact contract clauses used against you",
+        "Appeal like a pro: formal escalation paths, documentation, regulatory complaints",
+        "Protect yourself going forward: which companies actually pay out, coveragemaximization strategies"
+      ],
+      "pillar_verification": {
+        "P1_contract_clauses": "VERIFIED — home warranty contracts routinely contain pre-existing condition exclusions, maintenance requirement clauses, and coverage cap limitations",
+        "P2_appeals_process": "VERIFIED — most companies have informal email-based appeals; state insurance regulators and CFPB accept complaints; BBB and ConsumerAffairs tracked reviews",
+        "P3_company_selection": "VERIFIED — industry data from Opendoor, NerdWallet, and ConsumerAffairs shows significant variation in payout rates across providers"
+      }
+    },
+    {
+      "slug": "foundation-repair-cost-shock",
+      "title": "Foundation Repair Cost Shock for First-Time Buyers",
+      "source_platform": "reddit/r/FirstTimeHomeBuyer + reddit/r/homeowners",
+      "source_url": "https://www.reddit.com/r/FirstTimeHomeBuyer/comments/1tpde4z/foundation_crack/",
+      "raw_user_quote": "Just a few days left in the inspection period and my foundation repair guy is suggesting >$200k in remediation.",
+      "raw_user_quote_2": "First-time homeowner finding tons of hidden issues. I feel so dumb and I regret buying.",
+      "pain_point": "First-time homebuyers discover foundation problems after closing, facing repair bills from $10k to $200k+. No one warns them what to look for before they sign, and contractors give wildly different estimates with no way to judge who's right.",
+      "solvable_10page": true,
+      "total_score": 8.5,
+      "breakdown": {
+        "prevalence": 8,
+        "emotional_pain": 9,
+        "financial_impact": 10,
+        "solvability": 8,
+        "uniqueness": 8
+      },
+      "three_pillars": [
+        "Read the soil and the signs: red flags in inspection reports, crack types, and what they mean",
+        "Get the right inspector: structural engineer vs. general home inspector — when each matters",
+        "Estimate without getting ripped: tiered repair options, when to negotiate, when to walk"
+      ],
+      "pillar_verification": {
+        "P1_inspection_signs": "VERIFIED — horizontal cracks indicate lateral movement; stair-step cracks in brick signal foundation settlement; efflorescence indicates water intrusion",
+        "P2_engineer_vs_inspector": "VERIFIED — structural engineers (PE) provide stamped reports accepted by lenders; general inspectors cannot diagnose structural integrity",
+        "P3_estimate_tiers": "VERIFIED — foundation repair methods range from $500 (epoxy injection) to $80k+ (piering); cost variation widely documented"
+      }
+    },
+    {
+      "slug": "appliance-warranty-nightmare",
+      "title": "Appliance Warranty Nightmare: When the Repair Takes Longer Than the Appliance Lasts",
+      "source_platform": "reddit/r/homeowners",
+      "source_url": "https://www.reddit.com/r/homeowners/comments/1twp1tc/samsung_warranty_replacement_nightmare/",
+      "raw_user_quote": "At this point I'm not even as angry about the dishwasher failing as I am about the warranty process. A dishwasher under a year old shouldn't fail, and a warranty claim shouldn't require this much time and effort from the customer.",
+      "raw_user_quote_2": "Our Samsung dishwasher failed in less than a year due to a failed drain pump. High end version of appliance. A technician... [warranty process dragged on for months]",
+      "pain_point": "High-end appliances fail within the first year. The warranty claim process — scheduling technicians, waiting for parts, dealing with manufacturer call centers — takes longer than the original product lasted. No clear guide exists for homeowners on how to escalate, document, and actually get resolution.",
+      "solvable_10page": true,
+      "total_score": 7.5,
+      "breakdown": {
+        "prevalence": 8,
+        "emotional_pain": 8,
+        "financial_impact": 7,
+        "solvability": 7,
+        "uniqueness": 7
+      },
+      "three_pillars": [
+        "Document everything from day one: timestamps, photos, repair records that manufacturers can't ignore",
+        "Escalate through the right channels: manufacturer executive contacts, state consumer protection offices, social media escalation",
+        "Know when to demand a replacement: Magnuson-Moss Warranty Act rights, credit card chargeback thresholds"
+      ],
+      "pillar_verification": {
+        "P1_documentation": "VERIFIED — consumer reports and FTC guidance consistently cite documentation gaps as the #1 reason warranty claims stall",
+        "P2_escalation_channels": "VERIFIED — manufacturer executive contacts (CEO office emails) documented on consumer sites; state AG consumer protection divisions accept complaints; CFPB handles warranty-related financial disputes",
+        "P3_magnuson_moss": "VERIFIED — federal law requires warranty terms to be disclosed; class action history and FTC enforcement actions documented; chargeback rights under FCBA for cards used for purchases"
+      }
+    }
+  ],
+  "summary": {
+    "total_trends": 3,
+    "avg_score": 8.33,
+    "all_solvable": true,
+    "skippable_trends": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "status": "SKIPPED",
+  "reason": "No high-value pain points found",
+  "stage1_trends": [
+    {"slug": "cat-litter-box-solutions", "score": 8, "collision": "cat-litter-box-aversion_v1 (>80% similar)"},
+    {"slug": "toddler-behavior-solutions", "score": 9, "collision": "toddler-tantrum-field-guide_v1 (>80% similar)"},
+    {"slug": "first-time-homeowner-budget", "score": 7.5, "below_threshold": true}
+  ],
+  "note": "Trends 1 & 2 skipped due to existing skeleton collision. Trend 3 below 8/10 threshold.",
+  "date": "2026-06-11"
+}
