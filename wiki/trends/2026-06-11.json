@@ -1,11 +1,24 @@
 {
-  "status": "SKIPPED",
-  "reason": "No high-value pain points found",
-  "stage1_trends": [
-    {"slug": "cat-litter-box-solutions", "score": 8, "collision": "cat-litter-box-aversion_v1 (>80% similar)"},
-    {"slug": "toddler-behavior-solutions", "score": 9, "collision": "toddler-tantrum-field-guide_v1 (>80% similar)"},
-    {"slug": "first-time-homeowner-budget", "score": 7.5, "below_threshold": true}
-  ],
-  "note": "Trends 1 & 2 skipped due to existing skeleton collision. Trend 3 below 8/10 threshold.",
-  "date": "2026-06-11"
+  "status": "REFRESHED",
+  "date": "2026-06-11",
+  "trends": [
+    {
+      "slug_candidate": "cat-litter-box-rescue-guide",
+      "product_direction": "Cat Litter Box Rescue Guide: Fix litter box avoidance, aversion, and不肯 use with this step-by-step home protocol",
+      "score": 9,
+      "collision": "cat-litter-box-aversion_v1 exists — using v1 draft as canonical"
+    },
+    {
+      "slug_candidate": "contractor-scam-protection-guide",
+      "product_direction": "Contractor Scam Protection Guide: How to verify contractors, protect deposits, and recover money when things go wrong",
+      "score": 9,
+      "collision": "none"
+    },
+    {
+      "slug_candidate": "new-cat-first-weeks-survival-guide",
+      "product_direction": "New Cat First Weeks Survival Guide: The complete first-month playbook — settling in, litter training, and preventing behavior problems",
+      "score": 9,
+      "collision": "none"
+    }
+  ]
 }

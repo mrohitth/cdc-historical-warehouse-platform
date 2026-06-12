@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-12",
+  "trends": [
+    {
+      "trend_name": "New Homeowner Maintenance Overwhelm",
+      "slug": "new-homeowner-maintenance-guide",
+      "score": 8.5,
+      "source_platforms": ["Reddit r/Homeowners", "Reddit r/HomeMaintenance", "Reddit r/HomeImprovement"],
+      "raw_quotes": [
+        {
+          "quote": "I now am feeling overwhelmed by everything I don't/didn't know. I have found a few home maintenance lists, but even then I don't know where to start.",
+          "source": "r/HomeMaintenance",
+          "date": "2024-08-27",
+          "url": "https://www.reddit.com/r/HomeMaintenance/comments/1f2ij7p/we_have_done_almost_no_home_maintenance_in_the/"
+        },
+        {
+          "quote": "seeing all this at once can be completely overwhelming, especially if you're in your first house or don't have handy people around you to lean on",
+          "source": "r/homeowners",
+          "date": "2021-03-18",
+          "url": "https://www.reddit.com/r/homeowners/comments/m7uuy0/for_those_interested_heres_a_home_maintenance/"
+        },
+        {
+          "quote": "Overwhelmed is an understatement. Most maintenance is necessary... I now am feeling overwhelmed by everything I don't know.",
+          "source": "r/HomeImprovement",
+          "date": "2018-05-12",
+          "url": "https://www.reddit.com/r/HomeImprovement/comments/8isldk/home_maintenance_checklist/"
+        }
+      ],
+      "pain_points": [
+        "First-time homeowners don't know what maintenance tasks exist or which ones are urgent",
+        "Existing maintenance checklists are too generic — no seasonal priority system",
+        "No context for costs: when to DIY vs. hire vs. call a specialist",
+        "Preventive maintenance vs. corrective maintenance — homeowners don't know the difference",
+        "No system for tracking what's been done and when"
+      ],
+      "product_angle": "The First-Year Home Maintenance Playbook — a prioritized, seasonal guide that tells new homeowners exactly what to do, when, why, and what it costs",
+      "standalone_guide_feasible": true,
+      "ten_page_guide_notes": "Seasonal maintenance schedule (4 seasons), room-by-room priority checklist, DIY vs. call a pro decision tree, cost estimates for common tasks, tracking system template"
+    },
+    {
+      "trend_name": "Toddler Sleep Regression Survival",
+      "slug": "toddler-sleep-regression-survival",
+      "score": 8.0,
+      "source_platforms": ["Reddit r/toddlers", "Reddit r/Parenting"],
+      "raw_quotes": [
+        {
+          "quote": "We are 6 weeks into this regression and it's getting worse. He used to wake up every other night or every two nights and it's been every single night now this week. I also have sleep issues and I'm just really struggling. How long did this last for you? I don't know how much longer I can do this. I'm exhausted.",
+          "source": "r/toddlers",
+          "date": "2023-04-01",
+          "url": "https://www.reddit.com/r/toddlers/comments/128jy9n/help_20_month_sleep_problems/"
+        },
+        {
+          "quote": "sleep regressions. Without fail she'd wake up between midnight and 1am and just WOULD NOT GO BACK TO SLEEP. We always tried to get her back to sleep in her own bed, but out of exhaustion and desperation we'd always cave and bring her to our bed, which didn't even help!!",
+          "source": "r/toddlers",
+          "date": "2024-04-21",
+          "url": "https://www.reddit.com/r/toddlers/comments/1c9qsgb/tell_me_how_you_survived_your_2_year_olds_sleep/"
+        },
+        {
+          "quote": "I feel like hers stems from anxiety of being alone, it's like she just needs to see me a couple times a night to make sure I didn't leave. I am so tired and exhausted because of the lack of consistent sleep.",
+          "source": "r/toddlers",
+          "date": "2023-08-15",
+          "url": "https://www.reddit.com/r/toddlers/comments/15rmotn/need_to_hear_from_parents_who_survived_the_3_year/"
+        }
+      ],
+      "pain_points": [
+        "Previously-good sleeper toddler suddenly waking multiple times per night",
+        "Parents don't know if this is normal or how long it lasts",
+        "Exhausted parents are willing to try anything — high purchase intent",
+        "Existing resources are generic blog posts, not actionable guides"
+      ],
+      "product_angle": "The Toddler Sleep Regression Survival Guide — what to do nightly, how long it typically lasts, when to hold the line vs. adjust, and how to protect parental sanity",
+      "standalone_guide_feasible": true,
+      "ten_page_guide_notes": "Age-specific regression timelines, nighttime routine adjustments, when to ride it out vs. intervene, sanity-preservation tips for parents, early wake resolution"
+    }
+  ],
+  "status": "READY",
+  "high_value_trends": 2,
+  "top_trend": "new-homeowner-maintenance-guide"
+}
