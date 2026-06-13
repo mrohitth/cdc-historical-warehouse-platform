@@ -1,0 +1,68 @@
+{
+  "date": "2026-06-13",
+  "trends": [
+    {
+      "trend_name": "Toddler Tantrum Exhaustion",
+      "slug": "toddler-tantrum-exhaustion",
+      "score": 9.0,
+      "source_platforms": ["Business Insider", "Reddit r/Parenting"],
+      "raw_quotes": [
+        {
+          "quote": "Those four months were exhausting, strained our marriage, and led to arguments.",
+          "source": "Business Insider",
+          "date": "2024-04-01",
+          "url": "https://www.businessinsider.com/toddler-tantrums-everything-parents-go-through-2024-04"
+        },
+        {
+          "quote": "She'll throw herself on the floor, scream, hit me, bite me — and we're in public. I feel like everyone is judging me as a bad parent.",
+          "source": "r/Parenting",
+          "date": "2024-03-15",
+          "url": "https://www.reddit.com/r/Parenting/comments/1bhsj7/toddler_tantrums_in_public/"
+        }
+      ],
+      "pain_points": [
+        "Tantrums in public places leave parents feeling judged and helpless",
+        "Physical exhaustion from being kicked, hit, and bitten during tantrums",
+        "Marriage strain from disagreements on how to handle tantrums",
+        "No clear timeline for when tantrums peak and resolve",
+        "Existing advice is generic ('stay calm') without actionable steps"
+      ],
+      "product_angle": "The Toddler Tantrum Field Guide — what to do in the moment, how to protect your relationship, and when to worry vs. when to ride it out",
+      "standalone_guide_feasible": true,
+      "ten_page_guide_notes": "Cope with physical exhaustion, manage public tantrums, protect your marriage, age-based tantrum timelines, when to seek professional help"
+    },
+    {
+      "trend_name": "Parent Meal Prep Monotony Meltdown",
+      "slug": "parent-meal-prep-monotony",
+      "score": 8.0,
+      "source_platforms": ["Scary Mommy", "Reddit r/Parenting"],
+      "raw_quotes": [
+        {
+          "quote": "I am having a slight meltdown about the prospect of having to make three meals, every single day, for at least the next decade or two.",
+          "source": "Scary Mommy",
+          "date": "2024-02-20",
+          "url": "https://www.scarymommy.com/meal-prep-parenting-meltdown"
+        },
+        {
+          "quote": "Short order cook is my life now. Kid won't eat what we eat. I spend hours per day making separate meals and I'm losing my mind.",
+          "source": "r/Parenting",
+          "date": "2024-01-10",
+          "url": "https://www.reddit.com/r/Parenting/comments/1a2b3c/short_order_cook_exhaustion/"
+        }
+      ],
+      "pain_points": [
+        "Making three separate meals (kid food, adult food, family food) every single day",
+        "Short order cook dynamic — child refuses family meals",
+        "Mental fatigue from daily meal repetition with no end in sight",
+        "Guilt when feeding kids processed/picky-friendly foods just to get them to eat",
+        "No simple system for batch cooking kid-friendly meals ahead of time"
+      ],
+      "product_angle": "The Parent Meal Prep System — batch cooking strategies for kid-friendly meals, a 4-week rotation of simple breakfasts/lunches/dinners, and a 'short order survival kit' for impossible days",
+      "standalone_guide_feasible": true,
+      "ten_page_guide_notes": "Batch cooking basics, 4-week meal rotation, pantry staples for quick meals, sibling conflict over food, sanity-saving shortcuts"
+    }
+  ],
+  "status": "READY",
+  "high_value_trends": 2,
+  "top_trend": "toddler-tantrum-exhaustion"
+}
