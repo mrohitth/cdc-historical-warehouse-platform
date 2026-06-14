@@ -1,0 +1,51 @@
+{
+  "date": "2026-06-14",
+  "trends": [
+    {
+      "trend_name": "Family Schedule Chaos",
+      "slug": "family-schedule-survival-system",
+      "score": 8.0,
+      "source_platforms": ["Reddit r/Parenting", "Reddit r/productivity"],
+      "raw_quotes": [
+        {
+          "quote": "I got tired of being the only one keeping track. I just stuck an old android tablet on the wall with Google Calendar in fullscreen. Not perfect, but at least everyone glances at it now instead of asking me 20 times what's happening today.",
+          "source": "r/Parenting",
+          "date": "2025-10-10",
+          "url": "https://www.reddit.com/r/Parenting/comments/1o2od2r/anyone_else_tired_of_juggling_kids_schedules/"
+        },
+        {
+          "quote": "What helped our family is a big weekly run down on Sunday. And every night we go over the next day's plans like a 'speak now or forever hold your peace' — this is where they put in any last minute changes.",
+          "source": "r/Parenting",
+          "date": "2025-10-30",
+          "url": "https://www.reddit.com/r/Parenting/comments/1ok6jaa/dealing_with_total_schedule_chaos_in_our_family/"
+        },
+        {
+          "quote": "My husband can upload his work schedule so I know when he'll be home. Also dr appointments, school classes and activities. It also has a meal planning feature, is colour coded for each person, and a chore chart for kids.",
+          "source": "r/productivity",
+          "date": "2025-07-07",
+          "url": "https://www.reddit.com/r/productivity/comments/1ltznfl/parents_of_reddit_how_do_you_stay_organized_as_a/"
+        }
+      ],
+      "pain_points": [
+        "One parent bears entire mental load of tracking all activities",
+        "Kids constantly asking 'what's happening today' because they can't see the schedule",
+        "Last-minute changes and conflicts that derail the whole week",
+        "No shared visibility across both parents, school, and activities",
+        "Over-scheduling: multiple activities per evening leaves no downtime"
+      ],
+      "product_angle": "The Family Schedule Survival System — a simple analog+digital hybrid that keeps every family member on the same page without another subscription",
+      "standalone_guide_feasible": true,
+      "ten_page_guide_notes": "Weekly review ritual, shared visible calendar system, how to distribute schedule ownership to kids, handling last-minute changes, over-scheduling triage"
+    }
+  ],
+  "status": "READY",
+  "high_value_trends": 1,
+  "top_trend": "family-schedule-survival-system",
+  "skipped_trends": [
+    {
+      "trend_name": "Cat Emergency Vet Cost Crisis",
+      "slug": "cat-vet-cost-crisis",
+      "reason": "SKIP — >80% similar to existing cat-health-cost-planning-guide_v1_SKELETON.md (same topic: cat owner financial planning for vet costs, emergency funds, insurance literacy)"
+    }
+  ]
+}
