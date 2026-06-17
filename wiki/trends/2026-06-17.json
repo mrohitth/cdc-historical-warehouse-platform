@@ -1,0 +1,131 @@
+{
+  "date": "2026-06-17",
+  "status": "READY",
+  "trends": [
+    {
+      "rank": 1,
+      "slug": "cat-insurance-worth-it",
+      "title": "Cat Owners Can't Figure Out If Pet Insurance Is Actually Worth It",
+      "source": "r/CatAdvice, r/petinsurancereviews, r/Pets",
+      "raw_quotes": [
+        {
+          "quote": "Anything over 8-9 is considered geriatric and the cost of insurance skyrockets. I have an... ASPCA for my 2 oldest cats. Won't cover illnesses but it will at least help with random injuries.",
+          "author": "reddit_user",
+          "source": "r/CatAdvice"
+        },
+        {
+          "quote": "Yes! I tried seeing what it would have been if he had been like 2 and it took nearly 500 off! Gosh how frustrating",
+          "author": "reddit_user",
+          "source": "r/CatAdvice"
+        },
+        {
+          "quote": "Maybe I'm misunderstanding something about it or am looking at the wrong spots. It seems like even with pet insurance, you...",
+          "author": "reddit_user",
+          "source": "r/Pets"
+        }
+      ],
+      "pain_points": [
+        "Cat owners can't calculate whether monthly premiums beat out-of-pocket vet costs",
+        "Insurance jargon (reimbursement rates, deductibles, coverage caps) confuses first-time buyers",
+        "Pre-existing condition exclusions catch owners off guard",
+        "Premium increases after age 8-9 make insurance feel pointless",
+        "No clear comparison resource for different providers"
+      ],
+      "pain_severity": 9,
+      "market_volume": 8,
+      "actionability": 8,
+      "total_score": 8.3,
+      "standalone_guide_viable": true,
+      "guide_focus": "Cat Insurance Math - Help owners calculate ROI, compare top 5 providers, understand coverage gotchas, and make informed decisions based on their cat's age and health profile"
+    },
+    {
+      "rank": 2,
+      "slug": "indoor-cat-boredom-fix",
+      "title": "Indoor Cats Are Bored And Destructive - Owners Don't Know How To Fix It",
+      "source": "r/CatAdvice, The Guardian, r/Pets",
+      "raw_quotes": [
+        {
+          "quote": "A bored cat is a destructive cat",
+          "author": "Multiple cat experts via The Guardian",
+          "source": "The Guardian"
+        },
+        {
+          "quote": "Depressed cats sleep 22 hours and still look tired. Like they gave up. Eyes look empty.",
+          "author": "Cat behavior article",
+          "source": "meowkats.com"
+        },
+        {
+          "quote": "I am so bored my brain hurts",
+          "author": "Cat behavior article describing feline depression",
+          "source": "meowkats.com"
+        },
+        {
+          "quote": "Things like knocking items off tables, scratching furniture, chewing on objects, or persistently seeking attention can all be a cat's way of saying, 'I'm bored and I need more to do'",
+          "author": "Stephanie Merlin, certified cat behavior specialist",
+          "source": "The Guardian"
+        },
+        {
+          "quote": "Choosing the wrong cat scratcher can lead to scratched furniture, frustrated owners, and an unhappy cat",
+          "author": "AnimalsPick review site",
+          "source": "AnimalsPick.com"
+        }
+      ],
+      "pain_points": [
+        "Indoor cats develop destructive behaviors due to boredom (scratching furniture, knocking objects)",
+        "Owners mistake behavioral problems for 'bad cats' rather than recognizing boredom/depression",
+        "No clear guide on what enrichment actually works vs. gimmick products",
+        "owners don't know how to introduce enrichment without overwhelming themselves",
+        "Food puzzles and interactive feeders are underutilized"
+      ],
+      "pain_severity": 7,
+      "market_volume": 9,
+      "actionability": 8,
+      "total_score": 8.0,
+      "standalone_guide_viable": true,
+      "guide_focus": "Cat Enrichment Starter Guide - Specific activities, affordable enrichment products ranked by effectiveness, and a 30-day enrichment plan to transform a destructive cat"
+    },
+    {
+      "rank": 3,
+      "slug": "water-damage-insurance-guide",
+      "title": "Homeowners Face Water Damage And Don't Know The Insurance Claim Process",
+      "source": "r/homeowners, r/Insurance, r/askTO",
+      "raw_quotes": [
+        {
+          "quote": "whether the asbestos tests come back positive or not could be a major deciding factor since a positive test just adds to the work/cost",
+          "author": "reddit_user",
+          "source": "r/homeowners"
+        },
+        {
+          "quote": "The goal of the claims process is that you are out of pocket no more and no less than your deductible",
+          "author": "reddit_user",
+          "source": "r/Insurance"
+        },
+        {
+          "quote": "A lot of homeowners policies draw a line between sudden water damage and long-term seepage, even if the leak was hidden",
+          "author": "reddit_user",
+          "source": "r/Insurance"
+        },
+        {
+          "quote": "Not sure how to proceed with water damage repair/remediation",
+          "author": "reddit_user",
+          "source": "r/homeowners"
+        }
+      ],
+      "pain_points": [
+        "Hidden water damage discovered (seepage vs sudden damage distinction matters for coverage)",
+        "Asbestos testing complicates remediation decisions",
+        "Insurance company and agent roles confused",
+        "Don't know whether to file claim or handle out of pocket",
+        "Finding reputable remediation contractors"
+      ],
+      "pain_severity": 8,
+      "market_volume": 6,
+      "actionability": 7,
+      "total_score": 7.0,
+      "standalone_guide_viable": true,
+      "guide_focus": "Water Damage Claim Playbook - Step-by-step process for documenting damage, understanding coverage distinctions, working with contractors, and maximizing fair claims payout"
+    }
+  ],
+  "scouting_notes": "Pet insurance confusion is hottest topic across cat communities. Indoor cat boredom is consistent frustration with clear expert validation. Water damage claims are stressful but lower volume. Top 2 trends score above 8/10 threshold - proceeding to Stage 2.",
+  "pipeline_decision": "PROCEED"
+}
