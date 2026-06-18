@@ -1,0 +1,66 @@
+{
+  "date": "2026-06-18",
+  "status": "PROCEED",
+  "trends": [
+    {
+      "trend_id": "potty-regression-new-baby-001",
+      "slug_candidate": "potty-regression-new-sibling",
+      "product_direction": "Potty Regression After a New Baby: The Parent's Reset Guide",
+      "product_price": 1499,
+      "source": "r/Parenting (Reddit)",
+      "source_url": "https://www.reddit.com/r/Parenting/comments/1prksyh/new_baby_and_potty_training_regression_in_toddler/",
+      "raw_quote": "My oldest regressed when her sister was born. There was a lot of other stuff going on with our family at the time so it's not surprising. What worked was just completely dropping the rope.",
+      "problem_summary": "Toddler regresses in potty training after a new baby arrives, leaving parents exhausted and unsure how to respond without making it worse.",
+      "pain_points": [
+        "Parents unsure if regression is a phase or something requiring intervention",
+        "Adding a new baby disrupts the older child's routine, triggering setbacks",
+        "Common advice to 'just ignore it' lacks actionable steps",
+        "Parents feel guilty focusing energy on newborn while older child struggles"
+      ],
+      "can_guide_solve_this": true,
+      "guide_approach": "Distinguish normal developmental regression from deeper anxiety; provide a step-by-step reset protocol that doesn't add parent burden; address the emotional component for the older child.",
+      "total_score": 9,
+      "conviction": 9,
+      "search_volume": 7,
+      "commercial_viability": 10
+    },
+    {
+      "trend_id": "cat-litter-box-aversion-001",
+      "source": "Quora / Cornell Feline Health Center",
+      "source_url": "https://www.quora.com/Can-adding-another-litter-box-help-with-a-cat-peeing-outside-their-litter-box-or-will-it-just-confuse-them-more",
+      "raw_quote": "For every cat you have, you should ideally have a litter box plus one extra. Keeping the litter boxes clean is crucial. If a cat is peeing outside their litter box, it could be that they find the box too dirty to do their 'business' in.",
+      "problem_summary": "Cat stops using the litter box, owner faces constant cleanup, emotional toll, and risk of surrender — with no clear diagnostic path to solutions.",
+      "pain_points": [
+        "Owners don't know if it's medical (UTI) or behavioral",
+        "Standard advice ('more boxes') doesn't address the root cause",
+        "Frustration leads to rehoming or surrender decisions",
+        "Contradictory advice online leaves owners more confused"
+      ],
+      "can_guide_solve_this": true,
+      "guide_approach": "Systematic elimination diagnostic: vet check first, then environmental triggers, litter type, box placement, stress factors. Provide a decision tree and a 7-day reset plan.",
+      "total_score": 8,
+      "conviction": 8,
+      "search_volume": 10,
+      "commercial_viability": 9
+    },
+    {
+      "trend_id": "new-homeowner-overwhelm-001",
+      "source": "r/homeowners (Reddit)",
+      "source_url": "https://www.reddit.com/r/homeowners/comments/1p0nt8s/how_do_you_keep_up_with_routine_home_maintenance/",
+      "raw_quote": "I bought a new (literally) house, thinking I'd not have to worry about maintenance…. Our first major repair in our home coming with major anxiety.",
+      "problem_summary": "New homeowners don't know what maintenance tasks to do, when, or how — leading to expensive emergency repairs and constant anxiety about missing something critical.",
+      "pain_points": [
+        "No one teaches what seasonal maintenance tasks actually matter",
+        "Small issues escalate into expensive repairs because owners don't know warning signs",
+        "Overwhelmed by conflicting advice on what to prioritize",
+        "No clear system to track what's been done vs. what's coming due"
+      ],
+      "can_guide_solve_this": true,
+      "guide_approach": "Seasonal maintenance calendar with task-specific explanations of why each matters, cost of ignoring, and how to do basic checks. Including a printable/saveable maintenance tracker.",
+      "total_score": 8,
+      "conviction": 7,
+      "search_volume": 8,
+      "commercial_viability": 9
+    }
+  ]
+}

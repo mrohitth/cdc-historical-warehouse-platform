@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Potty Regression After a New Baby",
+    "slug": "potty-regression-new-sibling",
+    "description": "A comprehensive guide to potty regression new sibling.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "potty-regression-new-sibling.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/potty-regression-new-sibling_v1.pdf",
+      "size_bytes": 45683
+    },
+    {
+      "name": "potty-regression-new-sibling_CHECKLIST.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/potty-regression-new-sibling_v1_CHECKLIST.pdf",
+      "size_bytes": 19996
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/potty-regression-new-sibling",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Potty Regression After a New Baby",
+    "3. Slug: potty-regression-new-sibling",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - potty-regression-new-sibling_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/potty-regression-new-sibling"
+  ]
+}
