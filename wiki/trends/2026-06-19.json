@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-19",
+  "status": "PROCEED",
+  "trends": [
+    {
+      "trend_id": "screen-time-ending-tantrums-001",
+      "slug_candidate": "screen-time-boundary-system",
+      "product_direction": "The Screen Time Reset: A Parent's No-Battle System for Ending Tantrums",
+      "product_price": 1499,
+      "source": "r/Parenting (Reddit)",
+      "source_url": "https://www.reddit.com/r/Parenting/comments/1kr9day/how_do_you_begin_to_limit_screen_time_when_your/",
+      "raw_quote": "Now you're a week deep in hours of screen time a day and they're super cranky when you try to take them off it. And life. Just. Keeps. Coming.",
+      "problem_summary": "Parents who allowed unlimited screen time during a rough period now face daily meltdowns when trying to set boundaries. No clear path to reset without guilt or chaos.",
+      "pain_points": [
+        "Children accustomed to unlimited screen time have extreme tantrums when limits are enforced",
+        "Parents feel guilty for having allowed the situation to develop",
+        "Cold turkey approach backfires with prolonged tantrums and family stress",
+        "No clear system for gradually resetting expectations without battle"
+      ],
+      "can_guide_solve_this": true,
+      "guide_approach": "Step-by-step reset protocol that replaces screen time with engaging alternatives. Includes transition rituals, warning systems, and a reward structure that doesn't rely on extending screen time as leverage.",
+      "total_score": 9,
+      "conviction": 9,
+      "search_volume": 8,
+      "commercial_viability": 9
+    },
+    {
+      "trend_id": "cat-aggression-biting-001",
+      "slug_candidate": "cat-aggression-biting-guide",
+      "product_direction": "When Cats Bite: A Practical Guide to Understanding and Stopping Cat Aggression",
+      "product_price": 1499,
+      "source": "r/Pets (Reddit)",
+      "source_url": "https://www.reddit.com/r/Pets/comments/1echt0/aggressive_cat_coming_down_to_euthanasia_or_a/",
+      "raw_quote": "I'm almost 70 years old and I don't know how many more bites or slaps I can handle before I end up with a bad infection from it. It gets very frustrating over it.",
+      "problem_summary": "Cat owners facing unprovoked biting and attacks from their cats, ranging from love bites to serious wounds. Some owners consider euthanasia or rehoming as last resort.",
+      "pain_points": [
+        "Cat attacks happen without clear warning signs",
+        "Owners don't know if aggression is play, fear, or redirected behavior",
+        "Medical causes (pain, thyroid, neurological) often overlooked",
+        "Dangerous for elderly owners or families with young children"
+      ],
+      "can_guide_solve_this": true,
+      "guide_approach": "Diagnostic framework to identify aggression type (play, fear, petting-induced, territorial). Step-by-step behavior modification protocol. When to vet, when to separate, environmental modifications. Realistic expectations for timeline.",
+      "total_score": 8,
+      "conviction": 8,
+      "search_volume": 8,
+      "commercial_viability": 8
+    },
+    {
+      "trend_id": "morning-school-routine-chaos-001",
+      "slug_candidate": "morning-school-routine-survival",
+      "product_direction": "School Morning Sanity: A Practical System for Getting Kids Out the Door Without Chaos",
+      "product_price": 1499,
+      "source": "r/Parenting (Reddit)",
+      "source_url": "https://www.reddit.com/r/Parenting/comments/1rkj5q6/my_sons_early_morning_school_days_are_the_death/",
+      "raw_quote": "Start everyday in absolute chaos and I hate my life. It's dark, cold, they lie and tell me they are awake, they go back to bed, I scream, I'm late for work.",
+      "problem_summary": "Parents of school-age children face daily battles getting kids out of bed and ready on time. Dark winter mornings make it worse. Parents start each day stressed and arrive at work already drained.",
+      "pain_points": [
+        "Children won't wake up or stay awake despite multiple attempts",
+        "Parents resort to yelling, which damages morning tone",
+        "No reliable system for kids to manage own morning tasks",
+        "Winter darkness make wake-ups significantly harder"
+      ],
+      "can_guide_solve_this": true,
+      "guide_approach": "Visual morning routine charts by age, wake-up light systems,前一晚 prep checklist, accountability systems that work without parent hovering. Includes winter morning survival tips.",
+      "total_score": 8,
+      "conviction": 8,
+      "search_volume": 7,
+      "commercial_viability": 8
+    }
+  ]
+}
