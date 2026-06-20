@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-20",
+  "status": "complete",
+  "trends": [
+    {
+      "id": "trend-2026-06-20-001",
+      "slug_candidate": "new-homeowner-maintenance-guide",
+      "product_direction": "First-Year Home Maintenance Playbook: Everything your first home needs. Nothing it doesn't.",
+      "platform": "Reddit r/Homeowners / r/FirstTimeHomeBuyer",
+      "raw_quote": "I now am feeling overwhelmed by everything I don't/didn't know. I have found a few home maintenance lists, but even then I don't know where to start.",
+      "problem_statement": "First-time homeowners inherit a property and face a running list of tasks with zero context for what matters, what can wait, and what will cost thousands if ignored. Generic checklists exist but assume baseline knowledge they don't have.",
+      "total_score": 9.0,
+      "pain_points": [
+        "Information overload without priority — 200+ tasks with no sense of urgency",
+        "No cost context — $20 DIY fix vs $5,000 emergency invisible until it hits",
+        "No DIY vs. professional decision framework — decision paralysis on every repair",
+        "No tracking system — do it once and forget when it needs doing again"
+      ],
+      "product_idea": "A 10-page prioritized guide with seasonal breakdown, cost-context decision tree, and tracking system. Not a generic checklist — a system that tells first-year homeowners what matters most.",
+      "verdict": "PROCEED",
+      "reason": "High conviction (9.0/10). Existing draft and PDFs in final_products. Proven product with completed skeleton, draft, distribution, and PDFs."
+    }
+  ]
+}
