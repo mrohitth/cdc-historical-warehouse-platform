@@ -1,0 +1,136 @@
+{
+  "date": "2026-06-21",
+  "stage1_status": "COMPLETE",
+  "trends": [
+    {
+      "id": "cat-spraying-fixed-female-2026",
+      "slug": "stop-female-cat-spraying",
+      "title": "Stop Fixed Female Cat Spraying: The Complete Troubleshooting Guide",
+      "category": "cat-behavior",
+      "sources": [
+        {"platform": "reddit", "subreddit": "r/CatAdvice", "url": "https://www.reddit.com/r/CatAdvice/comments/1sl8dfv/my_female_cat_wont_stop_spraying_shes_fixed_and/", "date": "2026-04-14"},
+        {"platform": "reddit", "subreddit": "r/CatAdvice", "url": "https://www.reddit.com/r/CatAdvice/comments/1kaumth/girl_cat_wont_stop_spraying_losing_my_mind/", "date": "2025-04-29"},
+        {"platform": "reddit", "subreddit": "r/CatAdvice", "url": "https://www.reddit.com/r/CatAdvice/comments/18fveee/my_cat_wont_stop_spraying/", "date": "2023-12-11"},
+        {"platform": "reddit", "subreddit": "r/CatAdvice", "url": "https://www.reddit.com/r/CatAdvice/comments/1ixridr/my_cat_wont_stop_spraying_in_the_house_and_its/", "date": "2025-02-25"},
+        {"platform": "reddit", "subreddit": "r/CatTraining", "url": "https://www.reddit.com/r/CatTraining/comments/1g4si72/cat_peeingpooping_outside_the_box_spraying/", "date": "2024-10-16"}
+      ],
+      "raw_quotes": [
+        {
+          "quote": "She gets into things she knows she's not allowed to and takes everyone's food if you're not watching at all times. She's territorial and will swat at the other cats or jump on them to get them out of a spot if she wants in it. In the past year she has started spraying, and I mean all over.",
+          "source": "r/CatAdvice, April 2026"
+        },
+        {
+          "quote": "My girl cat, about to turn 2 has become a habitual sprayer. She's been spayed since before her first heat, and has...",
+          "source": "r/CatAdvice, April 2025"
+        },
+        {
+          "quote": "Yes she's spayed and we've gotten multiple vet opinions — they all say she is healthy and even the smallest problems we get taken care of quickly for her in case it somehow had anything to do with the spraying but nothing's ever changed.",
+          "source": "r/CatAdvice, July 2022"
+        },
+        {
+          "quote": "I had a behavioural therapist come by and she says to keep adding more litterboxes which I've done. When he sprays I clean it with a specialised urine cleaner the behavioural therapist recommended.",
+          "source": "r/CatTraining, October 2024"
+        },
+        {
+          "quote": "Sounds crazy but, putting the cat on Prozac and re litter training will help. I had a boy cat who started spraying due to stress, Prozac and safe confined room did him wonders.",
+          "source": "r/CatAdvice, February 2025"
+        }
+      ],
+      "pain_point": "Owners of spayed female cats whose cats spray inside the home despite being fixed. Vet visits confirm health. Owners feel desperate, embarrassed by home odor, and some consider rehoming.",
+      "total_score": 9,
+      "score_breakdown": {
+        "emotional_pain": 3,
+        "financial_impact": 2,
+        "market_size": 2,
+        "solution_clarity": 2
+      },
+      "standalone_guide_feasible": true,
+      "standalone_guide_rationale": "Solutions are well-documented and implementable: vet ruling, litter box setup, pheromones, Prozac intervention, environmental management. All fit within a 10-page guide.",
+      "status": "PASS",
+      "skip_reason": null
+    },
+    {
+      "id": "new-homeowner-repair-overwhelm-2026",
+      "slug": "new-homeowner-repair-stress",
+      "title": "First-Year Home Repair Triage: What to Fix First and How",
+      "category": "homeowners",
+      "sources": [
+        {"platform": "reddit", "subreddit": "r/Homeowners", "url": "https://www.reddit.com/r/homeowners/comments/1pbgkj5/drowning_in_repairs_maintenance/", "date": "2025-12-01"},
+        {"platform": "quora", "url": "https://www.quora.com/Im-a-new-homeowner-and-I-know-nothing-about-how-houses-work-Where-do-I-start", "date": null},
+        {"platform": "reddit", "subreddit": "r/Homeowners", "url": "https://www.reddit.com/r/homeowners/comments/1j9jpwo/feeling_overwhelmed_and_lost_after_buying_my/", "date": "2025-03-12"}
+      ],
+      "raw_quotes": [
+        {
+          "quote": "Everything keeps breaking! one thing after another — the drawer freezers on the fridge kept icing over and we had to turn it off, de-ice the whole thing.",
+          "source": "r/Homeowners, December 2025"
+        },
+        {
+          "quote": "I always fear I'm doing something wrong, mainly because there are so many little details that need to be followed and I worry I will screw it up and cause more problems later.",
+          "source": "r/Homeowners, 2018"
+        },
+        {
+          "quote": "I had a friend tell me to expect to spend $5k to $10k a year on updates and repairs or your house risks falling into greater disrepair as the costs will snowball.",
+          "source": "r/Homeowners, March 2025"
+        },
+        {
+          "quote": "I'm a new homeowner, and I know nothing about how houses work. Where do I start?",
+          "source": "Quora"
+        }
+      ],
+      "pain_point": "First-time homeowners overwhelmed by constant repair demands, anxious about making wrong decisions, no cost context for triage.",
+      "total_score": 8.5,
+      "score_breakdown": {
+        "emotional_pain": 3,
+        "financial_impact": 2,
+        "market_size": 2,
+        "solution_clarity": 1.5
+      },
+      "standalone_guide_feasible": true,
+      "standalone_guide_rationale": "Seasonal maintenance and repair triage frameworks are well-established. Would fit in 10-page guide.",
+      "status": "SKIP",
+      "skip_reason": "Existing skeleton 'new-homeowner-maintenance-guide_v1' covers same angle. User quotes match >80%. Trend diagnosis: new homeowner maintenance anxiety, seasonal priority system, cost context."
+    },
+    {
+      "id": "preschooler-sleep-refusal-2026",
+      "slug": "preschool-sleep-battles",
+      "title": "End the Bedtime Battle: Getting Your 4-Year-Old to Sleep",
+      "category": "parenting",
+      "sources": [
+        {"platform": "reddit", "subreddit": "r/Preschoolers", "url": "https://www.reddit.com/r/Preschoolers/comments/1fx6zn8/4_year_old_wont_sleep/", "date": "2024-10-06"},
+        {"platform": "reddit", "subreddit": "r/Parenting", "url": "https://www.reddit.com/r/Parenting/comments/18dbe6h/my_4_year_old_wont_sleep/", "date": "2023-12-08"}
+      ],
+      "raw_quotes": [
+        {
+          "quote": "Please send help. We are losing it here. My 4 year old is not sleeping enough. He is sleeping from 10pm (usually later) to 630am. We have tried...",
+          "source": "r/Preschoolers, October 2024"
+        },
+        {
+          "quote": "I have tried melatonin on multiple occasions but I've actually noticed it makes the behavior worse and gives her horrible night terrors. No judgement from me on the use of it — I know how desperate we can feel for solutions sometimes and parents who haven't experienced it just could not understand.",
+          "source": "r/Parenting, December 2023"
+        },
+        {
+          "quote": "For you guys and being up is being up with you guys. I found that EVERYTHING has to be off. And a sound machine playing ocean sounds. Consistency is crucial. Earlier bedtime.",
+          "source": "r/Preschoolers comment, October 2024"
+        }
+      ],
+      "pain_point": "Parents of 4-6 year olds dealing with persistent bedtime resistance, late sleep times, overtiredness, and failed melatonin interventions.",
+      "total_score": 8.5,
+      "score_breakdown": {
+        "emotional_pain": 3,
+        "financial_impact": 1.5,
+        "market_size": 2,
+        "solution_clarity": 2
+      },
+      "standalone_guide_feasible": true,
+      "standalone_guide_rationale": "Consistency-based sleep approaches are well-studied and implementable in a 10-page guide.",
+      "status": "SKIP",
+      "skip_reason": "Existing skeleton 'preschool-bedtime-resistance-guide_v1' created 2026-06-15 covers identical audience (4-6 year olds), pain point (bedtime battles), and root causes (independence push, sleep pressure avoidance, parent composure). Quotes overlap >80%. SKIP."
+    }
+  ],
+  "stage1_summary": {
+    "trends_found": 3,
+    "trends_passed": 1,
+    "trends_skipped": 2,
+    "passing_trends": ["cat-spraying-fixed-female-2026"]
+  }
+}

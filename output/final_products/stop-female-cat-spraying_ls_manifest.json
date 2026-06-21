@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Stop Fixed Female Cat Spraying: The Complete Diagnostic Guide",
+    "slug": "stop-female-cat-spraying",
+    "description": "A comprehensive guide to stop female cat spraying.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "stop-female-cat-spraying.pdf",
+      "path": "output/final_products/stop-female-cat-spraying_v1.pdf",
+      "size_bytes": 41452
+    },
+    {
+      "name": "stop-female-cat-spraying_CHECKLIST.pdf",
+      "path": "output/final_products/stop-female-cat-spraying_v1_CHECKLIST.pdf",
+      "size_bytes": 18091
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/stop-female-cat-spraying",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Stop Fixed Female Cat Spraying: The Complete Diagnostic Guide",
+    "3. Slug: stop-female-cat-spraying",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - stop-female-cat-spraying_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/stop-female-cat-spraying"
+  ]
+}
