@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "New Parent Exhaustion: Surviving the First Year Without Losing Yourself",
+    "slug": "new-parent-exhaustion",
+    "description": "A comprehensive guide to new parent exhaustion.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "new-parent-exhaustion.pdf",
+      "path": "output/final_products/new-parent-exhaustion_v1.pdf",
+      "size_bytes": 37191
+    },
+    {
+      "name": "new-parent-exhaustion_CHECKLIST.pdf",
+      "path": "output/final_products/new-parent-exhaustion_v1_CHECKLIST.pdf",
+      "size_bytes": 21579
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/new-parent-exhaustion",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: New Parent Exhaustion: Surviving the First Year Without Losing Yourself",
+    "3. Slug: new-parent-exhaustion",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - new-parent-exhaustion_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/new-parent-exhaustion"
+  ]
+}

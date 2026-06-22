@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-22",
+  "status": "PROCEED",
+  "trends": [
+    {
+      "id": "trend_001",
+      "category": "parenting",
+      "slug": "new-parent-exhaustion",
+      "product_direction": "New Parent Exhaustion: Surviving the First Year Without Losing Yourself",
+      "title": "New Parent Exhaustion: Surviving the First Year Without Losing Yourself",
+      "raw_quote": "Sometimes I just don't want to be a mom anymore. I have never felt so defeated in my life.",
+      "source": "r/NewParents",
+      "source_url": "https://www.reddit.com/r/NewParents/comments/1ggwlkx/im_so_over_this/",
+      "published": "November 2024",
+      "score": 9,
+      "score_breakdown": {
+        "pain_severity": 3,
+        "audience_size": 3,
+        "solvability": 3
+      },
+      "can_standalone_guide": true,
+      "problem_summary": "New parents experience severe sleep deprivation and emotional crisis in the first year, feeling isolated, guilty, and defeated. They lack realistic expectations and self-care frameworks.",
+      "solution_pillars": [
+        "Realistic expectations framework: what 'normal' actually looks like vs. Instagram parenting",
+        "Micro-self-care protocols that fit into a parent's fractured schedule",
+        "When to seek help: red flags, postpartum support resources, and partner communication"
+      ]
+    },
+    {
+      "id": "trend_002",
+      "category": "parenting",
+      "slug": "toddler-tantrum-blueprint",
+      "title": "Toddler Tantrum Blueprint: A Calm Parent's Guide to Meltdowns",
+      "raw_quote": "I'm at my wits end with my toddler's behavior.",
+      "source": "r/toddlers",
+      "source_url": "https://www.reddit.com/r/toddlers/comments/17oli0q/im_at_my_wits_end_with_my_toddlers_behavior/",
+      "published": "November 2023",
+      "score": 9,
+      "score_breakdown": {
+        "pain_severity": 3,
+        "audience_size": 3,
+        "solvability": 3
+      },
+      "can_standalone_guide": true,
+      "problem_summary": "Parents of toddlers (ages 1-4) are overwhelmed by frequent tantrums, aggression, and destructive behavior. They feel helpless and resort to yelling or giving in — neither works long-term.",
+      "solution_pillars": [
+        "Why toddlers meltdown: brain science simplified for stressed parents",
+        "The 3-step response framework that de-escalates without bribes or threats",
+        "Building emotional vocabulary: teaching kids to name feelings before they blow"
+      ]
+    },
+    {
+      "id": "trend_003",
+      "category": "pets",
+      "slug": "cat-litter-box-fix",
+      "title": "Cat Litter Box Fix: End Litter Box Problems in One Weekend",
+      "raw_quote": "I've been sooo frustrated. But we love him. And I can tell it's a stress/anxiety thing.",
+      "source": "r/cats",
+      "source_url": "https://www.reddit.com/r/cats/comments/1qa54tn/accidentally_solved_a_yearlong_litter_box_problem/",
+      "published": "January 2026",
+      "score": 7,
+      "score_breakdown": {
+        "pain_severity": 2,
+        "audience_size": 2,
+        "solvability": 3
+      },
+      "can_standalone_guide": true,
+      "problem_summary": "Cat owners deal with chronic litter box avoidance, inappropriate urination, and odor problems. Most solutions found online are scattered or contradictory.",
+      "solution_pillars": [
+        "The 5-step litter box audit: box type, litter type, placement, cleanliness, number of boxes",
+        "Medical vs. behavioral: when to go to the vet first",
+        "Stress reduction techniques that actually work for anxious cats"
+      ]
+    }
+  ],
+  "trends_above_threshold": 2,
+  "threshold": 8,
+  "products_to_build": [
+    "new-parent-exhaustion"
+  ],
+  "skipped_slugs": [
+    {
+      "slug": "toddler-tantrum-blueprint",
+      "reason": ">80% similar to existing toddler-tantrum-field-guide_v1 and toddler-tantrum-guide_v1"
+    }
+  ]
+}
