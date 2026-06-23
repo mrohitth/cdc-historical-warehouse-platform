@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-23",
+  "status": "COMPLETED",
+  "trends": [
+    {
+      "slug": "newborn-sleep-crib-cry",
+      "source": "r/Parenting",
+      "source_url": "https://www.reddit.com/r/Parenting/comments/10ncjv5/newborn_wont_sleep_what_do_i_do/",
+      "raw_quote": "Whenever her mother or I holds her she'll calm down and go to sleep but the second we put her in her bassinet she begins crying. What is a good solution?",
+      "problem_summary": "Newborn fights sleep in crib/bassinet, only sleeps when held",
+      "pain_points": [
+        "Baby screams when put down, parent can't get anything done",
+        "No sleep for parent = mental health spiral",
+        "Don't want to use sleep training (CIO) methods",
+        "Don't know what else to try"
+      ],
+      "can_standalone_guide": true,
+      "total_score": 9,
+      "score_breakdown": {
+        "urgency": 3,
+        "frequency": 3,
+        "monetizability": 3
+      }
+    },
+    {
+      "slug": "plumbing-emergency-budget",
+      "source": "r/homeowners",
+      "source_url": "https://www.reddit.com/r/homeowners/comments/1l8xqgq/spent_my_emergency_fund_on_what_i_thought_was_a/",
+      "raw_quote": "Spent my emergency fund on what I thought was a 'small' plumbing issue and now I'm living in a construction zone. Our wallets got completely mauled trying to deal with a plumbing emergency at 4pm on a Friday night.",
+      "problem_summary": "Homeowners blindsided by plumbing emergencies that drain emergency funds",
+      "pain_points": [
+        "Plumber emergency pricing is predatory (weekend/night premiums)",
+        "What looks small turns into major excavation work",
+        "No idea what's normal vs. emergency pricing",
+        "Emergency fund wasn't built for $5k-$15k hits"
+      ],
+      "can_standalone_guide": true,
+      "total_score": 8.5,
+      "score_breakdown": {
+        "urgency": 3,
+        "frequency": 2.5,
+        "monetizability": 3
+      }
+    },
+    {
+      "slug": "cat-litter-box-senior",
+      "source": "r/CatAdvice",
+      "source_url": "https://www.reddit.com/r/CatAdvice/comments/peom9k/senior_cat_has_quit_using_her_litter_box_have/",
+      "raw_quote": "Senior cat has quit using her litter box. Have tried everything I can find. Nothing works. Help. Older cats can have arthritis climbing in and scratching. Also try the softest litter possible so it doesn't hurt your baby's paws.",
+      "problem_summary": "Senior cat stops using litter box, owner tried everything",
+      "pain_points": [
+        "Vet says behavioral but nothing works",
+        "At wits' end, tried multiple litter types",
+        "Senior cat may have arthritis making box access painful",
+        "Rehoming not an option"
+      ],
+      "can_standalone_guide": true,
+      "total_score": 7,
+      "score_breakdown": {
+        "urgency": 2.5,
+        "frequency": 2,
+        "monetizability": 2.5
+      }
+    }
+  ],
+  "high_value_trends": [
+    {
+      "slug": "newborn-sleep-crib-cry",
+      "total_score": 9
+    },
+    {
+      "slug": "plumbing-emergency-budget",
+      "total_score": 8.5
+    }
+  ]
+}
