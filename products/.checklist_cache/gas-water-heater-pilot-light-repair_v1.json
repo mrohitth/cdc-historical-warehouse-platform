@@ -1,0 +1,24 @@
+{
+  "slug": "gas-water-heater-pilot-light-repair_v1",
+  "draft_hash": "354ef3baae30017d9ae07a605437e116",
+  "items": [
+    "Verify Basic Controls: Check that the gas valve handle is parallel to the pipe and the control knob is set to 'pilot' before troubleshooting to avoid wasting time on symptoms instead of the actual problem.",
+    "Inspect for Downdrafts: Examine the flu pipe and draft hood for wind entry, and turn off exhaust fans or range hoods that create negative pressure which can blow out the pilot flame.",
+    "Perform the Smell Test: Smell near the water heater for strong or persistent gas odors that differ from the faint smell of residual gas from an extinguished pilot, and call a professional immediately if detected.",
+    "Follow the 60-Second Hold: Keep the pilot button pressed for a full 60 seconds after lighting to give the thermocouple sufficient time to heat up and hold the gas valve open properly.",
+    "Wait Five Minutes Before Relighting: Turn the control knob to 'off' and wait exactly five minutes for any residual gas to dissipate before attempting to relight the pilot to prevent gas buildup.",
+    "Use a Long-Match or Butane Lighter: Light the pilot port with a long-match or butane fireplace lighter rather than a regular lighter to safely reach the pilot opening while holding down the reset button.",
+    "Observe Pilot Stability: Watch whether the pilot stays lit immediately, goes out after several minutes, or never ignites at all to correctly identify whether the thermocouple or another component is at fault.",
+    "Turn Off Gas Before Replacement: Shut off the gas supply at the valve and relieve any pressure in the gas line before removing the faulty thermocouple to ensure safe repair without gas leaks.",
+    "Remove and Install Correctly: Disconnect the old thermocouple from both the gas valve and the pilot assembly, then install the replacement making sure it seats fully into the pilot flame's heating zone.",
+    "Verify Thermocouple Seating: Confirm the new thermocouple tip sits directly in the pilot flame where it can heat properly, as improper positioning will cause the same failure to recur.",
+    "Test the Repair: Light the pilot using the full relight protocol and watch for a steady blue flame that remains lit, which confirms the thermocouple replacement successfully resolved the issue.",
+    "Call a Plumber for Persistent Issues: Contact a licensed plumber if the pilot still won't stay lit after a proper thermocouple replacement and full diagnostic check, since other components like the gas valve may be at fault."
+  ],
+  "categories": [
+    "Run Safety Diagnostics",
+    "Execute Relight Sequence",
+    "Replace the Thermocouple"
+  ],
+  "generated_at": "2026-06-24T10:24:05.845777"
+}

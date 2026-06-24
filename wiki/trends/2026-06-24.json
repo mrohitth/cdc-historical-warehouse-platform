@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-24",
+  "status": "PROCEED",
+  "trends": [
+    {
+      "id": "trend_001",
+      "category": "parenting",
+      "slug": "9-month-sleep-regression-survival",
+      "product_direction": "9-Month Sleep Regression Survival Guide: Why Your Baby Stopped Sleeping and How to Get Through It",
+      "title": "9-Month Sleep Regression Survival Guide: Why Your Baby Stopped Sleeping and How to Get Through It",
+      "raw_quote": "I don't know if I'm looking for help or maybe just reassurance. I feel like I'm going crazy. My baby has always been a good sleeper, not amazing but... [but then] for the past three nights [we've been up constantly]. Our little guy has never been the best sleeper, usually getting in 3-4 hour blocks at best, but for the past three nights he has been waking up every single hour.",
+      "source": "r/NewParents",
+      "source_url": "https://www.reddit.com/r/NewParents/comments/1dud6mg/the_never_ending_9_month_sleep_regression/",
+      "published": "July 3, 2024",
+      "score": 8.5,
+      "score_breakdown": {
+        "pain_severity": 3,
+        "audience_size": 3,
+        "solvability": 2.5
+      },
+      "can_standalone_guide": true,
+      "problem_summary": "Parents of 8-10 month olds face the infamous 9-month sleep regression — sudden night wakings, refuse naps, become clingy. This regression coincides with major developmental leaps (crawling, separation anxiety, language onset). Parents are deep into sleep deprivation and have already tried sleep training. Generic advice ('it passes') doesn't help them survive the weeks it lasts.",
+      "solution_pillars": [
+        "Understanding why it happens: developmental milestone connection, separation anxiety spike, and how the 9-month cognitive leap disrupts existing sleep associations",
+        "The survival protocol: adjusting sleep schedule temporarily, handling the 45-minute nap wars, and safe co-sleeping options when parents are too exhausted",
+        "What NOT to do: avoiding sleep training regression, managing partner exhaustion, and knowing when the regression has actually ended"
+      ]
+    },
+    {
+      "id": "trend_002",
+      "category": "homeowners",
+      "slug": "gas-water-heater-pilot-light-repair",
+      "product_direction": "Gas Water Heater Pilot Light Repair Guide: Fix It Yourself and Avoid a Plumber",
+      "title": "Gas Water Heater Pilot Light Repair Guide: Fix It Yourself and Avoid a Plumber",
+      "raw_quote": "Pilot light on gas water heater - ignites but won't stay lit (flame is VERY small). Have changed out the thermocouple a few times and almost always cures the problem. When it's finicky, I take two fire starters and hold under the thermocouple for a full two minutes to warm it up, then light the pilot light.",
+      "source": "r/fixit",
+      "source_url": "https://www.reddit.com/r/fixit/comments/1g0xcal/pilot_light_on_gas_water_heater_ignites_but_wont/",
+      "published": "October 11, 2024",
+      "score": 8.5,
+      "score_breakdown": {
+        "pain_severity": 3,
+        "audience_size": 2.5,
+        "solvability": 3
+      },
+      "can_standalone_guide": true,
+      "problem_summary": "Homeowners with gas water heaters face no hot water when the pilot light won't stay lit. Plumbers charge $150-400 for visits where the fix is often a $15 thermocouple. The frustration is compounded by not knowing if they should replace the water heater entirely. Existing advice is either too vague ('call a plumber') or too technical (forum posts with conflicting solutions).",
+      "solution_pillars": [
+        "Diagnosing the actual problem: thermocouple vs. gas valve vs. other causes — the 5-minute home diagnostic sequence",
+        "The step-by-step thermocouple fix: what to buy ($8-15 at hardware store), how to do it safely, how to relight the pilot correctly",
+        "When to replace vs. repair: water heater age, cost analysis, and the emotional trap of 'should I just get a new one?'"
+      ]
+    },
+    {
+      "id": "trend_003",
+      "category": "pets",
+      "slug": "cat-baby-safety-newborn-arrival",
+      "product_direction": "Cat and New Baby Safety: Preparing Your Cat for a Newborn Without Giving Away Your Pet",
+      "title": "Cat and New Baby Safety: Preparing Your Cat for a Newborn Without Giving Away Your Pet",
+      "raw_quote": "When I was born my parents' cat hated me. After 1-2 months she did a 180 and became very maternal. She'd yell at my mum when I was screaming if my mum didn't pick me up fast enough. Maybe your cat is somewhere in between: maternal instincts kicking in, but she doesn't understand why or what your child is. She'll probably relax more and more as time passes.",
+      "source": "r/CatAdvice",
+      "source_url": "https://www.reddit.com/r/CatAdvice/comments/1g9gzlz/cat_attacked_my_baby/",
+      "published": "October 22, 2024",
+      "score": 8,
+      "score_breakdown": {
+        "pain_severity": 3,
+        "audience_size": 2.5,
+        "solvability": 2.5
+      },
+      "can_standalone_guide": true,
+      "problem_summary": "Families bringing a newborn home face cat behavior problems — aggression, hissing, attacking the baby, or extreme jealousy behaviors. Parents worry about safety and feel forced to choose between their pet and their baby. Existing advice is fragmented ( Jackson Galaxy videos, Reddit threads) and doesn't address the specific anxiety of 'will my cat hurt my baby?'",
+      "solution_pillars": [
+        "Cat behavior science for new siblings: why cats react to babies (scent, sound, routine disruption, redirected aggression), the maternal instinct window, and what's normal vs. dangerous",
+        "The safe introduction protocol: pre-baby preparation steps, scent exchange, controlled first meetings, never leaving cat and baby alone",
+        "Environmental management: creating cat-free baby zones, vertical space for the cat, dedicated one-on-one cat time to prevent jealousy aggression"
+      ]
+    }
+  ],
+  "trends_above_threshold": 3,
+  "threshold": 8,
+  "products_to_build": [
+    "9-month-sleep-regression-survival",
+    "gas-water-heater-pilot-light-repair",
+    "cat-baby-safety-newborn-arrival"
+  ],
+  "skipped_slugs": []
+}

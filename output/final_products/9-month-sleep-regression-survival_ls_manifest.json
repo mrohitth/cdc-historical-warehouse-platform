@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "9-Month Sleep Regression Survival Guide",
+    "slug": "9-month-sleep-regression-survival",
+    "description": "A comprehensive guide to 9 month sleep regression survival.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "9-month-sleep-regression-survival.pdf",
+      "path": "output/final_products/9-month-sleep-regression-survival_v1.pdf",
+      "size_bytes": 110883
+    },
+    {
+      "name": "9-month-sleep-regression-survival_CHECKLIST.pdf",
+      "path": "output/final_products/9-month-sleep-regression-survival_v1_CHECKLIST.pdf",
+      "size_bytes": 19415
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/9-month-sleep-regression-survival",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: 9-Month Sleep Regression Survival Guide",
+    "3. Slug: 9-month-sleep-regression-survival",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - 9-month-sleep-regression-survival_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/9-month-sleep-regression-survival"
+  ]
+}
