@@ -1,0 +1,55 @@
+{
+  "date": "2026-06-25",
+  "status": "PASS",
+  "trends": [
+    {
+      "id": "hoa-tyranny-2026",
+      "source": "Reddit r/fuckHOA via TwistedSifter",
+      "source_url": "https://twistedsifter.com/2026/05/homeowners-frustrated-with-strict-hoa-rules-as-they-struggle-to-sell-their-houses/",
+      "raw_quote": "At this point it feels less like a neighborhood and more like some weird suburban dictatorship run by people with too much free time and no life. I listed this place for sale and we have a lot of viewers. But the second buyers hear strict HOA, you can practically see them mentally checking out.",
+      "problem_summary": "HOA leadership changed and implemented increasingly restrictive rules — trees removed (no shade), cats can't go outside, dogs can't bark, kids can't play in front yards, guests parking = $20 fee. Homeowner can't sell because buyers run when they hear 'strict HOA'.",
+      "category": "Homeowners",
+      "pain_score": 8.5,
+      "can_10page_guide": true,
+      "pillars": [
+        "Understand your HOA documents and what the board can and cannot legally enforce",
+        "How to diplomatically challenge or vote out a rogue HOA board",
+        "Strategic disclosure and presentation when selling a home with a difficult HOA"
+      ],
+      "slug": "hoa-survival-guide"
+    },
+    {
+      "id": "strong-willed-child-exhaustion",
+      "source": "Substack - Kyndra Ferguson Steinmann",
+      "source_url": "https://kyndrafergusonsteinmann.substack.com/p/the-fallacy-of-the-strong-willed",
+      "raw_quote": "I'm butting heads with my teen all day long. It's exhausting but I'm not surprised, he's always been strong-willed. I got so tired of spanking and spanking and I never managed to conquer her will.",
+      "problem_summary": "Parents are locked in constant power struggles with strong-willed children, exhausting themselves trying to 'break' a will that isn't actually strong — the child lacks will-muscle, not has too much of it. Traditional advice makes things worse.",
+      "category": "Parenting",
+      "pain_score": 8.0,
+      "can_10page_guide": true,
+      "pillars": [
+        "Reframe 'strong-willed' — what the term gets wrong and what it actually signals",
+        "The Charlotte Mason approach: atmosphere, habit, and ideas instead of power struggles",
+        "Practical daily strategies: the Low Calm Voice method and building self-restraint as a muscle"
+      ],
+      "slug": "strong-willed-child-guide"
+    },
+    {
+      "id": "foundation-repair-cost-shock",
+      "source": "r/HomeInspections + Angi + Aspen Foundation Repairs",
+      "source_url": "https://www.reddit.com/r/HomeInspections/comments/1uejpay/trying_to_get_a_loose_approximation_or_cost_for_a/",
+      "raw_quote": "Really frustrated with the inspection result on this brand new home. Dad worried about foundation poured by contractor. Homeowner refused to pay the extra $500 for subfloor rot repairs.",
+      "problem_summary": "Homeowners face shocking foundation repair bills ($2,000-$45,000 range), don't know how to assess if contractor quotes are fair, and discover hidden problems only during escrow inspections.",
+      "category": "Homeowners",
+      "pain_score": 7.5,
+      "can_10page_guide": true,
+      "pillars": [
+        "How to read a foundation inspection report without being a structural engineer",
+        "What drives foundation repair costs — and how to get non-biased quotes",
+        "Negotiating repair credits vs. requiring repairs before closing"
+      ],
+      "slug": "foundation-repair-guide"
+    }
+  ],
+  "scores_note": "2 trends > 8/10: hoa-survival-guide (8.5) and strong-willed-child-guide (8.0). Foundation guide (7.5) will proceed as secondary product."
+}
