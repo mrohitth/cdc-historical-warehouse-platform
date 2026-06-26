@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-26",
+  "status": "PASS",
+  "trends": [
+    {
+      "id": "basement-flooding-prevention",
+      "source": "Reddit r/homeowners",
+      "source_url": "https://www.reddit.com/r/homeowners/comments/1s3t7tk/basement_flooding_during_heavy_rain_from_3_inch/",
+      "raw_quote": "if you're going the temporary route with routing to a container just make sure whatever you use can handle the volume during peak flow - those cast iron drains can move more water than you'd expect when the city system backs up. might be worth timing how fast it fills during the next heavy rain to size your solution properly... Not a builder but, a backwater prevention valve might solve this.",
+      "problem_summary": "Homeowners with basements experiencing flooding during heavy rain when municipal sewer systems back up through floor drains. Water damage, mold risk, expensive repairs, panic during storms.",
+      "category": "Homeowners",
+      "pain_score": 8.2,
+      "can_10page_guide": true,
+      "pillars": [
+        "Backwater valve installation — the primary defense against sewer backup",
+        "Sump pump with battery backup — non-negotiable protection during power outages",
+        "Early warning system — water alarms and smart monitoring for off-hours flooding"
+      ],
+      "slug": "basement-flooding-prevention"
+    }
+  ],
+  "scores_note": "1 trend > 8/10: basement-flooding-prevention (8.2)"
+}
