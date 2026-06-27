@@ -1,0 +1,5 @@
+{
+  "date": "2026-06-27",
+  "status": "SKIPPED",
+  "reason": "All 3 trends (>8/10) exceeded 80% similarity with existing skeletons: cat-litter-box-aversion (90%), screen-time-boundary-system (90%), save-your-couch-from-cat-scratching (90%). Pipeline halted at Stage 2."
+}
