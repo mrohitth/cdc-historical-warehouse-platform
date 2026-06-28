@@ -1,0 +1,46 @@
+{
+  "date": "2026-06-28",
+  "status": "SKIPPED",
+  "reason": "All 3 trends (>8/10) exceeded 80% similarity with existing skeletons: cat-inappropriate-elimination -> cat-litter-box-aversion_v1 (92%), new-parent-overwhelm-identity-loss -> new-parent-exhaustion_v1 (85%), new-parent-relationship-strain -> new-parent-exhaustion_v1 (88%). Pipeline halted at Stage 2.",
+  "scouted_trends": [
+    {
+      "id": "cat-inappropriate-elimination",
+      "raw_quote": "After consulting with our vet we put him on a transdermal fluoxetine... Lately, he has been making eye contact with us while shitting on the coffee table. at my wits end.",
+      "source": "Reddit r/CatAdvice",
+      "source_url": "https://www.reddit.com/r/CatAdvice/comments/rtljyr/cat_behavioral_issuesat_my_wits_end/",
+      "problem_summary": "Cat owner whose cat continues house soiling despite vet visit and fluoxetine, at wits end, considering rehoming.",
+      "pain_score": 9.0,
+      "can_10page_guide": true,
+      "slug_candidate": "cat-inappropriate-elimination",
+      "existing_match": "cat-litter-box-aversion_v1_SKELETON.md",
+      "similarity": "92%",
+      "decision": "SKIP"
+    },
+    {
+      "id": "new-parent-overwhelm-identity-loss",
+      "raw_quote": "Sometimes I just don't want to be a mom anymore. I have never felt so defeated in my life. I've completely lost myself to parenting.",
+      "source": "Reddit r/NewParents",
+      "source_url": "https://www.reddit.com/r/NewParents/comments/1mwsi4t/ive_completely_lost_myself_to_parenting_vent_from/",
+      "problem_summary": "New parent feeling they have completely lost their identity to parenthood, defeated, considering if they made the right choice.",
+      "pain_score": 8.5,
+      "can_10page_guide": true,
+      "slug_candidate": "new-parent-identity-loss",
+      "existing_match": "new-parent-exhaustion_v1_SKELETON.md",
+      "similarity": "85%",
+      "decision": "SKIP"
+    },
+    {
+      "id": "new-parent-relationship-strain",
+      "raw_quote": "They make you resentful of any time that the other person has that you don't. Make you count up the jobs you're doing and compare. It's a tough business and if you aren't a well oiled machine then it's easy to drift apart.",
+      "source": "Reddit r/AskParents",
+      "source_url": "https://www.reddit.com/r/AskParents/comments/1dre1un/no_longer_in_love_after_having_a_baby/",
+      "problem_summary": "New parents experiencing relationship drift, resentment over division of labor, feeling disconnected from partner after baby arrives.",
+      "pain_score": 8.3,
+      "can_10page_guide": true,
+      "slug_candidate": "new-parent-relationship-strain",
+      "existing_match": "new-parent-exhaustion_v1_SKELETON.md",
+      "similarity": "88%",
+      "decision": "SKIP"
+    }
+  ]
+}
