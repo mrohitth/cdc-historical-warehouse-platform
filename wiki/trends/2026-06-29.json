@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-29",
+  "stage": "1_scout",
+  "trends": [
+    {
+      "slug": "male-neutered-cat-spraying-guide",
+      "title": "Male Neutered Cat Still Spraying: Why Nothing Works",
+      "source": "Quora",
+      "source_url": "https://www.quora.com/My-cat-will-not-stop-spraying-in-the-house-He-is-neutered-I-have-spent-on-a-collar-and-defuseres-he-even-looks-at-me-and-sprays-I-m-at-my-wits-end-What-should-I-do",
+      "published": "2025",
+      "raw_quote": "My cat will not stop spraying in the house. He is neutered. I have spent $$$ on a collar and defuseres, he even looks at me and sprays. I'm at my wits end. What should I do?",
+      "frustration_signal": "owner has tried multiple products (collar, diffusers), money spent with zero results, uses 'at my wits end' language",
+      "pain_category": "cat behavior / house training",
+      "problem_summary": "Neutered male cat sprays indoors despite owner trying commercial remedies. Unlike intact male spraying, neutered spraying often has medical (UTI, crystals, bladder issues) or stress-based causes that standard advice misses.",
+      "guide_viable": true,
+      "guide_viable_reason": "10-page guide can cover: medical red flags vs behavioral spraying, vet visit checklist, enzymatic cleaning protocols, stress mapping, pheromone vs medication options, litter box optimization. All verifiable facts.",
+      "total_score": 9,
+      "distribution": ["reddit catadvice", "quora", "pinterest cat tips"]
+    },
+    {
+      "slug": "roof-leak-early-detection-prevention",
+      "title": "Roof Leak Missed Until $10K Attic Damage: Prevention Guide",
+      "source": "Reddit r/PropertyManagement",
+      "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1siteqa/roof_leak_turned_into_10k_attic_damage_and_now_im/",
+      "published": "2026-04-11",
+      "raw_quote": "roof leak turned into 10K+ attic damage and now im kinda screwed... is this normal?",
+      "frustration_signal": "discovery after massive damage, financial shock, 'is this normal?' suggests this happens to others unaware",
+      "pain_category": "home maintenance / emergency prevention",
+      "problem_summary": "Homeowners don't know how to detect roof leaks early. By the time stains appear on ceilings, thousands in attic framing, insulation, and mold remediation may already be done. No clear checklist exists for routine roof inspection homeowners can do themselves.",
+      "guide_viable": true,
+      "guide_viable_reason": "10-page guide can cover: seasonal roof inspection checklist (interior attic + exterior), leak early warning signs, permaboot upgrades for vent penetrations, gutter maintenance, what to do when you find a leak (temporary patches vs roofer), insurance claim guide. All actionable and verifiable.",
+      "total_score": 8.5,
+      "distribution": ["reddit homeowners", "reddit homeimprovement", "pinterest home maintenance"]
+    },
+    {
+      "slug": "7-month-baby-sleep-regression-survival",
+      "title": "7-Month Sleep Regression: Why Baby's Sleep Keeps Getting Worse",
+      "source": "Reddit r/NewParents",
+      "source_url": "https://www.reddit.com/r/NewParents/comments/1dhxt5s/baby_wont_sleep_and_imgoing_insane/",
+      "published": "2024-06-17",
+      "raw_quote": "I am begging for any help or advice. My daughter's (currently 7mo and 1 week) sleep just continues to worsen. It's been on a downward spiral for months.",
+      "frustration_signal": "escalating problem over months, 'begging for help', parent is at breaking point, sleep deprivation affects whole family",
+      "pain_category": "parenting / baby sleep",
+      "problem_summary": "7-month sleep regression is poorly understood compared to 4-month regression. The 7-month phase is often tied to developmental leaps (crawling, standing), teething, and separation anxiety simultaneously. Most advice is generic 'sleep tips' that don't address this specific developmental window.",
+      "guide_viable": true,
+      "guide_viable_reason": "10-page guide can cover: what's actually happening developmentally at 7 months, differential diagnosis (leap vs teething vs hunger vs habit), evidence-based settling methods for this age, environment tweaks, parental burnout section. Fits in 10 pages.",
+      "total_score": 7,
+      "distribution": ["reddit parenting", "reddit beyondthebump", "pinterest baby sleep"]
+    }
+  ],
+  "stage1_status": "CONTINUE",
+  "continue_reason": "2 trends score >8/10 (male cat spraying 9/10, roof leak 8.5/10). Third trend scores 7/10 but will also be developed.",
+  "high_value_count": 3
+}
