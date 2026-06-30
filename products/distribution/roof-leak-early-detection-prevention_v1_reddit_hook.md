@@ -1,0 +1,7 @@
+Hey, you're not alone in this — roof leaks genuinely are one of those problems that feel like they come out of nowhere, but they actually start small and invisible. The attic is dark and out of sight, so by the time most people spot a stain on their ceiling, the rafters have been wet for months.
+
+Here's what actually works: grab a flashlight (a headlamp is way easier) and check your attic twice a year — early spring and early fall. Look for water stains on rafters or sheathing, any daylight peeking through the roof boards, or insulation that looks matted or discolored. One critical detail — stay on the ceiling joists or floor boards when you're walking around. Stepping on insulation compresses it, damages it, and there's a real risk of falling through your ceiling.
+
+The frustrating part is that catching these things early is usually simple — a $150 pipe boot replacement versus $10K+ in water damage. Two inspections per year with a flashlight and your phone camera can genuinely be the difference.
+
+I found a checklist that walks through the exact inspection sequence — seasonal timing, what to look for, where to look. Happy to share it if that would help. You've got this — a couple hours twice a year is all it takes to stay ahead of it.

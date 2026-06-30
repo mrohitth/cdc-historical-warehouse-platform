@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-30",
+  "stage": "1_scout",
+  "trends": [
+    {
+      "slug": "baby-colic-gas-pain-relief",
+      "title": "Baby Colic and Gas Pain: What Actually Works When Pediatrician Says 'Wait It Out'",
+      "source": "Reddit r/NewParents",
+      "source_url": "https://www.reddit.com/r/NewParents/comments/1dnlhbd/parents_of_colicky_babies_how_did_you_not_lose/",
+      "published": "2024-06-24",
+      "raw_quote": "I called his pediatrician and they said the gas is normal at this age and there's basically nothing I can do. So I'm wondering if I sleep through his whining and grunting, is that the same as cry it out? I don't want him to feel like he's alone when he's in pain but I also need to sleep.",
+      "frustration_signal": "Pediatrician gave non-actionable advice, parent is sleep-deprived and experiencing helplessness, guilt about letting baby 'cry it out' while in pain",
+      "pain_category": "parenting / infant comfort",
+      "problem_summary": "Parents of colicky or gassy babies are told by pediatricians that gas is 'normal' and there's nothing to do — but their baby is screaming in pain and parents are desperate. The gap is actionable, evidence-based gas relief techniques that don't require medication or waiting for the phase to pass.",
+      "guide_viable": true,
+      "guide_viable_reason": "10-page guide can cover: Frida Baby Windi step-by-step, gas drop dosage/effectiveness data, bicycle leg movements, upright feeding positions, burping techniques (side-lying vs over-arm), when gas indicates dairy intolerance (blood in stool, eczema), when it indicates reflux vs simple gas, and parent self-care during colic phase. All facts verifiable.",
+      "total_score": 8,
+      "distribution": ["reddit beyondthebump", "reddit newparents", "pinterest baby gear"]
+    },
+    {
+      "slug": "declawed-cat-litter-box-pain",
+      "title": "Declawed Cat Litter Box Avoidance: Why Pain (Not spite) Causes House Soiling",
+      "source": "Quora / r/CatAdvice",
+      "source_url": "https://allaboutcats.quora.com/Why-has-my-cat-stop-using-his-litter-box-after-he-was-declawed",
+      "published": "2025",
+      "raw_quote": "He very probably associates the pain in his paws WITH his litter box now. It HURTS to dig in litter when your toes have all been amputated! So now he thinks that box is a very painful, horrible place, poor little guy.",
+      "frustration_signal": "Owner made a decision they didn't fully understand consequences of, cat is in chronic pain, litter box avoidance misinterpreted as behavioral problem when it's actually pain-driven, owner feels guilty and desperate",
+      "pain_category": "cat behavior / owner guilt",
+      "problem_summary": "Owners who declawed their cat (often before knowing the consequences) now face litter box avoidance and don't understand why. The cat isn't being spiteful — the amputation removes the last toe joint, causing lifelong pain when paws contact litter. This guide helps owners understand the pain connection and provides accommodation strategies.",
+      "guide_viable": true,
+      "guide_viable_reason": "10-page guide can cover: what declawing actually removes (last toe joint, not just claw), phantom pain in amputated limbs, soft litter recommendations (paper-based, no silica), low-entry litter boxes, cold laser therapy for pain management, pheromone diffusers for anxiety, timeline for litter box re-training after surgery. All verifiable vet sources.",
+      "total_score": 8.5,
+      "distribution": ["quora cat behavior", "reddit catadvice", "pinterest cat health"]
+    }
+  ],
+  "stage1_status": "REVIEW",
+  "continue_reason": "2 trends found with estimated scores 8/10 and 8.5/10. Both are borderline above 8/10 threshold. Pipeline will verify via Stage 2 fact-check before proceeding.",
+  "high_value_count": 2,
+  "notes": "Market niche is highly saturated for parenting/cat/homeowner verticals. Existing skeleton library covers most major pain points. Today found 2 borderline trends that may not proceed past Stage 2 verification. Recommend scouting expanded niches (pets beyond cats, senior care, outdoor maintenance) for future cycles."
+}
