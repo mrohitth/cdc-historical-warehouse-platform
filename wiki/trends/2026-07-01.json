@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-01",
+  "status": "COMPLETED",
+  "trends": [
+    {
+      "slug": "toddler-sleep-guide",
+      "title": "Toddler Sleep Training Without Tears",
+      "category": "Parenting",
+      "source": "r/toddlers",
+      "url": "https://www.reddit.com/r/toddlers/comments/19fhq8b/if_you_didnt_sleep_train_your_toddler_as_a_baby/",
+      "raw_quote": "Our bedtime routine after bath is probably 15 minutes and longer than I'd like, but at the end he gets tucked in and goes to sleep on his own. Once in a while he calls for us to come back in. I will caveat this with he gets up and comes into our bed at some point most nights, which is something I'm becoming increasingly frustrated by.",
+      "pain_point": "Parents exhausted from months/years of interrupted sleep due to toddler not sleeping independently. Common themes: rocking to sleep, bed-sharing, frequent night wakings.",
+      "solvable_in_guide": true,
+      "total_score": 8.5,
+      "scoring_details": {
+        "frustration_level": 9,
+        "prevalence": 9,
+        "solvability": 8,
+        "market_gap": 8
+      }
+    },
+    {
+      "slug": "cat-litter-box-solutions",
+      "title": "Cat Litter Box Fix: End Litter Box Accidents Permanently",
+      "category": "Pet Care",
+      "source": "r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1bc9tnb/cat_peeing_outside_litter_box_tried_everything/",
+      "raw_quote": "I can't take this anymore, my cat won't stop peeing outside his litterbox. Vet says nothing wrong with him. I'm at my wit's end.",
+      "pain_point": "Cat owners frustrated by cats eliminating outside the litter box despite vet visits and multiple attempts at solutions. Common frustration: trying everything from new litter to enzyme cleaners with no lasting results.",
+      "solvable_in_guide": true,
+      "total_score": 8.0,
+      "scoring_details": {
+        "frustration_level": 10,
+        "prevalence": 7,
+        "solvability": 8,
+        "market_gap": 7
+      }
+    },
+    {
+      "slug": "foundation-inspection-guide",
+      "title": "Foundation Inspection Guide for Homeowners",
+      "category": "Homeownership",
+      "source": "r/homeowners",
+      "url": "https://www.reddit.com/r/homeowners/comments/17vymrw/dfw_new_build_home_are_these_cracks_signs_of/",
+      "raw_quote": "Are these cracks signs of foundation issues down the road? I have some hair line vertical cracks on the exterior bricks and some corner pops on the foundation.",
+      "pain_point": "Homeowners noticing cracks or signs of potential foundation issues and anxious about whether they need expensive repairs. Seek guidance on distinguishing cosmetic from serious issues.",
+      "solvable_in_guide": false,
+      "total_score": 5.0,
+      "scoring_details": {
+        "frustration_level": 7,
+        "prevalence": 8,
+        "solvability": 2,
+        "market_gap": 3
+      },
+      "skip_reason": "Cannot be solved in standalone guide - repair requires licensed professionals. Educational content possible but not a 'solution' product."
+    }
+  ],
+  "summary": "2 trends qualified (>8/10): toddler-sleep-guide (8.5), cat-litter-box-solutions (8.0). Foundation skipped - requires professional intervention.",
+  "proceed_to_architect": ["toddler-sleep-guide", "cat-litter-box-solutions"]
+}
