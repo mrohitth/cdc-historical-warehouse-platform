@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-02",
+  "status": "COMPLETED",
+  "trends": [
+    {
+      "slug": "velcro-baby-survival-guide",
+      "title": "Velcro Baby Survival Guide: Building Bond With Your 'Not-Preferred' Baby",
+      "category": "Parenting",
+      "source": "r/NewParents",
+      "url": "https://www.reddit.com/r/NewParents/comments/1lpjt87/being_the_other_parent_of_a_velcro_baby_is/",
+      "raw_quote": "I feel this so much. My 5 month old daughter has flipped. She no longer prefers me or gets super excited with me. However when she sees dad or even the nanny, she is so freaking happy and full of pure joy. She's completely indifferent with me. It's very depressing, especially with postpartum and being completely overwhelmed and feeling inept at work as well.",
+      "pain_point": "Parents — often moms home more, sometimes dads — experiencing 'rejection' by a Velcro baby who strongly prefers the other parent. Feelings of depression, inadequacy, guilt, and being shut out of the bond. Separately, the Velcro aspect (baby needs to be held constantly) adds another layer of exhaustion for the preferred parent.",
+      "solvable_in_guide": true,
+      "total_score": 8.5,
+      "scoring_details": {
+        "frustration_level": 9,
+        "prevalence": 8,
+        "solvability": 8,
+        "market_gap": 9
+      }
+    }
+  ],
+  "summary": "1 trend qualified (>8/10): velcro-baby-survival-guide (8.5). Novel angle on parent rejection by Velcro baby — distinct from new-parent-exhaustion (general fatigue) or contact-nap-survival (sleep-specific). No similar skeleton or draft found.",
+  "proceed_to_architect": ["velcro-baby-survival-guide"]
+}
