@@ -1,0 +1,46 @@
+{
+  "status": "COMPLETED",
+  "date": "2026-07-04",
+  "trends": [
+    {
+      "id": "trend-001",
+      "topic": "New Parent Mental Load Division",
+      "slug": "new-parent-mental-load-division",
+      "platform": "Reddit r/NewParents",
+      "raw_quote": "My partner keeps asking me what he can do and it's frustrating because I don't know! I'm so overwhelmed I don't have the mental capacity to give out a to do list for him.",
+      "published": "September 2023",
+      "score": 8.5,
+      "standable_10page_guide": true,
+      "overlap_warning": "OVERLAPS with existing skeleton: new-parent-exhaustion_v1_SKELETON.md (same parent niche)",
+      "problem_summary": "New parents feel overwhelmed by the mental load of managing household and childcare tasks, especially when partners repeatedly ask for direction instead of taking initiative. The exhausted parent lacks bandwidth to delegate."
+    },
+    {
+      "id": "trend-002", 
+      "topic": "First-Time Homeowner Regret and Unexpected Costs",
+      "slug": "first-time-homeowner-regret",
+      "platform": "Reddit r/homeowners",
+      "raw_quote": "I really regret being so trusting. First time homeowner and I just believed that the seller was being honest... A year into ownership the hvac needed replaced, a hefty expense we weren't expecting as a new homeowner.",
+      "published": "November 2024",
+      "score": 8.5,
+      "standable_10page_guide": true,
+      "overlap_warning": "OVERLAPS with existing skeleton: new-homeowner-maintenance-guide_v1_SKELETON.md (homeowner maintenance niche)",
+      "problem_summary": "First-time homeowners feel blindsided by unexpected repair costs and regret trusting seller disclosures. They lack knowledge of what to inspect, what questions to ask, and how to budget for Year 1 expenses."
+    },
+    {
+      "id": "trend-003",
+      "topic": "Smart Home Device Frustration and Reliability",
+      "slug": "smart-home-device-frustration",
+      "platform": "securedatarecovery.com survey + Reddit r/smarthome",
+      "raw_quote": "87% reporting that their smart home devices don't work properly. Leading the way with a score of 9.65 is Amazon as users are the most likely to consider their devices to be very unreliable or annoying.",
+      "published": "February 2026",
+      "score": 9.5,
+      "standable_10page_guide": true,
+      "overlap_warning": "NO EXISTING SKELETON - this is a fresh angle",
+      "problem_summary": "Smart home device owners experience high frustration with unreliable devices, false alarms, network dependency, and integration failures. 87% report devices don't work properly. Users feel trapped by ecosystems that promised convenience but deliver constant troubleshooting."
+    }
+  ],
+  "total_trends_found": 3,
+  "high_value_trends": 3,
+  "aggregate_score": 26.5,
+  "pipeline_recommendation": "TREND-003 qualifies as standalone (9.5/10, no overlap). TREND-001 and TREND-002 will likely be filtered at Stage 2 due to >80% similarity with existing products."
+}

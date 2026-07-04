@@ -1,0 +1,24 @@
+{
+  "slug": "smart-home-device-frustration_v1",
+  "draft_hash": "0f2c1426928f71d41b90483dbe99676a",
+  "items": [
+    "Walk through every room in your home with your phone checking WiFi signal strength and document where you get 2 bars or fewer as weak zones",
+    "Count every device currently connected to your network including phones, tablets, laptops, smart devices, streaming players, and gaming consoles",
+    "Run speed tests in the rooms where your most critical smart devices are located to measure download speed, upload speed, latency, and jitter",
+    "Identify which areas of your home have adequate coverage and which areas have dead zones or weak signals that will cause device failures",
+    "Create a separate IoT network in your router settings by setting up a second SSID specifically for all your smart home devices",
+    "Move all smart devices to the new IoT network while keeping your computers, phones, and work devices on the main network for better security and performance",
+    "Upgrade to a mesh router system or add WiFi access points to eliminate dead zones that cause your smart devices to lose connectivity",
+    "Upgrade your router if you have more than 30 connected devices or are experiencing persistent congestion and reliability problems on your network",
+    "Check the specs and user reviews for any new device you're considering to confirm it supports local control without requiring cloud account registration or internet connectivity",
+    "Create a cloud-free device shortlist by researching which products can operate fully offline without requiring account registration or server access",
+    "Adjust motion detection sensitivity in your camera app settings to medium or low to reduce false alerts from moving shadows and small animals",
+    "Define specific activity zones in your camera app by drawing boundaries around entry points while excluding areas with frequent environmental movement"
+  ],
+  "categories": [
+    "Audit Your Network",
+    "Build a Reliable Foundation",
+    "Choose Devices Wisely"
+  ],
+  "generated_at": "2026-07-04T10:09:31.802996"
+}
