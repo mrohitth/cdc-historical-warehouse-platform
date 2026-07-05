@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-05",
+  "status": "COMPLETE",
+  "trends": [
+    {
+      "slug": "automatic-litter-box-failure-guide",
+      "trend_name": "Automatic Litter Box Failure Crisis",
+      "category": "Pet Care",
+      "source_platforms": ["Reddit r/CatAdvice"],
+      "raw_quote": "I have litter robot 3 and just after warranty expired it stopped working. they sent replacement lower part of the litter robot and now a year later it also broke. keeps giving errors and stops half way through cycle so cats are unable to use it. I am currently looking for a new brand to replace my litter robot. $799 they are charging is absolute JOKE.",
+      "source_url": "https://www.reddit.com/r/CatAdvice/comments/17iv2jw/does_anyone_have_an_automatic_litter_box_and/",
+      "pain_point": "Cat owners who spent $500-$800+ on automatic self-cleaning litter boxes face sudden failures right after or just outside the warranty period. They have cats who can't use the broken device, no quick fix, and sticker shock at replacement costs. The emotional frustration combines device betrayal, financial loss, and cat welfare anxiety.",
+      "score": 8.5,
+      "solvable_10pg_guide": true,
+      "differentiation_note": "Existing cat-litter-box-aversion skeleton covers behavioral house soiling (cat refusing box). This trend covers mechanical device failure of automatic litter boxes — completely different product angle."
+    },
+    {
+      "slug": "foundation-crack-homeowner-panic",
+      "trend_name": "Foundation Crack Homeowner Panic",
+      "category": "Homeownership",
+      "source_platforms": ["Reddit r/homeowners", "Reddit r/HomeMaintenance"],
+      "raw_quote": "Concrete cracks normally but a crack you can fit a finger in is a structural crack and needs an engineer to evaluate. I'm not qualified to do inspections but I am a structural engineer and I'd be worried — friend of mine did a foundation repair on a 1940s 3/2 house worth $500k and the repair was $100k without engineering costs.",
+      "source_url": "https://www.reddit.com/r/homeowners/comments/1u624gb/foundation_crack/",
+      "pain_point": "First-time homeowners discovering cracks in their foundation don't know if the crack is cosmetic or structural. The stakes are enormous — repairs can run $5,000 to $200,000+. They feel panicked, don't know who to trust, and get conflicting advice from inspectors vs. contractors vs. neighbors. Reddit posts show homeowners losing sleep over cracks they discovered after moving in.",
+      "score": 9.0,
+      "solvable_10pg_guide": true,
+      "differentiation_note": "Existing foundation-repair-cost-shock skeleton is buying-focused (how to negotiate or walk away from a house with foundation issues before purchase). This trend is about homeowners who already own and are panicking about a crack they discovered — a distinct post-purchase anxiety guide."
+    },
+    {
+      "slug": "water-damage-insurance-claim-denied",
+      "trend_name": "Denied Water Damage Insurance Claims",
+      "category": "Homeownership",
+      "source_platforms": ["Reddit r/Homeowners", "Reddit r/Insurance"],
+      "raw_quote": "Insurance denied my water damage claim saying it was a visible P-trap leak. Turns out a pipe behind the wall was broken. What should I do?",
+      "source_url": "https://www.reddit.com/r/Insurance/comments/1u32a07/water_leak_state_farm_saying_they_wont_cover/",
+      "pain_point": "Homeowners face water damage emergencies (burst pipes, leaking walls, ceiling stains) and then get their insurance claim denied on technicalities. The double blow of water damage AND claim denial leaves homeowners holding bills for $10,000-$50,000+ in repairs. They're confused about their rights, don't know how to appeal, and are overwhelmed by the insurance bureaucracy.",
+      "score": 8.5,
+      "solvable_10pg_guide": true,
+      "differentiation_note": "Existing home-warranty-claim-denied covers home warranty company denials (annual contracts you pay for). This trend covers homeowners insurance denials — different provider type, different coverage scope, different regulatory path. Distinct product."
+    }
+  ],
+  "summary": "3 high-value trends identified. All solvable in 10-page guides. Slug collision check complete — no >80% overlap with existing skeletons."
+}

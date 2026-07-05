@@ -1,0 +1,24 @@
+{
+  "slug": "automatic-litter-box-failure-guide_v1",
+  "draft_hash": "8c04dde0e69e4c9d97ecb773f935ff29",
+  "items": [
+    "Identify the Exact Error Code: Write down the specific error code displayed on your device, such as E1, E2, E3, E4, or E5, since each code corresponds to a distinct problem with documented solutions that will guide your repair approach effectively.",
+    "Search Online for Your Specific Error: Enter your device model name plus the error code into Google or Reddit search to access owner communities where users have already documented fixes for most automatic litter box failures, often with step-by-step instructions and video walkthroughs.",
+    "Power Cycle the Device: Unplug your litter box, wait a full 60 seconds for the capacitors to discharge completely, then plug it back in to reset the system, since roughly half of all electronic malfunctions clear through this simple procedure.",
+    "Inspect the Belt, Track, and Sensors: Examine the drive belt for signs of cracking or stretching, check the track for debris or obstructions, and locate the DFI sensor lens to identify any visible mechanical problems before assuming the device is completely dead.",
+    "Clean Sensors with Compressed Air: Use a can of compressed air to blow litter dust off the DFI sensor lens and cat sensor near the entrance, then wipe both with a dry cloth to resolve sensor-related errors that are caused by dust accumulation rather than component failure.",
+    "Replace the Drive Belt: Purchase an $8-12 replacement belt on Amazon, unplug the device, stretch the old belt off the motor pulleys noting the routing path, and then route the new belt matching that exact path to restore full globe rotation.",
+    "Order Third-Party Repair Parts: Search for motors, control boards, and sensors from third-party sellers before purchasing directly from the manufacturer, since manufacturer parts for items like control boards often cost $150 or more compared to $40-80 from third-party suppliers.",
+    "Compare Total Repair Cost to Replacement: Add up the individual costs of all replacement parts needed to fix your specific failure and compare that total to the cost of buying a new device so you can make an informed financial decision based on actual numbers rather than guesswork.",
+    "Set Up a Backup Litter Tray Immediately: Place a standard litter tray filled with plain clumping litter near your broken device right away, since cats who have adapted to automatic boxes often develop litter aversion when forced to go without a working bathroom option.",
+    "Research Brand Reliability Before Buying Again: Before purchasing any replacement, compare warranty durations, common failure timeframes, and community repair support across brands to choose a manufacturer that offers better long-term reliability and support.",
+    "Calculate Remaining Device Lifespan: Determine whether your current device is 12-18 months old or closer to 3-4 years old, since devices in the earlier range are typically worth repairing while those nearing the end of their engineered lifespan may justify replacement instead.",
+    "Check the Full Guide: This step is described in detail in the companion guide \u2014 open automatic-litter-box-failure-guide_v1.md and review the relevant section."
+  ],
+  "categories": [
+    "Diagnose the Problem",
+    "Fix It Yourself",
+    "Decide Your Next Move"
+  ],
+  "generated_at": "2026-07-05T10:12:30.423611"
+}
