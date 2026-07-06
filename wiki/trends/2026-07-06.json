@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-06",
+  "status": "COMPLETE",
+  "trends": [
+    {
+      "slug": "toddler-potty-training-resistance",
+      "trend_name": "Toddler Potty Training Resistance Crisis",
+      "category": "Parenting",
+      "source_platforms": ["Reddit r/daddit", "Reddit r/Parenting"],
+      "raw_quote": "We tried the 3 day method but outside of a mess everywhere she did not care. She will sit on the potty for hours but refuses to go in it. We tried underwear under the pull up but she didn't care and would go in the underwear and ignore it.",
+      "source_url": "https://www.reddit.com/r/daddit/comments/1dcq3mt/potty_training_is_the_worst_part_of_parenting_so/",
+      "pain_point": "Parents of toddlers (18mo-4yo) who are stuck in the 'sits but won't go' phase or have tried multiple methods (3-day method, naked method, underwear method) with no success. They feel defeated, embarrassed about accidents, confused about whether their child is ready, and overwhelmed by conflicting advice from well-meaning friends and family. The emotional toll is high — frustration, guilt, and exhaustion are constant.",
+      "score": 9.0,
+      "solvable_10pg_guide": true,
+      "differentiation_note": "Existing skeleton 'potty-regression-new-sibling' covers regression AFTER a new baby arrives. This trend covers general resistance — a toddler who refuses to potty train or has tried methods that failed. Distinct problem: method selection, readiness assessment, and troubleshooting resistance vs. regression after disruption."
+    },
+    {
+      "slug": "male-cat-post-neutering-care",
+      "trend_name": "Male Cat Post-Neutering Care Gaps",
+      "category": "Pet Care",
+      "source_platforms": ["Quora", "Reddit r/CatAdvice"],
+      "raw_quote": "Vets are EXPENSIVE!!! If you have a US EBT food card: Google Concern For Animals by typing the 2-letter...",
+      "source_url": "https://www.quora.com/Why-did-my-cat-suddenly-stop-using-the-litter-box",
+      "pain_point": "Cat owners who recently neutered their male cat don't know what post-op care looks like — when to remove the cone, how to monitor the incision, what behavioral changes are normal vs. alarming, and how to manage the 2-4 week recovery window. They're anxious about post-op complications, don't know what questions to ask the vet, and get conflicting advice about activity restriction, litter type, and pain management. The fear of a $500+ emergency vet visit for a complication they could have prevented drives engagement.",
+      "score": 8.5,
+      "solvable_10pg_guide": true,
+      "differentiation_note": "Existing skeletons cover litter box issues and spraying behavior separately. This is the pre-emptive post-neutering care guide — what to do RIGHT AFTER the surgery and during recovery, not behavioral fixes after the fact. No existing guide covers post-op care specifically for male cats."
+    }
+  ],
+  "summary": "2 high-value trends identified. Both solvable in 10-page guides. Slug collision check complete — no >80% overlap with existing skeletons. Proceeding to Stage 2."
+}

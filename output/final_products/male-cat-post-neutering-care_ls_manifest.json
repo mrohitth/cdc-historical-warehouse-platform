@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Male Cat Post-Neutering Care",
+    "slug": "male-cat-post-neutering-care",
+    "description": "A comprehensive guide to male cat post neutering care.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "male-cat-post-neutering-care.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/male-cat-post-neutering-care_v1.pdf",
+      "size_bytes": 41274
+    },
+    {
+      "name": "male-cat-post-neutering-care_CHECKLIST.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/male-cat-post-neutering-care_v1_CHECKLIST.pdf",
+      "size_bytes": 17595
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/male-cat-post-neutering-care",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Male Cat Post-Neutering Care",
+    "3. Slug: male-cat-post-neutering-care",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - male-cat-post-neutering-care_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/male-cat-post-neutering-care"
+  ]
+}
