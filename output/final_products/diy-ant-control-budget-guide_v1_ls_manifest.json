@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "DIY Ant Control Budget Guide",
+    "slug": "diy-ant-control-budget-guide_v1",
+    "description": "A comprehensive guide to diy ant control budget guide_v1.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "diy-ant-control-budget-guide_v1.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/diy-ant-control-budget-guide_v1.pdf",
+      "size_bytes": 34402
+    },
+    {
+      "name": "diy-ant-control-budget-guide_v1_CHECKLIST.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/diy-ant-control-budget-guide_v1_CHECKLIST.pdf",
+      "size_bytes": 21534
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/diy-ant-control-budget-guide_v1",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: DIY Ant Control Budget Guide",
+    "3. Slug: diy-ant-control-budget-guide_v1",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - diy-ant-control-budget-guide_v1_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/diy-ant-control-budget-guide_v1"
+  ]
+}

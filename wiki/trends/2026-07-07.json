@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-07",
+  "status": "COMPLETE",
+  "trends": [
+    {
+      "slug": "diy-ant-control-budget-guide",
+      "trend_name": "Budget Ant Control — No Exterminator Required",
+      "category": "Home Pest Control",
+      "source_platforms": ["Reddit r/HomeMaintenance", "Reddit r/homeowners", "Reddit r/pestcontrol"],
+      "raw_quote": "Please help. Ants invading every single day. We're Young and can't afford professional pest services... I can't get rid of the ants, HELP!",
+      "source_url": "https://www.reddit.com/r/HomeMaintenance/comments/1si1ulo/ant_infestation/",
+      "pain_point": "Homeowners and renters who are dealing with ant infestations but cannot afford professional exterminator services ($50-$200/month contracts, $500+ for full treatments). They've tried store-bought sprays and traps with no lasting results. They feel overwhelmed by conflicting advice — some say use borax, others say diatomaceous earth, others say call a pro. They need a clear, step-by-step DIY ant elimination protocol that actually works, that they can execute themselves for under $30.",
+      "score": 8.5,
+      "solvable_10pg_guide": true,
+      "differentiation_note": "No existing skeleton or draft covers budget DIY ant control. Existing products cover plumbing, roof leaks, water damage. This fills a clear gap in the home maintenance catalog."
+    },
+    {
+      "slug": "cat-inappropriate-elimination-vet-cleared",
+      "trend_name": "Cat Peeing Outside the Litter Box — Vet-Clear, Next Steps Unknown",
+      "category": "Pet Care",
+      "source_platforms": ["Reddit r/CatAdvice", "Reddit r/cats", "Quora"],
+      "raw_quote": "Hello my 8 year old fixed female cat wont stop peeing outside the litter box. I've taken her to multiple vets have had all...",
+      "source_url": "https://www.reddit.com/r/CatAdvice/comments/1pbdx2w/cat_wont_stop_peeing_everywhere/",
+      "pain_point": "Owners of adult cats (especially senior cats 8+) who have taken their cat to the vet, received a clean bill of health, but the cat still pees outside the litter box — on beds, couches, laundry piles, floors. They've tried different litters, enzymatic cleaners, adding more boxes. They're confused because the vet says nothing is wrong medically. The problem is behavioral but they don't know how to diagnose the trigger. They feel at the end of their rope, and some are considering rehoming.",
+      "score": 9.0,
+      "solvable_10pg_guide": true,
+      "differentiation_note": "Existing skeleton 'stop-female-cat-spraying' covers spraying specifically (territorial marking on vertical surfaces, driven by stress/anxiety). This trend is about general house soiling — the cat eliminating on horizontal surfaces (bed, floor, couch) after vet clearance. Different problem, different diagnosis approach, different solutions. No overlap."
+    },
+    {
+      "slug": "toddler-sleep-regression-survival",
+      "trend_name": "Toddler Sleep Regression — Previously Good Sleeper Now Fighting Everything",
+      "category": "Parenting",
+      "source_platforms": ["Reddit r/Parenting", "Reddit r/beyondthebump", "Reddit r/sleeptrain"],
+      "raw_quote": "My 3.5 year old is driving me insane. I hate who I've become with my 3 year old. I am now the yelling mom. Our child's sleep is destroying us and I feel so sad about it.",
+      "source_url": "https://www.reddit.com/r/toddlers/comments/1i71afb/three_year_old_refusing_to_sleep_losing_my_mind/",
+      "pain_point": "Parents of toddlers (18mo-4.5yr) who previously had a decent sleeper but hit a sleep regression and nothing works anymore. They've tried the sleep routine they used before, they've tried letting the toddler cry it out briefly, they've tried earlier bedtimes — nothing sticks. They feel like they've lost their child to the regression and are becoming someone they don't recognize. The 4-month regression, 18-month regression, and 2-year sleep regression are well-documented but parents still feel blindsided and unprepared each time.",
+      "score": 8.5,
+      "solvable_10pg_guide": true,
+      "differentiation_note": "Existing skeleton 'toddler-sleep-battles' covers sleep-onset dependency (toddler can't self-transition at bedtime, fights going to sleep). This trend covers the SLEEP REGRESSION specifically — a previously good sleeper who regresses due to developmental leaps, schedule changes, or disruption. Different problem framing: recovery vs. establishment."
+    }
+  ],
+  "summary": "3 high-value trends identified. All solvable in 10-page guides. Slug collision check complete — no >80% overlap with existing skeletons. Proceeding to Stage 2."
+}
