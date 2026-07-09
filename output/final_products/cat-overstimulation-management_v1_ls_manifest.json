@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Cat Overstimulation Management: A Practical Guide for Exhausted Cat Owners",
+    "slug": "cat-overstimulation-management_v1",
+    "description": "A comprehensive guide to cat overstimulation management_v1.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "cat-overstimulation-management_v1.pdf",
+      "path": "output/final_products/cat-overstimulation-management_v1.pdf",
+      "size_bytes": 72456
+    },
+    {
+      "name": "cat-overstimulation-management_v1_CHECKLIST.pdf",
+      "path": "output/final_products/cat-overstimulation-management_v1_CHECKLIST.pdf",
+      "size_bytes": 22607
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/cat-overstimulation-management_v1",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Cat Overstimulation Management: A Practical Guide for Exhausted Cat Owners",
+    "3. Slug: cat-overstimulation-management_v1",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - cat-overstimulation-management_v1_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/cat-overstimulation-management_v1"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-07-09",
+  "status": "COMPLETED",
+  "trends": [
+    {
+      "slug": "baby-sleep-training-resistance",
+      "source": "r/Parenting",
+      "url": "https://www.reddit.com/r/Parenting/comments/14tbu27/im_so_angry_at_my_baby_for_not_sleeping/",
+      "raw_quote": "I am so fed up with the baby (6 months) that never sleeps. I'm getting so angry and have to leave her in a safe place nearly every night.",
+      "problem": "Parents exhausted and frustrated when standard sleep training methods (Ferber, graduated extinction) fail to work for their baby",
+      "can_solve_10page_guide": true,
+      "total_score": 9.2,
+      "pain_points": [
+        "Baby refuses all sleep training methods",
+        "Parent anger and guilt spiral",
+        "Ferber method not working after weeks of trying",
+        "Baby wakes every 2 hours for months"
+      ],
+      "existing_skeletons": [
+        "4-month-sleep-regression-guide_v1_SKELETON.md",
+        "9-month-sleep-regression-survival_v1_SKELETON.md",
+        "baby-contact-nap-survival-guide_v1_SKELETON.md",
+        "velcro-baby-survival-guide_v1_SKELETON.md"
+      ],
+      "collision_check": "sleep-regression and contact-nap are different angles. This is specifically about sleep training method failure (Ferber not working). Distinct enough to proceed."
+    },
+    {
+      "slug": "cat-overstimulation-management",
+      "source": "r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1n5x4gt/im_really_overstimulated_by_my_cat_and_idk_what/",
+      "raw_quote": "Lately he's been misbehaving like crazy and it's making me feel so frustrated and overstimulated to the point where I find myself close to losing it and yelling at him which makes me feel terrible. This behavior is new in the last couple months and I find myself constantly crying because I'm so exhausted and frustrated.",
+      "problem": "Cat owners overwhelmed by cat misbehavior (night yowling, biting, jumping, destruction) leading to emotional burnout and feelings of regret",
+      "can_solve_10page_guide": true,
+      "total_score": 8.7,
+      "pain_points": [
+        "Cat misbehavior is new and unexpected",
+        "Owner emotional burnout and crying",
+        "Fear of yelling at cat / guilt",
+        "No clear path to fix behavioral issues",
+        "Feeling like a bad cat parent"
+      ],
+      "existing_skeletons": [
+        "cat-aggression-biting-guide_v1_SKELETON.md",
+        "cat-morning-meowing-fix_v1_SKELETON.md",
+        "stop-cat-night-yowling_v1_SKELETON.md",
+        "indoor-cat-boredom-fix_v1_SKELETON.md"
+      ],
+      "collision_check": "Existing guides focus on specific behaviors (biting, yowling, boredom). This is about the owner's emotional management and a systematic approach to identifying and solving multiple misbehaviors. Distinct angle."
+    },
+    {
+      "slug": "new-homeowner-repair-emergency-budget",
+      "source": "r/Homeowners",
+      "url": "https://www.reddit.com/r/homeowners/comments/1pgh5r2/being_a_homeowner_is_way_more_work_than_i_thought/",
+      "raw_quote": "Wait until something breaks and you don't have the money to fix it but you need it. So frustrating!",
+      "problem": "New homeowners blindsided by unexpected repair costs with no emergency fund or knowledge of what to prioritize",
+      "can_solve_10page_guide": true,
+      "total_score": 8.3,
+      "pain_points": [
+        "Unexpected costly repairs drain savings",
+        "No knowledge of typical home repair costs",
+        "Don't know what to fix immediately vs. delay",
+        "Stress and anxiety about future repairs",
+        "Feeling homeownership was misrepresented"
+      ],
+      "existing_skeletons": [
+        "new-homeowner-maintenance-guide_v1_SKELETON.md",
+        "plumbing-emergency-budget_v1_SKELETON.md",
+        "hvac-repair-quote-guide_v1_SKELETON.md"
+      ],
+      "collision_check": "Existing new-homeowner-maintenance-guide covers routine maintenance. This focuses specifically on emergency repair budgeting and cost shock management. Distinct angle."
+    }
+  ]
+}
