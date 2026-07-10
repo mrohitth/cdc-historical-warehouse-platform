@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-10",
+  "stage": "scout",
+  "trends": [
+    {
+      "slug": "big-kid-bed-transition-chaos",
+      "title": "Big Kid Bed Transition Chaos",
+      "niche": "parenting-toddler",
+      "source": "Reddit r/toddlers",
+      "raw_quote": "Big kid bed transition disaster - HELP i'm desperate and so tired",
+      "raw_quote_2": "When did you transition to a big kid bed? My son is 2 years 3 months and baby #2 is coming in a couple months",
+      "problem_summary": "Parents face severe sleep regression, chaos, and safety fears when transitioning a toddler from crib to big kid bed, especially when a new sibling is on the way. The timing of the transition, toddler safety (wandering at night), and managing the emotional regression cause significant parental stress.",
+      "can_guide_solve_this": true,
+      "total_score": 8.5,
+      "score_breakdown": {
+        "pain_intensity": 2.5,
+        "actionability": 2.0,
+        "specificity": 2.0,
+        "emotional_resonance": 2.0
+      },
+      "why_guide_works": "The problem is specific, bounded, and has a clear timeline. A 10-page guide covering timing strategy, safety setup, and regression management provides actionable, step-by-step advice that reduces parental anxiety and produces measurable results.",
+      "notes": "No existing skeleton found for this topic. Unique angle vs existing toddler-sleep skeletons (which cover sleep battles/regression, not crib-to-bed transition)."
+    },
+    {
+      "slug": "stubborn-toddler-potty-training",
+      "title": "Stubborn Toddler Potty Training",
+      "niche": "parenting-toddler",
+      "source": "Reddit r/toddlers, r/Parenting",
+      "raw_quote": "I was in tears by lunchtime on the second day",
+      "raw_quote_2": "I was getting SO frustrated",
+      "problem_summary": "Parents experience intense frustration and feelings of failure when potty training a resistant or stubborn toddler, especially when the toddler shows no interest or regresses after initial progress.",
+      "can_guide_solve_this": true,
+      "total_score": 7.0,
+      "score_breakdown": {
+        "pain_intensity": 2.0,
+        "actionability": 1.5,
+        "specificity": 1.5,
+        "emotional_resonance": 2.0
+      },
+      "why_guide_works": "Behavioral science-backed strategies (timer-based prompting, positive reinforcement, low-pressure approach) are well-documented and actionable in a guide format.",
+      "notes": "SKIP: existing skeleton 'toddler-potty-training-resistance_v1_SKELETON.md' covers this topic at >80% similarity."
+    },
+    {
+      "slug": "high-water-bill-hidden-leak",
+      "title": "High Water Bill from Hidden Leak",
+      "niche": "homeowners",
+      "source": "Reddit r/homeowners, r/Markham, r/AskNYC",
+      "raw_quote": "For the April 2025 we were hit with $900",
+      "raw_quote_2": "My water bill went from like $40.00 to $144.00 one month because my toilet was continuously leaking",
+      "problem_summary": "Homeowners receive shockingly high water bills ($900-$1000+) caused by hidden leaks (toilet flapper, irrigation, water heater) with no clear diagnostic framework to find the source before calling a plumber.",
+      "can_guide_solve_this": true,
+      "total_score": 5.5,
+      "score_breakdown": {
+        "pain_intensity": 1.5,
+        "actionability": 1.0,
+        "specificity": 1.5,
+        "emotional_resonance": 1.5
+      },
+      "why_guide_works": "Guide can provide step-by-step DIY leak detection before calling a plumber, saving hundreds in unnecessary service calls.",
+      "notes": "SKIP: partially covered by existing 'plumbing-leak-homeowner-guide_v1_SKELETON.md' and 'water-damage-insurance-claim-denied_v1_SKELETON.md'. High similarity."
+    }
+  ],
+  "status": "PROCEED",
+  "proceed_trend": "big-kid-bed-transition-chaos",
+  "proceed_score": 8.5,
+  "skipped_trends": [
+    {
+      "slug": "stubborn-toddler-potty-training",
+      "reason": "Existing skeleton 'toddler-potty-training-resistance_v1_SKELETON.md' >80% similar"
+    },
+    {
+      "slug": "high-water-bill-hidden-leak",
+      "reason": "Existing skeletons cover overlapping territory (plumbing-leak-homeowner-guide, water-damage-insurance-claim-denied)"
+    }
+  ]
+}
