@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-11",
+  "scout_round": "morning",
+  "trends": [
+    {
+      "id": "mice-return-after-exterminator-2026-07-11",
+      "source_platform": "reddit",
+      "source_sub": "r/Homeowners, r/pestcontrol, r/vermont",
+      "raw_quote": "Many homeowners are frustrated to find new signs of activity even after they thought the problem was gone for good.",
+      "raw_quote_2": "It's frustrating, they'll be chewing on those cotton balls in no time.",
+      "raw_quote_3": "Mice and rats can squeeze through surprisingly small openings — homeowners think they've sealed their house, only to find rodents returning weeks later.",
+      "problem_description": "Homeowners pay for exterminators or set traps, but mice keep coming back because they can't identify all entry points. The real issue is hidden gaps around utility lines, garage doors, and foundations that standard DIY doesn't catch.",
+      "audience": "Homeowners dealing with recurring mouse problems who have already tried basic traps and want a systematic, thorough solution.",
+      "can_solve_10page": true,
+      "total_score": 9.0,
+      "score_breakdown": {
+        "pain_urgency": 9,
+        "audience_size": 8,
+        "monetization_potential": 8,
+        "differentiation": 9,
+        "uniqueness": 9
+      },
+      "slug_candidate": "stop-mice-coming-back-guide",
+      "product_direction": "Stop Mice Coming Back — The Entry Point Inspection Method"
+    },
+    {
+      "id": "cat-night-meowing-grief-2026-07-11",
+      "source_platform": "reddit",
+      "source_sub": "r/CatAdvice",
+      "raw_quote": "My cat's meowing is ruining my life. I can definitely relate to the exhaustion and helplessness that come with nonstop vocalization.",
+      "problem_description": "Cat meows excessively at night after losing a companion cat, keeping owners awake. Owner feels helpless and exhausted with no clear path to help the grieving cat.",
+      "audience": "Cat owners dealing with nighttime vocalization changes, especially post-loss of another pet.",
+      "can_solve_10page": true,
+      "total_score": 7.5,
+      "score_breakdown": {
+        "pain_urgency": 8,
+        "audience_size": 7,
+        "monetization_potential": 7,
+        "differentiation": 7,
+        "uniqueness": 8
+      },
+      "slug_candidate": "",
+      "product_direction": "",
+      "notes": "Score 7.5 — below 8 threshold. Skipping for this run."
+    },
+    {
+      "id": "toddler-bedtime-battles-2026-07-11",
+      "source_platform": "reddit",
+      "source_sub": "r/AskParents",
+      "raw_quote": "Bedtime has turned into a stressful routine that often ends in frustration for both of us. Are bedtime stories for children supposed to be this difficult at this age?",
+      "problem_description": "Parent struggles with daily bedtime battles that end in frustration. Standard advice ('read more books') doesn't match the reality of a stressed, resistant child.",
+      "audience": "Parents of children ages 3-7 who dread bedtime because it consistently goes badly.",
+      "can_solve_10page": true,
+      "total_score": 7.0,
+      "score_breakdown": {
+        "pain_urgency": 8,
+        "audience_size": 8,
+        "monetization_potential": 6,
+        "differentiation": 6,
+        "uniqueness": 6
+      },
+      "slug_candidate": "",
+      "product_direction": "",
+      "notes": "Score 7.0 — below 8 threshold. Also existing skeleton+toddler-sleep-battles already covers this. Skipping."
+    }
+  ],
+  "status": "CONTINUE",
+  "selected_trends": [
+    {
+      "id": "mice-return-after-exterminator-2026-07-11",
+      "slug": "stop-mice-coming-back-guide",
+      "total_score": 9.0
+    }
+  ],
+  "skipped_trends": [
+    {
+      "id": "cat-night-meowing-grief-2026-07-11",
+      "reason": "Score 7.5 below 8 threshold"
+    },
+    {
+      "id": "toddler-bedtime-battles-2026-07-11",
+      "reason": "Score 7.0 below 8 threshold; already covered by existing toddler-sleep-battles skeleton"
+    }
+  ]
+}

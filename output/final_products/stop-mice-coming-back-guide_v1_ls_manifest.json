@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Stop Mice Coming Back — The Entry Point Inspection Method",
+    "slug": "stop-mice-coming-back-guide_v1",
+    "description": "A comprehensive guide to stop mice coming back guide.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "stop-mice-coming-back-guide_v1.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/stop-mice-coming-back-guide_v1.pdf",
+      "size_bytes": 37878
+    },
+    {
+      "name": "stop-mice-coming-back-guide_v1_CHECKLIST.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/stop-mice-coming-back-guide_v1_CHECKLIST.pdf",
+      "size_bytes": 21453
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/stop-mice-coming-back-guide_v1",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Stop Mice Coming Back — The Entry Point Inspection Method",
+    "3. Slug: stop-mice-coming-back-guide_v1",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - stop-mice-coming-back-guide_v1_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/stop-mice-coming-back-guide_v1"
+  ]
+}
