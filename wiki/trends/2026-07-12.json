@@ -1,0 +1,37 @@
+{
+  "scout_date": "2026-07-12",
+  "status": "SKIPPED",
+  "reason": "No high-value pain points found",
+  "stage_2_result": {
+    "action": "SKELETON_COLLISION_CHECK",
+    "evaluated_trends": [
+      {
+        "slug": "newborn-sleep-training-guide",
+        "score": 8.0,
+        "collision_found": true,
+        "similar_skeleton": "baby-sleep-training-resistance_v1_SKELETON.md",
+        "similarity_estimate": "85%",
+        "verdict": "SKIP — overlapping scope with existing sleep training guide"
+      },
+      {
+        "slug": "home-plumbing-emergency-guide",
+        "score": 8.0,
+        "collision_found": true,
+        "similar_skeleton": "plumbing-emergency-budget-guide_v1_SKELETON.md",
+        "similarity_estimate": "90%",
+        "verdict": "SKIP — identical thesis (homeowner gets blindsided by plumbing costs); uses same $25k Reddit quote"
+      }
+    ],
+    "skipped_trends": [
+      {
+        "slug": "newborn-sleep-training-guide",
+        "reason": ">80% similar to baby-sleep-training-resistance_v1_SKELETON.md"
+      },
+      {
+        "slug": "home-plumbing-emergency-guide",
+        "reason": ">80% similar to plumbing-emergency-budget-guide_v1_SKELETON.md"
+      }
+    ]
+  },
+  "notes": "Both high-score trends had matching skeletons. Cat litter guide scored 7.4, below threshold. Pipeline exiting at Stage 2."
+}
