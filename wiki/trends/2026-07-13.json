@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-13",
+  "status": "SKIPPED",
+  "reason": "No high-value pain points found",
+  "trends_scouted": [
+    {
+      "topic": "cat-carrier-anxiety",
+      "source": "Reddit r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1ldj4bb/",
+      "raw_quote": "He fights this so aggressively and I am beyond desperate. I don't know what else to do. Everyone's tips about 'oh just pick him up and sneak him in backward!' Or 'stand the carrier on its end!' You DO NOT UNDERSTAND. I cannot even get near him. I'm chasing him around the house. Please tell me there's another option.",
+      "date": "2026-06-17",
+      "score": 9.0,
+      "solvable_10page": true,
+      "verdict": "EXISTING_PRODUCT_OVERLAP",
+      "note": "Covered by stress-free-cat-vet-visit_v1 (>80% similar)"
+    },
+    {
+      "topic": "cat-eating-foreign-objects",
+      "source": "Reddit r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1io2t5c/",
+      "raw_quote": "My cat keeps eating anything she finds and I don't know how to stop it. She eats any little thing she can get her paws on. The tiny rubber bands for…",
+      "date": "2026-02-12",
+      "score": 7.5,
+      "solvable_10page": false,
+      "verdict": "MEDICAL_UNCERTAINTY",
+      "note": "Pica in cats requires veterinary ruling out of medical causes first; behavioral solutions vary widely"
+    },
+    {
+      "topic": "new-homeowner-negative-emotions",
+      "source": "Reddit r/Homeowners",
+      "url": "https://www.reddit.com/r/Homeowners/comments/1mqcnqw/",
+      "raw_quote": "First time home owner and, so far, all of my emotions have been negative…",
+      "date": "2026-08-15",
+      "score": 6.0,
+      "solvable_10page": false,
+      "verdict": "BROAD_UNDifferentiated",
+      "note": "Covered by new-homeowner-maintenance-guide_v1; same underlying problem (overwhelm from unknown tasks)"
+    },
+    {
+      "topic": "parent-lost-identity",
+      "source": "Reddit r/NewParents",
+      "url": "https://www.reddit.com/r/NewParents/comments/1mwsi4t/",
+      "raw_quote": "I've completely lost myself to parenting…",
+      "date": "2025-08-22",
+      "score": 5.0,
+      "solvable_10page": false,
+      "verdict": "BROAD_LIFESTYLE",
+      "note": "Too broad for 10-page guide; requires ongoing therapy/lifestyle changes"
+    },
+    {
+      "topic": "angry-mom-self-hatred",
+      "source": "Reddit r/Parenting",
+      "url": "https://www.reddit.com/r/Parenting/comments/1kmckax/",
+      "raw_quote": "I love being a mom, but I feel like I've completely lost my identity outside of parenting…",
+      "date": "2025-05-14",
+      "score": 5.5,
+      "solvable_10page": false,
+      "verdict": "BROAD_EMOTIONAL",
+      "note": "Important issue but not solvable in standalone 10-page guide"
+    }
+  ],
+  "summary": "1 trend (cat-carrier-anxiety) scored 9.0/10 and is solvable but overlaps >80% with existing product stress-free-cat-vet-visit_v1. Remaining 4 trends either score below 8/10 or are not standalone-guide-solvable. Pipeline SKIPPED for 2026-07-13."
+}
