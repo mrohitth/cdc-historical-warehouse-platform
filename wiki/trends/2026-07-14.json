@@ -1,0 +1,50 @@
+{
+  "scout_date": "2026-07-14",
+  "status": "PARTIAL_SKIP",
+  "reason": "1 unique high-value trend found; 2 scored >8/10 but have existing product collisions (>80% similar)",
+  "trends": [
+    {
+      "slug_candidate": "baby-bottle-refusal-return-to-work",
+      "topic": "baby-bottle-refusal-return-to-work",
+      "product_direction": "Return-to-Work Bottle Rescue: The Breastfed Baby's Guide to Accepting Bottles",
+      "source": "Reddit r/workingmoms",
+      "url": "https://www.reddit.com/r/workingmoms/comments/133mi89/going_back_to_work_in_two_weeksbaby_wont_take/",
+      "raw_quote": "I was SO pissed at myself when the LC told us how apparently they are willing to suck on everything for X period of time and then they sort of lose that reflex, so then it can be really hard to get them to accept a bottle after that point. Like...how did I not come across that info before? I was a mess, I remember desperately thinking about how I could leave work in the middle of the day to get to her or maybe I could get someone to bring her to me and I could run out to her.",
+      "date": "2023-05-02",
+      "score": 9.0,
+      "total_score": 9.0,
+      "solvable_10page": true,
+      "verdict": "PROCEED",
+      "note": "No existing product found for bottle refusal / return-to-work crisis. Strong emotional quote, specific audience, time pressure."
+    },
+    {
+      "slug_candidate": "4-month-sleep-regression-breaking-point",
+      "topic": "4-month-sleep-regression-breaking-point",
+      "product_direction": "4-Month Sleep Regression Survival Guide",
+      "source": "Reddit r/sleeptrain",
+      "url": "https://www.reddit.com/r/sleeptrain/comments/1o8aczt/need_help_deep_in_the_4_month_sleep_regression/",
+      "raw_quote": "Hi everyone, I'm desperate for some help or encouragement. We are fully in the 4 month sleep regression by baby is 16 weeks old, and my he has gone from sleeping 8-9 hour stretches with just one night feed... I'm at my breaking point.",
+      "date": "2025-10-16",
+      "score": 8.5,
+      "total_score": 8.5,
+      "solvable_10page": true,
+      "verdict": "COLLISION",
+      "note": "Existing product: 4-month-sleep-regression-guide_v1.md (85%+ similar). Different angle: 'at breaking point but wants gentle approach' vs science-based. Likely >80% overlap."
+    },
+    {
+      "slug_candidate": "female-cat-spraying-fixed-embroiled",
+      "topic": "female-cat-spraying-fixed",
+      "product_direction": "Stop Female Cat Spraying Guide",
+      "source": "Reddit r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1sl8dfv/my_female_cat_wont_stop_spraying_shes_fixed_and/",
+      "raw_quote": "My female cat won't stop spraying (she's fixed) and I'm embarrassed of my home. After years of replacing furniture and home decor, I finally found something that actually worked.",
+      "date": "2026-04-14",
+      "score": 8.5,
+      "total_score": 8.5,
+      "solvable_10page": true,
+      "verdict": "COLLISION",
+      "note": "Existing product: stop-female-cat-spraying_v1.md. Same thesis, same audience. >80% overlap."
+    }
+  ],
+  "summary": "1 unique trend (baby-bottle-refusal-return-to-work) scores 9.0/10 with no collision. 2 additional trends score 8.5/10 but have existing product collisions. Proceeding to Stage 2 for unique trend only."
+}
