@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-15",
+  "stage": 1,
+  "status": "PASS",
+  "trends": [
+    {
+      "slug": "cat-night-zoomies-fix",
+      "title": "Cat Night Zoomies Fix",
+      "community": "r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1i0zkw4/cat_zoomies_at_night/",
+      "raw_quote": "At 2, 3 and 4am they decide to throw a banger of a party every night. So I wake up and kick them out. Leaving me exhausted for work the next day.",
+      "problem_summary": "Cats become hyperactive and destructive at 2-4am, keeping owners awake and causing exhaustion and property damage.",
+      "pain_points": [
+        "Sleepless nights multiple times per week",
+        "Property damage from cats knocking things over during zoomies",
+        "No clear protocol to fix the behavior",
+        "Guilt over being frustrated with natural cat behavior"
+      ],
+      "guide_viable": true,
+      "guide_viable_reason": "Pre-bed play routines, automatic feeders, environmental enrichment, and circadian rhythm management are all well-documented solutions that fit a 10-page guide.",
+      "total_score": 9,
+      "conviction": "HIGH"
+    },
+    {
+      "slug": "cat-wire-chewing-danger",
+      "title": "Cat Wire & Cable Chewing Danger",
+      "community": "r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1arnlwl/he_chews_on_wirescables_to_get_attention/",
+      "raw_quote": "How do I stop this terror from chewing cables / wires, I've tried the dish soap method & I've tried spraying with a bottle (which I don't want to use) when he bites cables and neither works. He's so persistent on chewing them.",
+      "problem_summary": "Cat persistently chews electrical cords and cables, creating fire hazard, damaging expensive electronics, and causing ongoing stress for owner.",
+      "pain_points": [
+        "Life-threatening electrocution risk to cat",
+        "Hundreds of dollars in damaged electronics",
+        "Spray deterrents and home remedies not working",
+        "Owner afraid to leave cat alone with cables"
+      ],
+      "guide_viable": true,
+      "guide_viable_reason": "Solutions include cord covers, bitter spray alternatives, taste aversion training, alternative chewing outlets, environmental management, and play therapy. All fit a 10-page guide.",
+      "total_score": 8,
+      "conviction": "HIGH"
+    },
+    {
+      "slug": "end-picky-eating-short-order-cook",
+      "title": "End Picky Eating Without Short-Order Cooking",
+      "community": "r/Parenting (sourced via thenourishedchild.com / yourkidstable.com)",
+      "url": "https://thenourishedchild.com/short-order-cook/",
+      "raw_quote": "Short-Order Cooks: Parents who ask their child what they want for each meal, then make it; give LOTS of meal alternatives; get their child something else when they deny a meal; sometimes feel like failures for giving in when they WANT their child to just eat.",
+      "problem_summary": "Parent has become short-order cook for toddler who refuses family meals, leading to daily stress, separate meal prep, and worry about child's nutrition.",
+      "pain_points": [
+        "Making separate meals for toddler every single night",
+        "Daily stress and frustration at mealtimes",
+        "Worry about whether child is getting adequate nutrition",
+        "Feeling like a 'failure' for not being able to get child to eat"
+      ],
+      "guide_viable": true,
+      "guide_viable_reason": "Solutions include family meal structure, repeated exposure protocols, division of responsibility, no-pressure mealtime environments, and food chaining. All actionable and fitting a 10-page guide.",
+      "total_score": 8,
+      "conviction": "HIGH"
+    }
+  ],
+  "pipeline_decision": "PROCEED",
+  "trends_passed": 3,
+  "output": "Proceed to Stage 2 for all 3 trends with score > 8/10"
+}
