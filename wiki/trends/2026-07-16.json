@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-16",
+  "trends": [
+    {
+      "slug": "toddler-sleep-training-methods-guide",
+      "trend_name": "Toddler Sleep Training Methods Failing",
+      "source": "r/AttachmentParenting + r/Parenting",
+      "raw_quote": "I'm losing my mind with my toddlers sleep and am starting to think sleep training is the only way out.",
+      "total_score": 9.0,
+      "problem_solvable_10page": true,
+      "notes": "Similar to existing 'baby-sleep-training-resistance' skeleton - SKIP if >80% similar"
+    },
+    {
+      "slug": "cat-scratching-redirect-solutions",
+      "trend_name": "Cat Destructive Scratching Behavior",
+      "source": "r/CatAdvice + r/CatTraining",
+      "raw_quote": "They can be destructive, yes, especially if you adopt a kitten(s), who are both more destructive and also you don't have much information about their adult personality.",
+      "total_score": 7.0,
+      "problem_solvable_10page": true,
+      "notes": "Score below 8 threshold"
+    },
+    {
+      "slug": "toilet-clog-diy-solutions-guide",
+      "trend_name": "DIY Toilet Clog Removal Without Plumber",
+      "source": "r/Plumbing + r/AskDad",
+      "raw_quote": "Severe toilet clog but can't afford a plumber, any advice?",
+      "total_score": 8.5,
+      "problem_solvable_10page": true,
+      "notes": "No existing skeleton found for toilet clog DIY. Novel topic."
+    }
+  ],
+  "qualifying_trends": ["toilet-clog-diy-solutions-guide"],
+  "skipped_reasons": {
+    "toddler-sleep-training-methods-guide": "Similar topic to existing baby-sleep-training-resistance_v1",
+    "cat-scratching-redirect-solutions": "Score 7.0 < 8.0 threshold"
+  }
+}
