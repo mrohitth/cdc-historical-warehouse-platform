@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-17",
+  "status": "PROCEED",
+  "trends": [
+    {
+      "id": "cat-counter-surfing-2026-07-17",
+      "slug": "cat-counter-surfing-fix",
+      "title": "Cat Counter Surfing: End the Destruction Without Losing Your Mind",
+      "source": "Reddit/r/AmItheAsshole via TwistedSifter",
+      "source_url": "https://twistedfsifter.com/2026/06/womans-boyfriend-forgets-to-put-his-things-away-but-instead-of-taking-responsibility-he-wants-her-to-rehome-one-of-her-cats/",
+      "quote": "You need to choose which cat you want re-homed because I can't deal with this anymore.",
+      "quote_context": "A cat owner describes her boyfriend's ultimatum after their cat repeatedly knocked his belongings off the kitchen counter. The cat was labeled 'destructive' despite exhibiting completely normal feline behavior.",
+      "pain_point": "Cat constantly knocks items off counters, causing property damage, relationship tension, and owner frustration. Unsure how to redirect the behavior without rehoming.",
+      "solvable_10page": true,
+      "total_score": 8.5,
+      "scoring": {
+        "frequency": 3,
+        "frustration": 3,
+        "solvability": 2,
+        "uniqueness": 2.5,
+        "market_gap": 2,
+        "emotional_resonance": 3,
+        "uniqueness_notes": "No existing skeleton for counter-surfing specifically. Related to indoor-cat-boredom-fix but distinct problem.",
+        "solvability_notes": "Environmental management + redirection training + making counters unappealing = highly solvable"
+      },
+      "pillars": [
+        {
+          "pillar": "Understand WHY cats knock things off",
+          "verification": "VERIFIED",
+          "evidence": "Hunting instinct, attention-seeking, curiosity, prey drive. Well-documented feline behavior."
+        },
+        {
+          "pillar": "Environmental management to prevent access",
+          "verification": "VERIFIED",
+          "evidence": "Remove items from counters, use deterrents, create cat-friendly alternatives elsewhere."
+        },
+        {
+          "pillar": "Redirect and retrain with positive reinforcement",
+          "verification": "VERIFIED",
+          "evidence": "Play sessions before tempting times, alternative hunting outlets, reward desired behavior."
+        }
+      ],
+      "existing_collisions": [
+        {
+          "slug": "indoor-cat-boredom-fix",
+          "similarity": "15%",
+          "reason": "Both address cat indoor enrichment but counter-surfing is a specific unwanted behavior, not general boredom"
+        }
+      ]
+    },
+    {
+      "id": "twins-sleep-chaos-2026-07-17",
+      "slug": "twin-toddler-sleep-crisis",
+      "title": "Twin Toddler Sleep: Surviving the 2-Year-Old Sleep Regression",
+      "source": "Reddit/r/parentsofmultiples",
+      "source_url": "https://www.reddit.com/r/parentsofmultiples/comments/1uq7hdr/really_struggling_and_drowning_as_a_mum_of_twin/",
+      "quote": "I have 28-month-old twin boys and I feel like I'm drowning right now. They are wonderful boys, but they are incredibly difficult to manage right now.",
+      "quote_context": "Mother of 28-month-old twins expresses complete overwhelm with managing both children during a sleep regression phase. Sleep deprivation affects entire family unit.",
+      "pain_point": "Parents of twins ages 2-3 experiencing sleep regression, overtiredness, and inability to manage both children's schedules simultaneously. Double the resistance, double the exhaustion.",
+      "solvable_10page": true,
+      "total_score": 7.5,
+      "scoring": {
+        "frequency": 2.5,
+        "frustration": 3,
+        "solvability": 2,
+        "uniqueness": 1.5,
+        "market_gap": 1,
+        "emotional_resonance": 2.5,
+        "uniqueness_notes": "Slight overlap with new-parent-exhaustion and toddler-sleep-regression-survival. Twins-specific angle not directly covered.",
+        "solvability_notes": "Twin-specific timing strategies, sibling-proofing sleep, handling twin sleep conflicts"
+      },
+      "pillars": [
+        {
+          "pillar": "Twin sleep synchronization strategies",
+          "verification": "PLAUSIBLE",
+          "evidence": "Getting twins on overlapping schedules reduces total exhaustion window. Evidence from twin parenting communities."
+        },
+        {
+          "pillar": "Handling simultaneous tantrums at bedtime",
+          "verification": "PLAUSIBLE",
+          "evidence": "Twin parents share triage strategies but limited formal research."
+        },
+        {
+          "pillar": "Regressions at 2 years: what's normal and how to respond",
+          "verification": "VERIFIED",
+          "evidence": "Two-year sleep regressions are documented. Separation anxiety and increased independence-seeking are typical."
+        }
+      ],
+      "existing_collisions": [
+        {
+          "slug": "new-parent-exhaustion_v1",
+          "similarity": "40%",
+          "reason": "Covers general new parent exhaustion but not twin-specific challenges"
+        },
+        {
+          "slug": "toddler-sleep-regression-survival_v1",
+          "similarity": "35%",
+          "reason": "Covers sleep regression but not the unique twin management angle"
+        }
+      ]
+    },
+    {
+      "id": "new-homeowner-plumbing-panic-2026-07-17",
+      "slug": "first-time-homeowner-plumbing-priority",
+      "title": "First-Time Homeowner Plumbing Emergency: What to Fix First",
+      "source": "Reddit/r/HomeImprovement",
+      "source_url": "https://www.reddit.com/r/HomeImprovement/comments/1ufsgsj/first_time_home_owner/",
+      "quote": "The inspection found several issues that are pushing me toward tackling the plumbing first: multiple leaks (including a shower leak), an old furnace condensate drain line that needs repair, original cast iron and galvanized drain pipes, and a sewer camera inspection that found significant root intrusion with an obstruction farther down the line.",
+      "quote_context": "First-time homeowner receives home inspection report with multiple plumbing issues. Overwhelmed trying to understand what needs immediate attention vs. what can wait.",
+      "pain_point": "First-time homeowners receive home inspection reports with multiple plumbing issues and don't know how to prioritize repairs. Cast iron pipes, root intrusion, leaks - all mentioned but no context on urgency or cost.",
+      "solvable_10page": true,
+      "total_score": 7,
+      "scoring": {
+        "frequency": 2.5,
+        "frustration": 2.5,
+        "solvability": 1.5,
+        "uniqueness": 1.5,
+        "market_gap": 1,
+        "emotional_resonance": 2,
+        "uniqueness_notes": "Overlap with foundation-repair-cost-shock and plumbing-emergency-budget. Plumbing-specific angle partially covered.",
+        "solvability_notes": "Guide could prioritize issues by urgency and cost. Some problems require professional - limits DIY content."
+      },
+      "pillars": [
+        {
+          "pillar": "Understanding pipe materials and their failure risks",
+          "verification": "VERIFIED",
+          "evidence": "Cast iron and galvanized pipes have known lifespans and failure modes. Well-documented in plumbing literature."
+        },
+        {
+          "pillar": "Root intrusion: severity assessment and options",
+          "verification": "VERIFIED",
+          "evidence": "Root intrusion severity determines solution (snaking vs. hydro-jetting vs. pipe replacement)."
+        },
+        {
+          "pillar": "Prioritizing repairs by urgency and cost",
+          "verification": "PLAUSIBLE",
+          "evidence": "General guidance exists but specific prioritization depends on local codes and contractor input."
+        }
+      ],
+      "existing_collisions": [
+        {
+          "slug": "plumbing-emergency-budget_v1",
+          "similarity": "45%",
+          "reason": "Covers plumbing emergencies and budget planning but not specifically inspection prioritization"
+        },
+        {
+          "slug": "foundation-crack-homeowner-panic_v1",
+          "similarity": "20%",
+          "reason": "Both are new homeowner panic guides but cover different systems"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "trends_scanned": 3,
+    "trends_above_8": 1,
+    "recommended_proceed": true,
+    "notes": "Cat counter-surfing is the clear winner. Twins guide has slight collision risk but unique angle. Plumbing guide overlaps with existing content."
+  }
+}
