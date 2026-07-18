@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "End Constant Meowing: The Vet-Cleared Cat Vocalization Retraining Guide",
+    "slug": "cat-constant-meowing-fix",
+    "description": "A comprehensive guide to cat constant meowing fix.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "cat-constant-meowing-fix.pdf",
+      "path": "output/final_products/cat-constant-meowing-fix_v1.pdf",
+      "size_bytes": 39061
+    },
+    {
+      "name": "cat-constant-meowing-fix_CHECKLIST.pdf",
+      "path": "output/final_products/cat-constant-meowing-fix_v1_CHECKLIST.pdf",
+      "size_bytes": 17641
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/cat-constant-meowing-fix",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: End Constant Meowing: The Vet-Cleared Cat Vocalization Retraining Guide",
+    "3. Slug: cat-constant-meowing-fix",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - cat-constant-meowing-fix_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/cat-constant-meowing-fix"
+  ]
+}

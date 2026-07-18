@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-18",
+  "status": "PROCEED",
+  "trends": [
+    {
+      "id": "cat-constant-meowing-2026-07-18",
+      "slug": "cat-constant-meowing-fix",
+      "title": "Healthy Cat Won't Stop Meowing: End the Nonstop Vocalization",
+      "source": "Reddit r/CatAdvice",
+      "source_url": "https://www.reddit.com/r/CatAdvice/comments/1u5ynno/my_cats_meowing_is_ruining_my_life/",
+      "quote": "Healthy, neutered 2.5-year-old cat. Has meowed nonstop since kittenhood. Multiple vets found no medical cause. He just will not stop.",
+      "quote_context": "Cat owner describes years of constant meowing despite multiple vet visits and no medical diagnosis. The cat has been vocalizing since adoption as a kitten with no relief found through medical intervention.",
+      "pain_point": "Cat owners with healthy cats that meow excessively all day and night — not for food, not for attention in normal ways, just constant vocalization. Vets find nothing wrong. The internet has no clear answer. The owner is at their wit's end.",
+      "solvable_10page": true,
+      "total_score": 8.5,
+      "scoring": {
+        "frequency": 2.5,
+        "frustration": 3,
+        "solvability": 2.5,
+        "uniqueness": 3,
+        "market_gap": 2,
+        "emotional_resonance": 3,
+        "uniqueness_notes": "No existing guide covers constant daytime + nighttime meowing in a vet-cleared healthy cat. Existing guides cover morning-only or night-only. This is all-day learned vocalization.",
+        "solvability_notes": "Learned behavior + environmental mismatch = solvable with behavior modification protocol. Medical causes covered in vet-clear section."
+      },
+      "pillars": [
+        {
+          "pillar": "Medical clearance checklist: ruling out hyperthyroidism, pain, CDS",
+          "verification": "VERIFIED",
+          "evidence": "AVMA, Cornell Feline Health Center: hyperthyroidism, cognitive decline, and chronic pain all cause increased vocalization in vet-cleared cats. T4 panel and senior chem panel warranted."
+        },
+        {
+          "pillar": "Learned vocalization: how the meowing became a habit and how to retrain",
+          "verification": "VERIFIED",
+          "evidence": "ASPCA, feline behavior science: meowing for attention is reinforced by owner response. Cats can develop persistent vocalization patterns independent of original trigger."
+        },
+        {
+          "pillar": "Environmental restructuring to reduce stimulation-driven meowing",
+          "verification": "VERIFIED",
+          "evidence": "Cornell AAFP guidelines: environmental enrichment reduces stress-driven behaviors. Predictable routine + low-stimulation environment addresses cats who vocalize due to environmental uncertainty."
+        }
+      ],
+      "existing_collisions": [
+        {
+          "slug": "cat-morning-meowing-fix_v1",
+          "similarity": "35%",
+          "reason": "Both address cat vocalization but cat-morning-meowing-fix is specifically early AM onset with food motivation focus. This guide covers all-day learned vocalization with no food focus."
+        },
+        {
+          "slug": "stop-cat-night-yowling_v1",
+          "similarity": "40%",
+          "reason": "Both cover excessive vocalization but stop-cat-night-yowling is specific to nighttime onset, senior cats with CDS, and medical-first approach. This guide covers daytime + nighttime constant meowing in young healthy cats."
+        }
+      ]
+    },
+    {
+      "id": "new-homeowner-maintenance-priority-2026-07-18",
+      "slug": "new-homeowner-maintenance-priority-guide",
+      "title": "New Homeowner Maintenance: Know What to Fix Before It Becasts a Crisis",
+      "source": "Reddit r/Homeowners",
+      "source_url": "https://www.reddit.com/r/homeowners/comments/1qiq538/new_homeowner_freaking_out_help/",
+      "quote": "Be patient, and expect that you will get frustrated and shit is going to be expensive, but it will be worth it in the end.",
+      "quote_context": "New homeowner expresses the universal first-year panic: everything feels urgent, everything costs money, and there's no clear map for what to tackle first. The advice 'get a maintenance checklist' surfaces repeatedly as the missing tool.",
+      "pain_point": "First-year homeowners are overwhelmed by maintenance demands with no prior experience. They can't distinguish between 'fix this today' and 'this can wait 3 years.' They overspend on emergency repairs because nothing was on their radar until it failed.",
+      "solvable_10page": true,
+      "total_score": 8.0,
+      "scoring": {
+        "frequency": 3,
+        "frustration": 3,
+        "solvability": 2,
+        "uniqueness": 2,
+        "market_gap": 1.5,
+        "emotional_resonance": 3,
+        "uniqueness_notes": "Overlaps with new-homeowner-maintenance-guide_v1 (maintenance overview) and new-homeowner-repair-emergency-budget_v1 (budget focus). This guide's angle is prioritization by urgency and consequence — what fails first, what costs most when it fails.",
+        "solvability_notes": "Seasonal maintenance scheduling + failure-mode analysis = highly actionable. Some content overlaps with existing guides but prioritization framing is distinct."
+      },
+      "pillars": [
+        {
+          "pillar": "Seasonal maintenance calendar: what to do and when",
+          "verification": "VERIFIED",
+          "evidence": "NFPA, home inspector associations: seasonal maintenance prevents cascade failures. Gutter cleaning before winter, HVAC servicing before cooling season."
+        },
+        {
+          "pillar": "Failure-mode ranking: what breaks first and what costs the most",
+          "verification": "VERIFIED",
+          "evidence": "Home warranty data, insurance claim data: water-related damage (leaks, burst pipes, water heaters) accounts for largest homeowner losses. HVAC second. Structural issues are rare but expensive."
+        },
+        {
+          "pillar": "Budget tiering: $50 fixes vs $500 fixes vs $5000 emergencies",
+          "verification": "VERIFIED",
+          "evidence": "HomeAdvisor cost data, Angi cost guides: clear cost tiers exist for common repairs. Knowing the tier prevents overpaying for simple fixes."
+        }
+      ],
+      "existing_collisions": [
+        {
+          "slug": "new-homeowner-maintenance-guide_v1",
+          "similarity": "50%",
+          "reason": "Both cover new homeowner maintenance. This guide is narrower: prioritization by urgency/failure cost rather than comprehensive maintenance overview."
+        },
+        {
+          "slug": "new-homeowner-repair-emergency-budget_v1",
+          "similarity": "45%",
+          "reason": "Both cover budget/expense planning for new homeowners. This guide focuses on prioritization and prevention vs. emergency response and budget allocation."
+        }
+      ]
+    },
+    {
+      "id": "contractor-quality-evaluation-2026-07-18",
+      "slug": "contractor-quality-evaluation-guide",
+      "title": "Contractor Quality at Closing: What Matters, What Doesn't, What to Fight For",
+      "source": "Reddit r/Homeowners",
+      "source_url": "https://www.reddit.com/r/homeowners/comments/1sma2gg/how_to_be_mentally_at_peace_with_sloppy_subpar/",
+      "quote": "You're not wrong to be frustrated. The trick is figuring out what actually matters structurally versus what's cosmetic.",
+      "quote_context": "Homeowner is stressed by subpar contractor work at closing/renovation time. Doesn't know whether to demand corrections, accept credit, or let it go. Wants a framework for distinguishing real problems from surface complaints.",
+      "pain_point": "Homebuyers and new homeowners dealing with contractor quality issues at closing or during reno. They got an itemized list of deficiencies from the seller or found contractor work that's imperfect. They don't know what's a real structural concern vs cosmetic complaint they should accept.",
+      "solvable_10page": true,
+      "total_score": 7.5,
+      "scoring": {
+        "frequency": 2,
+        "frustration": 3,
+        "solvability": 2.5,
+        "uniqueness": 2.5,
+        "market_gap": 2,
+        "emotional_resonance": 3,
+        "uniqueness_notes": "No existing skeleton covers contractor quality evaluation specifically. home-warranty-claim-denied covers insurance. foundation-crack-homeowner-panic covers foundation only. This is broad contractor quality assessment.",
+        "solvability_notes": "Structural vs cosmetic framework is actionable. Inspector report interpretation + contractor bid comparison + negotiation tactics = solvable content."
+      },
+      "pillars": [
+        {
+          "pillar": "Structural vs cosmetic: the decision framework",
+          "verification": "VERIFIED",
+          "evidence": "Home inspector standards (InterNACHI, ASHI): clear distinctions exist between structural deficiencies and cosmetic defects. Framework is well-established in home inspection industry."
+        },
+        {
+          "pillar": "Using your home inspection report as a negotiation tool",
+          "verification": "VERIFIED",
+          "evidence": "Real estate negotiation guides: inspection reports with specific, documented deficiencies carry legal weight in renegotiation. General complaints do not."
+        },
+        {
+          "pillar": "Contractor repair verification: how to confirm quality work",
+          "verification": "PLAUSIBLE",
+          "evidence": "General contractor verification tactics exist but outcomes vary by contractor quality and local licensing. Specific verification steps (photos, permits, sign-offs) are documented."
+        }
+      ],
+      "existing_collisions": [
+        {
+          "slug": "foundation-crack-homeowner-panic_v1",
+          "similarity": "20%",
+          "reason": "Both are homeowner closing-related but foundation-crack-guide covers specific structural concern, not general contractor quality"
+        },
+        {
+          "slug": "home-warranty-claim-denied_v1",
+          "similarity": "15%",
+          "reason": "Both deal with home quality issues but warranty guide covers insurance/home warranty claims, not contractor work assessment"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "trends_scanned": 5,
+    "trends_above_8": 1,
+    "recommended_proceed": true,
+    "notes": "Cat constant meowing is the clear winner at 8.5/10. New homeowner maintenance priority at 8/10 is also viable but overlaps with existing content — proceed with caution on collision. Contractor quality evaluation is 7.5/10 — viable but below threshold."
+  }
+}
