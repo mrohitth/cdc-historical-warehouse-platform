@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T15:58:51.612Z",
+  "updatedAt": "2026-07-20T13:34:23.726Z",
   "entries": {
     "memory:memory/2026-05-22.md:24:54": {
       "key": "memory:memory/2026-05-22.md:24:54",
@@ -373,18 +373,20 @@
       "endLine": 165,
       "source": "memory",
       "snippet": "| 16 | Emoji bullets in ProjectsSection (\"⭐ Featured\", \"📚 Academic\") — template-y | ProjectsSection.tsx | | 17 | Scroll indicator bounce animation (`animate-bounce`) still present in HeroSection | HeroSection.tsx | #### 🟢 LOW / STRUCTURAL OBSERVATIONS | # | Issue | |---|-------| | 18 | No streaming experience shown anywhere — all batch; if targeting streaming roles, this is a gap | | 19 | EKS listed in SKILL_DOMAINS but never referenced in experience or projects — questions about credibility | | 20 | ROLES array in portfolio.ts has \"Pipeline Builder\", \"AWS EMR Specialist\", \"Batch Systems Engineer\" — these look like internal team names, not job title descriptors a recruiter would search |",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.4200115323066711,
-      "maxScore": 0.4200115323066711,
+      "totalScore": 0.8531722098588943,
+      "maxScore": 0.4331606775522232,
       "firstRecalledAt": "2026-05-27T19:30:51.962Z",
-      "lastRecalledAt": "2026-05-27T19:30:51.962Z",
+      "lastRecalledAt": "2026-07-20T13:34:23.726Z",
       "queryHashes": [
-        "84ed8b2174dc"
+        "84ed8b2174dc",
+        "3de320a3261e"
       ],
       "recallDays": [
-        "2026-05-27"
+        "2026-05-27",
+        "2026-07-20"
       ],
       "conceptTags": [
         "template-y",
@@ -647,6 +649,130 @@
         "pdf",
         "pipeline",
         "full"
+      ]
+    },
+    "memory:memory/2026-06-05.md:1:30": {
+      "key": "memory:memory/2026-06-05.md:1:30",
+      "path": "memory/2026-06-05.md",
+      "startLine": 1,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "- [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-06-05 — SKIPPED (no qualifying trends >8/10; Reddit fetch blocked; catalog saturated) - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 11:08 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) ## 12:43 PM — Portfolio Update + Scanner Status - Portfolio updated from Fidelity CSV (Jun 5 12:42 PM ET) - Major changes: Added MRVL (21.98 sh), SCHG (144.133 sh), QUAL (9.278 sh), RKLB (10 sh). NOK now 181.357 sh, ARM6.279 sh, NVDA 79.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.45610533654689783,
+      "maxScore": 0.45610533654689783,
+      "firstRecalledAt": "2026-07-20T13:34:23.726Z",
+      "lastRecalledAt": "2026-07-20T13:34:23.726Z",
+      "queryHashes": [
+        "3de320a3261e"
+      ],
+      "recallDays": [
+        "2026-07-20"
+      ],
+      "conceptTags": [
+        "8/10",
+        "21.98",
+        "144.133",
+        "9.278",
+        "181.357",
+        "arm6.279",
+        "marketbot",
+        "scan"
+      ]
+    },
+    "memory:memory/2026-07-07.md:66:98": {
+      "key": "memory:memory/2026-07-07.md:66:98",
+      "path": "memory/2026-07-07.md",
+      "startLine": 66,
+      "endLine": 98,
+      "source": "memory",
+      "snippet": "- [x] [K] TrendScout 2026-07-07 — diy-ant-control-budget-guide_v1, cat-inappropriate-elimination-vet-cleared_v1, toddler-sleep-regression-survival_v1 pipeline complete. PDFs + checklists synced to GitHub. LS deploy: manual (API read-only, manifests generated). - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] PDF Pipeline Daily — full run completed at 11:01 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) -",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4378684788942337,
+      "maxScore": 0.4378684788942337,
+      "firstRecalledAt": "2026-07-20T13:34:23.726Z",
+      "lastRecalledAt": "2026-07-20T13:34:23.726Z",
+      "queryHashes": [
+        "3de320a3261e"
+      ],
+      "recallDays": [
+        "2026-07-20"
+      ],
+      "conceptTags": [
+        "diy-ant-control-budget-guide-v1",
+        "read-only",
+        "trendscout",
+        "diy",
+        "ant",
+        "control",
+        "budget",
+        "guide-v1"
+      ]
+    },
+    "memory:memory/2026-06-15.md:66:88": {
+      "key": "memory:memory/2026-06-15.md:66:88",
+      "path": "memory/2026-06-15.md",
+      "startLine": 66,
+      "endLine": 88,
+      "source": "memory",
+      "snippet": "- [x] [K] TrendScout 2026-06-15 — preschool-bedtime-resistance-guide pipeline complete - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 11:04 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scan (cron) ## Kaizen Analysis — 2026-06-16 Morning Health pulse: RAM=38%, Disk=57%, Sessions=429MB — HEALTH_CRITICAL from sessio",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4363255947828293,
+      "maxScore": 0.4363255947828293,
+      "firstRecalledAt": "2026-07-20T13:34:23.726Z",
+      "lastRecalledAt": "2026-07-20T13:34:23.726Z",
+      "queryHashes": [
+        "3de320a3261e"
+      ],
+      "recallDays": [
+        "2026-07-20"
+      ],
+      "conceptTags": [
+        "health-critical",
+        "trendscout",
+        "preschool",
+        "bedtime",
+        "resistance",
+        "guide",
+        "pipeline",
+        "complete"
+      ]
+    },
+    "memory:memory/2026-06-25.md:37:71": {
+      "key": "memory:memory/2026-06-25.md:37:71",
+      "path": "memory/2026-06-25.md",
+      "startLine": 37,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "- Recommended: restrict Telegram group policy to allowlist - Recommended: run `openclaw update` to apply 2026.6.10 - [x] [K] MarketBot scan (cron) - [x] [K] TrendScout 2026-06-25 — hoa-survival-guide + strong-willed-child-guide pipeline complete (2 products, Lemon Squeezy deploy script not found — manual deploy needed) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] PDF Pipeline Daily — full run completed at 11:05 ET - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot scan (cron) - [x] [K] MarketBot scanner — delivered - [x] [K] MarketBot s",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.43318988382816315,
+      "maxScore": 0.43318988382816315,
+      "firstRecalledAt": "2026-07-20T13:34:23.726Z",
+      "lastRecalledAt": "2026-07-20T13:34:23.726Z",
+      "queryHashes": [
+        "3de320a3261e"
+      ],
+      "recallDays": [
+        "2026-07-20"
+      ],
+      "conceptTags": [
+        "2026.6.10",
+        "hoa-survival-guide",
+        "strong-willed-child-guide",
+        "recommended",
+        "restrict",
+        "telegram",
+        "group",
+        "policy"
       ]
     }
   }

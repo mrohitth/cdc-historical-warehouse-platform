@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-20",
+  "status": "PASS",
+  "trends": [
+    {
+      "topic": "toddler-sleep-training-exhaustion",
+      "slug_candidate": "toddler-sleep-consultant-scam",
+      "product_direction": "The Sleep Consultant Reckoning: A Guide for Parents Who Paid for Advice That Didn't Work",
+      "platform": "reddit",
+      "quote": "Every website I poured over in my desperation promised to help with baby sleep if I paid their stupid consultants, but every free consult sneak peek was just 'baby will cry a lot, but it'll be okay in the end'.",
+      "url": "https://www.reddit.com/r/toddlers/comments/19fhq8b/if_you_didnt_sleep_train_your_toddler_as_a_baby/",
+      "pain_points": [
+        "Desperate parents paying hundreds for sleep consultants",
+        "Generic advice that doesn't account for individual child temperament",
+        "Constant crying with no clear end in sight",
+        "Destroyed sleep schedules for whole family",
+        "No confidence in distinguishing actual progress from just giving up"
+      ],
+      "total_score": 9,
+      "solvable": true
+    },
+    {
+      "topic": "cat-picky-eater-frustration",
+      "slug_candidate": "cat-picky-eater-frustration",
+      "product_direction": "Cat Picky Eater Survival Guide",
+      "platform": "reddit",
+      "quote": "My 5yr cat is the pickiest eater. I finally found a food he liked, Iams Tuna cuts perfect portions. He ate it for almost a year. Now he says nope, I just want the other cats expensive prescription food.",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/1saxiow/feel_defeated_with_a_picky_eater/",
+      "pain_points": [
+        "Cat suddenly refusing previously accepted food",
+        "Waste of money on expensive foods cat won't eat",
+        "Guilt about 'giving in' vs staying firm",
+        "Health concerns about inadequate nutrition",
+        "No clear system for transitioning foods"
+      ],
+      "total_score": 7,
+      "solvable": true
+    },
+    {
+      "topic": "homeowner-plumbing-emergency-preparedness",
+      "slug_candidate": "homeowner-plumbing-emergency-preparedness",
+      "product_direction": "Homeowner Emergency Plumbing Guide",
+      "platform": "reddit",
+      "quote": "I've seen people post on here that they just called their home warranty and waited DAYS until the plumber showed up to shut off the water.",
+      "url": "https://www.reddit.com/r/homeowners/comments/1k9upk6/things_every_homeowner_needs_to_know_in/",
+      "pain_points": [
+        "Not knowing where main water shutoff is located",
+        "No emergency plumbing kit on hand",
+        "Waiting days for plumbers during actual emergencies",
+        "Confusion about what constitutes a true emergency vs wait-and-see",
+        "No relationships with reliable local contractors"
+      ],
+      "total_score": 6,
+      "solvable": true
+    }
+  ]
+}
