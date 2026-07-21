@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-21",
+  "stage": "1_scout",
+  "status": "PASSED",
+  "trends": [
+    {
+      "trend_id": "toddler-sleep-resistance",
+      "slug": "toddler-sleep-battles",
+      "category": "parenting",
+      "source_platform": "reddit",
+      "source_subreddit": "r/toddlers",
+      "source_url": "https://www.reddit.com/r/toddlers/comments/1i71afb/three_year_old_refusing_to_sleep_losing_my_mind/",
+      "raw_quote": "I got so frustrated and angry every time he put up a fight about nap and bedtime that he loved the challenge and was basically like f ya",
+      "problem_statement": "Parents of toddlers (1-4 years) experience intense frustration and guilt during bedtime battles, leading to resentment and family stress.",
+      "pain_score": 9,
+      "frequency_score": 8,
+      "solvability_score": 9,
+      "total_score": 26,
+      "standalone_guide_viable": true,
+      "notes": "Emotional intensity is high. Multiple Reddit threads confirm widespread issue. Solutions include: consistent bedtime routine, environmental setup, addressing underlying fears, parental response patterns."
+    },
+    {
+      "trend_id": "cat-litter-box-refusal",
+      "slug": "cat-litter-box-problems",
+      "category": "pet care",
+      "source_platform": "reddit",
+      "source_subreddit": "r/CatAdvice",
+      "source_url": "https://www.reddit.com/r/CatAdvice/comments/1iwtsx4/litter_box_issue_with_new_cat_not_sure_if_we_are/",
+      "raw_quote": "my cat refuses to consistently use a litter box and my house smells like pee",
+      "problem_statement": "Cat owners deal with persistent litter box issues that cause home odor problems, vet costs, and surrender anxiety.",
+      "pain_score": 8,
+      "frequency_score": 7,
+      "solvability_score": 8,
+      "total_score": 23,
+      "standalone_guide_viable": true,
+      "notes": "Common across single and multi-cat homes. Solutions: litter type/location, number of boxes, cleaning schedules, anxiety management, vet rule-outs."
+    },
+    {
+      "trend_id": "recurring-drain-clogs",
+      "slug": "stop-drain-clogs",
+      "category": "home maintenance",
+      "source_platform": "reddit",
+      "source_subreddit": "r/homeowners",
+      "source_url": "https://www.reddit.com/r/homeowners/comments/1d958b1/sorry_this_is_really_disgusting_why_does_my/",
+      "raw_quote": "why does my bathroom sink get so clogged every 6-8 months",
+      "problem_statement": "Homeowners spend money on drain cleaners and plumbers but clogs keep recurring, feeling like a losing battle.",
+      "pain_score": 7,
+      "frequency_score": 8,
+      "solvability_score": 8,
+      "total_score": 23,
+      "standalone_guide_viable": true,
+      "notes": "Root causes vary: soap scum, hair, improper use, venting issues. Prevention-focused guide can help avoid repeat clogs."
+    }
+  ],
+  "threshold_check": {
+    "required": 8,
+    "passed": true,
+    "highest_score": 26,
+    "trends_above_threshold": 3
+  }
+}
