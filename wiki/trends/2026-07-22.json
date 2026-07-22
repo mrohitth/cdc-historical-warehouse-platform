@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-22",
+  "stage": "1_scout",
+  "status": "PASSED",
+  "trends": [
+    {
+      "trend_id": "senior-cat-night-yowling-cds",
+      "slug": "cat-sundown-syndrome-guide",
+      "category": "pet care",
+      "source_platform": "reddit",
+      "source_subreddit": "r/CatTraining",
+      "source_url": "https://www.reddit.com/r/CatTraining/comments/1s5d9mz/cat_extreme_yowling_all_night_and_day/",
+      "raw_quote": "I never sleep more then an hour or two. Shes 14 and deaf. But this just started about years ago. Vet says shes fine. I can hardly take it anymore. She does it sitting next to me on the bed. Shes calm. Not anxious. She just cant hear herself yodeling at 1am, 3am, 5am. Its way louder then an alarm clock. What should I do.",
+      "problem_statement": "Owners of senior cats (10+) experience severe sleep deprivation when their cat begins yowling at night due to cognitive decline, deafness, or sundown syndrome. They feel guilty for being frustrated, have been to the vet with no clear answers, and are desperate for anything that lets them sleep.",
+      "pain_score": 10,
+      "frequency_score": 9,
+      "solvability_score": 8,
+      "total_score": 27,
+      "standalone_guide_viable": true,
+      "notes": "Highly specific sub-niche of night yowling. Cornell Feline Health Center, AAHA, and multiple veterinary sources confirm CDS causes nighttime vocalization. Different from general yowling guides: this requires senior-specific environmental adaptations, CDS support, deaf-cat accommodations, and emotional support for owners."
+    },
+    {
+      "trend_id": "cat-night-yowling-deaf",
+      "slug": "cat-sundown-syndrome-guide",
+      "category": "pet care",
+      "source_platform": "reddit",
+      "source_subreddit": "r/CatAdvice",
+      "source_url": "https://www.reddit.com/r/CatAdvice/comments/1srmmr0/desperate_for_help_13yearold_cat_wont_stop/",
+      "raw_quote": "My cat got dementia, forgot constantly where things were, also started meowing super loudly at 4 a.m. She was so confused started to be a safety problem for her.",
+      "problem_statement": "When a cat's night yowling is driven by dementia or deafness rather than attention-seeking, standard behavioral advice fails. Owners need a medical-first, comfort-focused approach.",
+      "pain_score": 9,
+      "frequency_score": 9,
+      "solvability_score": 8,
+      "total_score": 26,
+      "standalone_guide_viable": true,
+      "notes": "Direct confirmation of dementia-driven nighttime vocalization. This quote provides the clearest problem statement: confusion at 4am, safety concerns, standard advice doesn't apply. Guide must address CDS specifically."
+    }
+  ],
+  "threshold_check": {
+    "required": 8,
+    "passed": true,
+    "highest_score": 27,
+    "trends_above_threshold": 2
+  }
+}
