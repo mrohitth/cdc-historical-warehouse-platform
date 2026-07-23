@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-23",
+  "stage": "1_scout",
+  "status": "PASSED",
+  "trends": [
+    {
+      "trend_id": "automatic-litter-box-buyer-remorse-cds",
+      "slug": "automatic-litter-box-regret-guide",
+      "category": "pet care",
+      "source_platform": "reddit",
+      "source_subreddit": "r/litterrobot",
+      "source_url": "https://www.reddit.com/r/litterrobot/comments/1ucw3ka/i_think_were_far_enough_along_into_the_litter/",
+      "raw_quote": "My disappointment is boundless and my day is ruined. Said from day one the LR5 is not ready for prime time. Hard to get functions to work properly when it won't even stay connected to WiFi. I wanted to return it straight away but the procedure is too onerous and expensive to make it worthwhile. Absolute garbage and hands down the biggest purchase regret I've ever made.",
+      "problem_statement": "Cat owners who spent $400-700 on automatic litter boxes (Litter Robot, Pet Pivot, etc.) are experiencing buyer's remorse when the devices malfunction within months, require constant troubleshooting, and create more stress than the manual boxes they replaced. They feel trapped because return policies are confusing and expensive.",
+      "pain_score": 9,
+      "frequency_score": 8,
+      "solvability_score": 7,
+      "total_score": 24,
+      "standalone_guide_viable": true,
+      "notes": "Different from generic litter box guides - this is specifically for people who already bought auto boxes and regret it. Guide can cover: what to do when auto box fails, manual box alternatives that don't feel like a downgrade, when to give up on auto boxes, resale/return strategies."
+    },
+    {
+      "trend_id": "tab-overwhelm-digital-hoarding-cds",
+      "slug": "10k-tabs-digital-detox-guide",
+      "category": "digital productivity",
+      "source_platform": "reddit",
+      "source_subreddit": "r/productivity",
+      "source_url": "https://www.reddit.com/r/productivity/comments/1uh1jfo/dealing_with_more_than_10000_tabs/",
+      "raw_quote": "So I have over 10000 tabs combined in my PC's browser spanning multiple windows, safari in my iPhone, browser in my android phone. I want to begin…",
+      "problem_statement": "Knowledge workers, researchers, and neurodivergent users have accumulated 1000-10000+ browser tabs across multiple devices, creating paralysis rather than organization. They know they should clean it up but feel overwhelmed by the scope, guilty about the waste, and unsure where to start without losing important information.",
+      "pain_score": 9,
+      "frequency_score": 8,
+      "solvability_score": 9,
+      "total_score": 26,
+      "standalone_guide_viable": true,
+      "notes": "Very actionable - 10-page guide can cover: tab audit method, tab categorization system, bookmark vs tab vs read-later distinction, batch processing techniques, ongoing maintenance system. Clear step-by-step process that delivers immediate relief."
+    },
+    {
+      "trend_id": "side-hustle-starting-burnout-cds",
+      "slug": "side-hustle-focus-guide",
+      "category": "career/entrepreneurship",
+      "source_platform": "reddit",
+      "source_subreddit": "r/SideProject",
+      "source_url": "https://www.reddit.com/r/SideProject/comments/1ufjdut/six_months_multiple_projects_im_exhausted/",
+      "raw_quote": "Six months, multiple projects. I'm exhausted. The pattern I'd gently point at: you've started five things, and one of them already won the fight you yourself called the hardest in 2026. Stop starting. Go deep on the motorcycle app — that's not the heartbreak, that's the asset. The other four are the drawer; that one is the business. And for what it's worth — you're burned out, not failing.",
+      "problem_statement": "Aspiring entrepreneurs start multiple side hustles simultaneously, never finishing any of them, and end up exhausted and demotivated. They confuse activity with progress and struggle to identify which project actually has potential versus which is just a distraction from doing the hard work.",
+      "pain_score": 9,
+      "frequency_score": 9,
+      "solvability_score": 8,
+      "total_score": 26,
+      "standalone_guide_viable": true,
+      "notes": "Different from generic 'how to start a side hustle' - this is for people who are already stuck in the starting loop. Guide can cover: project audit framework, sunk cost vs potential distinction, the one-project focus method, how to kill bad ideas gracefully, energy management for side hustlers."
+    }
+  ],
+  "threshold_check": {
+    "required": 8,
+    "passed": true,
+    "highest_score": 26,
+    "trends_above_threshold": 3
+  }
+}
