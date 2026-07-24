@@ -1,0 +1,46 @@
+{
+  "status": "SKIPPED",
+  "reason": "No high-value pain points found",
+  "date": "2026-07-24",
+  "scout_notes": {
+    "trends_searched": [
+      {
+        "topic": "first-time homeowner hidden maintenance costs",
+        "platform": "Reddit r/Homeowners + r/FirstTimeHomeBuyer",
+        "raw_quote": "The monthly total cost of ownership adds up quickly when you consider water, sewer, garbage, internet, electricity, gas, and standard maintenance",
+        "stat": "$21,084/year before mortgage (r/REBubble, Oct 2025)",
+        "score": 8.5,
+        "can_10page_guide": true,
+        "collision": "new-homeowner-maintenance-guide_v1_SKELETON.md exists (seasonal priority + cost-context + tracking)"
+      },
+      {
+        "topic": "screen time parental guilt + addictive apps",
+        "platform": "Reddit r/Parenting + r/Preschoolers",
+        "raw_quote": "Parents are struggling with this because the apps are designed to be way more addictive than TV was when we were kids",
+        "stat": "84.6% of parents feel guilt about child's screen time (S.S. Coulter survey, 2026)",
+        "score": 8.5,
+        "can_10page_guide": true,
+        "collision": "screen-time-boundary-system_v1_SKELETON.md exists (extinction burst + transition rituals + earned access)"
+      },
+      {
+        "topic": "cat constant meowing vet-cleared",
+        "platform": "Reddit r/CatAdvice",
+        "raw_quote": "Healthy, neutered 2.5-year-old cat. Has meowed nonstop since kittenhood. Multiple vets found no medical cause. He just will not stop.",
+        "score": 8.5,
+        "can_10page_guide": true,
+        "collision": "cat-constant-meowing-fix_v1_SKELETON.md exists (medical triage + behavior retraining + environmental optimization)"
+      },
+      {
+        "topic": "cat separation anxiety when alone",
+        "platform": "Reddit r/CatAdvice + r/CatTraining",
+        "raw_quote": "i feel like my cat has some form of separation anxiety (she screams whenever i'm gone for a few hours or in another room), but i've tried everything to soothe her and it's not really working",
+        "score": 7.5,
+        "can_10page_guide": true,
+        "collision": "none (no existing skeleton) — score below 8 threshold"
+      }
+    ],
+    "summary": "Three trends scored 8.5/10 with real frustration quotes. All three have existing skeletons with >80% topic overlap. No novel angle identified for a new skeleton today."
+  },
+  "pipeline_version": "2.1",
+  "skipped_at_utc": "2026-07-24T14:00:00Z"
+}
