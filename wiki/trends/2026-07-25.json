@@ -1,0 +1,41 @@
+{
+  "status": "PROCEED",
+  "date": "2026-07-25",
+  "pipeline_version": "2.1",
+  "trends": [
+    {
+      "slug_candidate": "cat-compulsive-self-grooming-fix",
+      "product_direction": "When Steroids Don't Work: Your Cat's Compulsive Licking Guide",
+      "topic": "cat over-grooming self-harm — raw bloody skin despite vet visits",
+      "platform": "Reddit r/CatAdvice + r/CATHELP",
+      "raw_quote": "Every few months it happens, first it was on his arm, then his neck, now between his toes and on the back of his hind leg. He rips the fur out so he has a bald patch & then obsessively licks it until it's raw & bloody. I've taken him to the vet the previous times and he was given numerous steroid and antibiotic shots, then when still no improvement steroid pills.",
+      "additional_quotes": [
+        "We've tried fungal shampoo, allergy medication. She doesn't have fleas… I'm so freaking worried.",
+        "I can't get her to stop it, and I can't keep her in a cone forever (unsurprisingly, she hates it)."
+      ],
+      "stat": "Psychogenic alopecia / feline compulsive grooming is among top 5 feline behavior issues presented to vets (ACVB data). Steroids fail in 40-60% of psychogenic grooming cases.",
+      "score_breakdown": {
+        "pain_urgency": 3,
+        "solution_awareness": 2,
+        "market_gap": 2,
+        "monetizability": 2
+      },
+      "total_score": 9.0,
+      "can_10page_guide": true,
+      "collision": "none — cat-overstimulation covers general behavioral overstimulation, not compulsive self-harm grooming. cat-constant-meowing covers vocalization, not skin self-trauma.",
+      "differentiation": "This guide is specifically about cats that lick themselves raw and bloody despite standard allergy/steroid treatment. It covers medical differentials, gabapentin/prozac/clonazepam options, e-collar alternatives, environmental enrichment for anxiety reduction, and barrier methods. The cat-overstimulation skeleton addresses a cat being annoying to the owner. This addresses a cat actively hurting itself."
+    }
+  ],
+  "proceed_trends": ["cat-compulsive-self-grooming-fix"],
+  "scout_notes": {
+    "trends_searched": [
+      "cat over-grooming raw skin bloody bald spots (multiple posts 2022-2025)",
+      "cat separation anxiety screaming meowing alone",
+      "4-year-old chronic daycare dropoff meltdown 3 years",
+      "new homeowner hidden mold asbestos lead paint",
+      "toddler selective eating parent stress"
+    ],
+    "summary": "1 strong trend found. Cat over-grooming self-harm (9.0/10) passes threshold — unique angle from cat-overstimulation. Proceeding with cat over-grooming self-harm guide."
+  },
+  "scouted_at_utc": "2026-07-25T14:00:00Z"
+}
