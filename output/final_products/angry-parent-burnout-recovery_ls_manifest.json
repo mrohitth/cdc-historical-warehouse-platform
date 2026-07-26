@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Angry Parent Burnout Recovery: Stop the Yell-Guilt Cycle and Build Real Regulation",
+    "slug": "angry-parent-burnout-recovery",
+    "description": "A comprehensive guide to angry parent burnout recovery.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "angry-parent-burnout-recovery.pdf",
+      "path": "output/final_products/angry-parent-burnout-recovery_v1.pdf",
+      "size_bytes": 34051
+    },
+    {
+      "name": "angry-parent-burnout-recovery_CHECKLIST.pdf",
+      "path": "output/final_products/angry-parent-burnout-recovery_v1_CHECKLIST.pdf",
+      "size_bytes": 18329
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/angry-parent-burnout-recovery",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Angry Parent Burnout Recovery: Stop the Yell-Guilt Cycle and Build Real Regulation",
+    "3. Slug: angry-parent-burnout-recovery",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - angry-parent-burnout-recovery_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/angry-parent-burnout-recovery"
+  ]
+}

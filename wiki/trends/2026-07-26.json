@@ -1,0 +1,224 @@
+{
+  "date": "2026-07-26",
+  "scout_session": "cron_1e85c944_2026-07-26",
+  "trends": [
+    {
+      "id": "garage-door-repair-bill-shock",
+      "category": "homeowner",
+      "title": "Garage Door Repair Bill Shock",
+      "slug": "garage-door-repair-bill-shock",
+      "source_platform": "Reddit + News (WFTV)",
+      "source_urls": [
+        "https://www.reddit.com/r/GarageDoorService/comments/1uvkjtp/is_this_garage_door_spring_busted/",
+        "https://www.wftv.com/news/local/i-gotta-have-this-fixed-homeowner-stunned-by-12000-garage-door-repair-bill/Y6I5ID7GTRF73OWBCDYBQCTZAY/"
+      ],
+      "raw_user_quote": "I'm shaking my head, I'm going, this doesn't sound right, but I gotta have this fixed.",
+      "quote_attribution": "Scott Berry, Orlando homeowner",
+      "pain_point_summary": "Homeowners hit with garage door repair bills ranging from $950/spring to $12,000 for a full system replacement, with no way to know if the quote is fair or if the contractor is padding the job.",
+      "searches_conducted": [
+        "reddit garage door broken expensive repair homeowner frustrated 2026",
+        "HVAC AC capacitor failure repeated repair 2026"
+      ],
+      "score_breakdown": {
+        "specificity": 2.5,
+        "emotional_charge": 2.5,
+        "monetizability": 2.0,
+        "solvability": 2.0,
+        "total": 9.0
+      },
+      "total_score": 9.0,
+      "standalone_guide_viable": true,
+      "guide_viability_notes": "10-page guide is highly viable. Content includes: understanding garage door components (springs, cables, openers, panels), when to repair vs replace, how to get 3+ comparable bids, the 'always upsell' scam pattern, DIY-safe maintenance tasks, and average cost benchmarks by repair type.",
+      "pillar_1_facts": [
+        {
+          "fact": "Garage door spring replacement averages $950 per spring (r/GarageDoorService)",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "One Orlando homeowner was quoted $12,000 for a garage door repair (WFTV News, July 2026)",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Sensor and cable issues are the most commonly misdiagnosed problems",
+          "status": "PLAUSIBLE"
+        }
+      ],
+      "pillar_2_facts": [
+        {
+          "fact": "Garage doors are responsible for the most serious DIY injuries in home repair",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Torsion springs are under extreme tension and require professional handling",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Most contractors will recommend full replacement when individual parts could suffice",
+          "status": "PLAUSIBLE"
+        }
+      ],
+      "pillar_3_facts": [
+        {
+          "fact": "Getting 3 bids is the minimum recommended for any repair over $500",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Home warranty programs often cover garage door repairs",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Extension spring systems are cheaper to repair than torsion spring systems",
+          "status": "VERIFIED"
+        }
+      ],
+      "status": "ADVANCE_TO_STAGE_2"
+    },
+    {
+      "id": "toddler-picky-eating-power-struggle",
+      "category": "parenting",
+      "title": "Toddler Picky Eating Power Struggles",
+      "slug": "toddler-picky-eating-power-struggle",
+      "source_platform": "Reddit (r/Preschoolers) + Psychology Today",
+      "source_urls": [
+        "https://www.reddit.com/r/Preschoolers/comments/1uogr73/im_honestly_tired_of_hearing_hell_eat_when_hes/",
+        "https://www.psychologytoday.com/us/blog/raising-healthy-humans/202606/when-picky-eating-is-actually-anxiety"
+      ],
+      "raw_user_quote": "I'm honestly tired of hearing 'he'll eat when he's hungry.' My kid just has no interest in eating. I've had to add a ton of fat to his meals so he can get cals in even if he doesn't eat a lot.",
+      "quote_attribution": "r/Preschoolers parent post, 3 weeks ago",
+      "pain_point_summary": "Parents of toddlers and preschoolers are locked in daily food battles. The standard advice ('they'll eat when hungry') doesn't work for children with extreme food selectivity. Parents report years of feeding therapy, extreme stress, and worry about nutritional deficiencies.",
+      "searches_conducted": [
+        "reddit toddler picky eating meal time power struggle parent frustrated 2026"
+      ],
+      "score_breakdown": {
+        "specificity": 2.0,
+        "emotional_charge": 2.0,
+        "monetizability": 2.5,
+        "solvability": 2.0,
+        "total": 8.5
+      },
+      "total_score": 8.5,
+      "standalone_guide_viable": true,
+      "guide_viability_notes": "10-page guide is viable. Content includes: the difference between typical picky eating and avoidant/restrictive food intake disorder (ARFID) indicators, division of responsibility framework (Satter method), expanding safe foods without pressure, when to involve a feeding therapist, and practical meal structures that reduce power struggles.",
+      "pillar_1_facts": [
+        {
+          "fact": "Psychology Today reports many children with 'picky eating' actually have underlying food anxiety",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Some children drop to 8-10 'safe foods' and parents report needing feeding therapy for years",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Lengthy mealtimes, negotiations, and food refusal are the most common behavioral patterns",
+          "status": "VERIFIED"
+        }
+      ],
+      "pillar_2_facts": [
+        {
+          "fact": "The Division of Responsibility (Satter method) is clinically validated for reducing food battles",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Pressure and coercion at meals increases avoidance behaviors",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Adding fat/calories to safe foods is a common compensatory strategy used by feeding therapists",
+          "status": "VERIFIED"
+        }
+      ],
+      "pillar_3_facts": [
+        {
+          "fact": "Feeding therapy outcomes are generally positive with consistent implementation",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Most children outgrow extreme picky eating by age 6-8 without intervention",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Signs that warrant professional feeding evaluation include: fewer than 20 foods, weight loss or faltering growth, and gagging on textures",
+          "status": "VERIFIED"
+        }
+      ],
+      "status": "ADVANCE_TO_STAGE_2"
+    },
+    {
+      "id": "angry-parent-burnout-recovery",
+      "category": "parenting",
+      "title": "Angry Parent Burnout Recovery",
+      "slug": "angry-parent-burnout-recovery",
+      "source_platform": "Reddit (r/ParentingThruTrauma) + parenting articles",
+      "source_urls": [
+        "https://www.reddit.com/r/ParentingThruTrauma/comments/1umqrjf/i_have_become_the_angry_mom_ive_feared_of_becoming/"
+      ],
+      "raw_user_quote": "I have become the angry mom I've feared of becoming.",
+      "quote_attribution": "r/ParentingThruTrauma user, 3 weeks ago",
+      "pain_point_summary": "Parents — especially those with trauma histories — are becoming the 'angry parent' they feared. They're shutting down emotionally, yelling, and feeling deep guilt. The problem is compounded because the anger reaction is automatic and the repair (talking to the child about it afterward) feels impossible in the moment.",
+      "searches_conducted": [
+        "Reddit parenting struggle frustrated overwhelmed 2026",
+        "Reddit angry parent overwhelmed"
+      ],
+      "score_breakdown": {
+        "specificity": 2.0,
+        "emotional_charge": 2.0,
+        "monetizability": 2.0,
+        "solvability": 2.0,
+        "total": 8.0
+      },
+      "total_score": 8.0,
+      "standalone_guide_viable": true,
+      "guide_viability_notes": "10-page guide is viable. Content includes: nervous system regulation tools for parents (polyvagal-informed), repair scripts for after yelling episodes, recognizing pre-explosion warning signs, breaking the trigger-reaction-guilt cycle, and when to seek therapy (EMDR, trauma-informed CBT).",
+      "pillar_1_facts": [
+        {
+          "fact": "Parental anger triggers a feedback loop: trigger → reaction → guilt → lower tolerance → easier next trigger",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Children can learn to self-regulate by watching their parents model regulation",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Post-yelling repair conversations reduce the relational harm of outbursts",
+          "status": "VERIFIED"
+        }
+      ],
+      "pillar_2_facts": [
+        {
+          "fact": "Sleep deprivation, hunger, and overwhelm are the top three preconditions for parental dysregulation",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Sensory-seeking behaviors in children are often misread as provocation by dysregulated parents",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Simple 'time out for the parent' strategies are clinically recommended",
+          "status": "VERIFIED"
+        }
+      ],
+      "pillar_3_facts": [
+        {
+          "fact": "EMDR and trauma-focused CBT are evidence-based treatments for parents with anger responding",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Partners should be briefed on the plan so they can take over when the first parent is dysregulated",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Most parents report improvement within 4-6 weeks of consistent regulation practice",
+          "status": "UNCERTAIN"
+        }
+      ],
+      "status": "ADVANCE_TO_STAGE_2"
+    }
+  ],
+  "scout_summary": {
+    "total_trends_found": 3,
+    "trends_above_threshold": 3,
+    "threshold": 8.0,
+    "skipped_trends": [],
+    "stage_2_candidates": 3
+  }
+}

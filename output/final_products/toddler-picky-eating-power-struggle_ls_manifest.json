@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "The Toddler Picky Eating Power Struggle: End Mealtime Wars Without Force or Guilt",
+    "slug": "toddler-picky-eating-power-struggle",
+    "description": "A comprehensive guide to toddler picky eating power struggle.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "toddler-picky-eating-power-struggle.pdf",
+      "path": "output/final_products/toddler-picky-eating-power-struggle_v1.pdf",
+      "size_bytes": 33355
+    },
+    {
+      "name": "toddler-picky-eating-power-struggle_CHECKLIST.pdf",
+      "path": "output/final_products/toddler-picky-eating-power-struggle_v1_CHECKLIST.pdf",
+      "size_bytes": 20769
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/toddler-picky-eating-power-struggle",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: The Toddler Picky Eating Power Struggle: End Mealtime Wars Without Force or Guilt",
+    "3. Slug: toddler-picky-eating-power-struggle",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - toddler-picky-eating-power-struggle_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/toddler-picky-eating-power-struggle"
+  ]
+}
