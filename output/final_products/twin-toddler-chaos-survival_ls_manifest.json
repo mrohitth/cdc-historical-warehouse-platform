@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Twin Toddler Chaos Survival",
+    "slug": "twin-toddler-chaos-survival",
+    "description": "A comprehensive guide to twin toddler chaos survival.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "twin-toddler-chaos-survival.pdf",
+      "path": "output/final_products/twin-toddler-chaos-survival_v1.pdf",
+      "size_bytes": 34663
+    },
+    {
+      "name": "twin-toddler-chaos-survival_CHECKLIST.pdf",
+      "path": "output/final_products/twin-toddler-chaos-survival_v1_CHECKLIST.pdf",
+      "size_bytes": 18523
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/twin-toddler-chaos-survival",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Twin Toddler Chaos Survival",
+    "3. Slug: twin-toddler-chaos-survival",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - twin-toddler-chaos-survival_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/twin-toddler-chaos-survival"
+  ]
+}

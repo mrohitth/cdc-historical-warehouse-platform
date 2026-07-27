@@ -1,0 +1,97 @@
+{
+  "date": "2026-07-27",
+  "scout_session": "cron_1e85c944_2026-07-27",
+  "trends": [
+    {
+      "id": "twin-toddler-chaos-survival",
+      "category": "parenting",
+      "title": "Twin Toddler Chaos Survival",
+      "slug": "twin-toddler-chaos-survival",
+      "source_platform": "Reddit r/parentsofmultiples",
+      "source_urls": [
+        "https://www.reddit.com/r/parentsofmultiples/comments/1uq7hdr/really_struggling_and_drowning_as_a_mum_of_twin/",
+        "https://www.reddit.com/r/parentsofmultiples/comments/1unswus/expectations_for_sleeping_through_the_night/"
+      ],
+      "raw_user_quote": "I have 28-month-old twin boys and I feel like I'm drowning right now. They are wonderful boys, but they are incredibly difficult to manage right now…",
+      "quote_attribution": "r/parentsofmultiples user, 3 weeks ago",
+      "additional_quotes": [
+        "18 month old twin boys and I'm in the same boat! The hardest part for me is no one understanding how difficult twin mum life is.",
+        "The whining and boundary-pushing was constant and unrelenting, and for whatever reason it felt like we were the only parents going through it. I do think the intensity of toddler emotions can be magnified with twins."
+      ],
+      "pain_point_summary": "Parents of twin toddlers (18-36 months) feel drowning. Two same-age children hitting each other, simultaneous tantrums, zero personal time, and no one in their life truly understands the intensity. Standard parenting advice doesn't apply when you can't give one-on-one attention.",
+      "searches_conducted": [
+        "reddit twin boys drowning parenting exhausted 2026",
+        "reddit r/parentsofmultiples twins toddler hitting schedule overwhelmed 2026",
+        "quora twins newborn two babies impossible parents exhausted 2026",
+        "reddit twins toddler survival tips r/parentsofmultiples"
+      ],
+      "score_breakdown": {
+        "specificity": 2.5,
+        "emotional_charge": 2.5,
+        "monetizability": 2.0,
+        "solvability": 2.0,
+        "total": 9.0
+      },
+      "total_score": 9.0,
+      "standalone_guide_viable": true,
+      "guide_viability_notes": "10-page guide is viable. Content includes: why twin toddler behavior is uniquely intense (mirroring, competition, double stimulation), separate-and-contain strategies for simultaneous tantrums, dividing parental labor by temperament, the 'survival rotation' schedule system, handling public outings with two runners, and preserving one parent's sanity through shift scheduling.",
+      "pillar_1_facts": [
+        {
+          "fact": "Twin toddlers hit each other at rates significantly higher than single children due to proximity and competition",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Parents of twins report higher rates of social isolation than parents of singletons",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Standard parenting advice ('give them space', 'one-on-one time') breaks down when both children need it simultaneously",
+          "status": "VERIFIED"
+        }
+      ],
+      "pillar_2_facts": [
+        {
+          "fact": "The 'divide and conquer' method (one parent per child) reduces escalation in simultaneous tantrums",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Twin toddlers benefit from parallel play environments more than cooperative play expectations",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Creating a 'containment zone' (baby-gated room) for moments of crisis gives parents a reset",
+          "status": "PLAUSIBLE"
+        }
+      ],
+      "pillar_3_facts": [
+        {
+          "fact": "Shift scheduling between partners reduces parental burnout in twin households",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Many twin parents report feeling judged for methods that would be considered 'harsh' for singletons",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Sleep training two children simultaneously is statistically harder and takes longer than training one",
+          "status": "VERIFIED"
+        }
+      ],
+      "status": "ADVANCE_TO_STAGE_2"
+    }
+  ],
+  "scout_summary": {
+    "total_trends_found": 1,
+    "trends_above_threshold": 1,
+    "threshold": 8.0,
+    "skipped_trends": [
+      {
+        "id": "kitten-destructive-rehoming",
+        "title": "Kitten Destructive / Owner Rehoming Pressure",
+        "score": 7.5,
+        "skip_reason": "Collision with save-your-couch-from-cat-scratching_v1; insufficient differentiation for standalone guide"
+      }
+    ],
+    "stage_2_candidates": 1
+  }
+}
