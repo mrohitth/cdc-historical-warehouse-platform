@@ -258,7 +258,11 @@ If you are still struggling after 4 weeks, the guide has troubleshooting section
 
 ## Your Bonus: Included
 
-This guide is available in your Lemon Squeezy library. If you purchased it directly, check your email for the download link. If you need access, contact support with your order number.
+Your downloads are ready:
+- **Guide PDF:** Kitten Destruction Survival Guide
+- **Checklist PDF:** Kitten Destruction Companion Checklist
+
+Get instant access: https://mrohitth.lemonsqueezy.com/checkout/buy/kitten-destruction-rehoming-pressure_v1
 
 ## Continue Learning
 
