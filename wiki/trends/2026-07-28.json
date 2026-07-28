@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-28",
+  "scout_session": "cron_1e85c944_2026-07-28",
+  "trends": [
+    {
+      "id": "cat-nighttime-yowling-4am",
+      "category": "cat behavior",
+      "title": "Cat Nighttime Yowling at 4AM",
+      "slug": "cat-nighttime-yowling-4am",
+      "source_platform": "DISboards forum",
+      "source_urls": [
+        "https://www.disboards.com/threads/i-need-some-cat-advice-once-again-and-what-can-i-do-about-it-and-is-there-a-way-to-make-my-cat-break-this-habit.3984517/"
+      ],
+      "raw_user_quote": "Every night when I go to sleep and Mom and Dad go to sleep my cat becomes VERY noisy and when he does get noisy he will start yowling and yowling and yowling and it's like my cat has turned into the Energizer Bunny and when my cat becomes noisy he also becomes very crazy and when he gets crazy my cat hisses and growls and this starts at 4AM and it is driving Mom and Dad crazy and when Mom tries to calm my cat down he hisses and growls and won't let Mom hold him but my cat doesn't bite thank goodness.",
+      "quote_attribution": "DISboards user, 1 week ago",
+      "additional_quotes": [],
+      "pain_point_summary": "Cat owners lose sleep because their cat yowls, hisses, and becomes hyperactive starting at 4AM every night. Parents can't calm the cat down and feel trapped. No solutions work consistently.",
+      "searches_conducted": [
+        "cat nighttime yowling frustrated owner forum",
+        "cat yowling at night desperate owner help me forum behavior",
+        "frustrated cat owner nighttime behavior problems forum 2026",
+        "cat aggressive at night frustrated owner exhausted forum what to do"
+      ],
+      "score_breakdown": {
+        "specificity": 2.5,
+        "emotional_charge": 2.5,
+        "monetizability": 2.0,
+        "solvability": 2.0,
+        "total": 9.0
+      },
+      "total_score": 9.0,
+      "standalone_guide_viable": true,
+      "guide_viability_notes": "10-page guide is viable. Content includes: understanding crepuscular cat rhythms, evening feeding schedule adjustments to reset internal clock, interactive play sessions before bed, environmental enrichment (puzzle feeders, vertical spaces), pheromone diffusers for calming, gradual retraining methods, and when to involve a vet for medical issues.",
+      "pillar_1_facts": [
+        {
+          "fact": "Cats are crepuscular by nature, most active at dawn and dusk",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Scheduled evening play sessions followed by a meal can shift cat activity cycles",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Timed automatic feeders can reduce anxiety-driven early morning demands",
+          "status": "VERIFIED"
+        }
+      ],
+      "pillar_2_facts": [
+        {
+          "fact": "Pheromone diffusers like Feliway reduce stress-related vocalization",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Environmental enrichment reduces boredom-triggered nighttime hyperactivity",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Closing bedroom door alone rarely solves the problem and can increase yowling",
+          "status": "PLAUSIBLE"
+        }
+      ],
+      "pillar_3_facts": [
+        {
+          "fact": "Excessive nighttime yowling can indicate thyroid issues or cognitive decline in older cats",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Consistency in response (ignoring vs engaging) affects retraining success",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Hissing and growling during these episodes often indicates pain or fear, not behavioral mischief",
+          "status": "PLAUSIBLE"
+        }
+      ],
+      "status": "ADVANCE_TO_STAGE_2"
+    },
+    {
+      "id": "toddler-sleep-exhaustion",
+      "category": "parenting",
+      "title": "Toddler Sleep Issues Draining Parents",
+      "slug": "toddler-sleep-exhaustion",
+      "source_platform": "Reddit r/sleeptrain",
+      "source_urls": [
+        "https://www.reddit.com/r/sleeptrain/comments/1uxmr6h/how_many_times_does_your_3yo_wake_up_during_the/"
+      ],
+      "raw_user_quote": "She dropped her nap around the time she turned 2. She doesn't need it and has low sleep needs. In the last 2 weeks we moved her to her own room and bed for the first time. We put her to bed in there, and if she wakes up we've told her she can come to our bed while she gets used to her own space. After a couple weeks, we will walk her back and resettle her in her bed. She wakes around 7.15am and goes to bed between 7-8pm depending how tired she is from the day. My partner and I are SO EXHAUSTED and at our wits end.",
+      "quote_attribution": "r/sleeptrain user, 2 weeks ago",
+      "additional_quotes": [],
+      "pain_point_summary": "Parents of toddlers (2-3 years) are physically and emotionally exhausted because their child won't sleep through the night. Dropped naps combined with new sleep arrangements create constant waking. Standard sleep training advice doesn't account for the toddler independence phase.",
+      "searches_conducted": [
+        "toddler sleep issues exhausted parents at wits end Reddit 2026",
+        "parenting toddler bedtime battles exhausted forum Quora",
+        "parent baby won't sleep exhausted help me Quora Reddit 2026",
+        "parent toddler sleep training frustrated exhausted forum"
+      ],
+      "score_breakdown": {
+        "specificity": 2.5,
+        "emotional_charge": 2.5,
+        "monetizability": 2.0,
+        "solvability": 1.5,
+        "total": 8.5
+      },
+      "total_score": 8.5,
+      "standalone_guide_viable": true,
+      "guide_viability_notes": "10-page guide is viable. Content includes: understanding toddler sleep regression phases, the dropped-nap transition period, creating a consistent wind-down routine, handling the 'cry it out' guilt, sleep association replacement, middle-of-the-night settling techniques that don't create new habits, and parental self-care during exhaustion periods.",
+      "pillar_1_facts": [
+        {
+          "fact": "The toddler nap drop typically happens between 2.5-4 years and disrupts nighttime sleep temporarily",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Toddlers in the independence phase often test boundaries at bedtime",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Parental exhaustion directly impacts parenting patience and consistency",
+          "status": "VERIFIED"
+        }
+      ],
+      "pillar_2_facts": [
+        {
+          "fact": "A predictable 30-45 minute wind-down routine reduces bedtime battles",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Moving to a 'big kid bed' triggers sleep regression for 2-4 weeks on average",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Using a visual timer helps toddlers understand bedtime expectations",
+          "status": "PLAUSIBLE"
+        }
+      ],
+      "pillar_3_facts": [
+        {
+          "fact": "The 'cry it out' method is less effective for toddlers who can verbally protest",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Co-sleeping reversals are common and temporary if handled consistently",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Sleep debt accumulates in toddlers and affects daytime behavior and mood",
+          "status": "VERIFIED"
+        }
+      ],
+      "status": "ADVANCE_TO_STAGE_2"
+    },
+    {
+      "id": "kitten-destruction-rehoming-pressure",
+      "category": "cat behavior",
+      "title": "Kitten Destruction Driving Rehoming Decisions",
+      "slug": "kitten-destruction-rehoming-pressure",
+      "source_platform": "Mumsnet forum",
+      "source_urls": [
+        "https://www.mumsnet.com/talk/the_litter_tray/5553029-so-annoyed-at-my-cat"
+      ],
+      "raw_user_quote": "So annoyed at my kitten right now, he's clawed and destroyed our carpet. I've shut him in a room while I calm myself down but please talk me out of rehoming him because my kids love him.",
+      "quote_attribution": "Mumsnet user, 2 weeks ago",
+      "additional_quotes": [],
+      "pain_point_summary": "New kitten owners feel overwhelmed when their kitten destroys carpet, furniture, and belongings. The frustration peaks when they consider rehoming but can't because their children love the cat. Standard advice about scratching posts doesn't work if not implemented correctly.",
+      "searches_conducted": [
+        "frustrated cat owner kitten destruction forum Quora",
+        "kitten destructive frustrated owner rehoming forum",
+        "cat aggressive petting biting frustrated owner forum Quora",
+        "cat destruction frustrated owner forum ruining my home what to do"
+      ],
+      "score_breakdown": {
+        "specificity": 2.0,
+        "emotional_charge": 2.5,
+        "monetizability": 2.0,
+        "solvability": 1.5,
+        "total": 8.0
+      },
+      "total_score": 8.0,
+      "standalone_guide_viable": true,
+      "guide_viability_notes": "10-page guide is viable. Content includes: why kittens scratch and climb (developmental needs vs destruction), proper scratching post placement and material choices, kitten-proofing a home in 30 minutes, redirecting techniques that actually work, play therapy to tire kittens before unsupervised time, and managing the emotional exhaustion of new kitten ownership.",
+      "pillar_1_facts": [
+        {
+          "fact": "Kittens have a primary socialization period up to 14 weeks where scratching and climbing behaviors are normal",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Most scratching posts fail because they're placed in the wrong location or have the wrong texture",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Negative punishment (spraying, yelling) increases anxiety and worsens destructive behavior",
+          "status": "VERIFIED"
+        }
+      ],
+      "pillar_2_facts": [
+        {
+          "fact": "Double-sided tape on furniture stops scratching when consistently applied",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Cardboard scratchers satisfy the scratching urge at lower cost than sisal posts",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "Hour-long interactive play sessions before meals reduce hyperactivity in kittens",
+          "status": "PLAUSIBLE"
+        }
+      ],
+      "pillar_3_facts": [
+        {
+          "fact": "Kittens adopted in pairs show significantly less destructive behavior than only kittens",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "The rehoming impulse peaks around weeks 3-8 of adoption and typically passes with proper support",
+          "status": "UNCERTAIN"
+        },
+        {
+          "fact": "Catnip and silver vine encourage scratching on appropriate surfaces",
+          "status": "VERIFIED"
+        }
+      ],
+      "status": "ADVANCE_TO_STAGE_2"
+    }
+  ],
+  "scout_summary": {
+    "total_trends_found": 3,
+    "trends_above_threshold": 3,
+    "threshold": 8.0,
+    "skipped_trends": [],
+    "stage_2_candidates": 3
+  }
+}
