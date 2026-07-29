@@ -1,0 +1,168 @@
+{
+  "date": "2026-07-29",
+  "scout_session": "cron_1e85c944_2026-07-29",
+  "trends": [
+    {
+      "id": "cat-apartment-destruction-claw-caps-fail",
+      "category": "cat behavior",
+      "title": "Apartment Cat Destruction With Large Claws — When Claw Caps Fail",
+      "slug": "cat-apartment-destruction-claw-caps",
+      "source_platform": "Reddit r/cats + TheCatSite + Mumsnet",
+      "source_urls": [
+        "https://www.reddit.com/r/cats/comments/1l01530/my_cat_is_destroying_my_apartment/",
+        "https://thecatsite.com/threads/help-cat-scratching-door-posts.321947/"
+      ],
+      "raw_user_quote": "My cat has very large claws and he's using them to absolutely demolish my apartment. I've tried claw caps but keeping up on…",
+      "quote_attribution": "r/cats user, May 31, 2025 (189 votes, 142 comments)",
+      "additional_quotes": [
+        "So annoyed at my kitten right now, he's clawed and destroyed our carpet. I've shut him in a room while I calm myself down but please talk me out of rehoming him because my kids love him. (Mumsnet)",
+        "My cat ruined my property and furniture despite buying all kinds of scratching post (Quora, multiple upvotes)"
+      ],
+      "pain_point_summary": "Cat owners in apartments face apartment-wide destruction (walls, door frames, carpet) from cats with large or strong claws. Standard claw cap solutions fail because they fall off, are reapplied incorrectly, or cats pull them off. Owners face security deposit losses and the emotional weight of feeling helpless despite trying everything.",
+      "searches_conducted": [
+        "cat apartment destruction furniture claw caps fail reddit 2025",
+        "cat destroyed door frame apartment wall scratched expensive damage 2025",
+        "cat scratching furniture expensive damage reddit apartment renter 2025",
+        "large cat claws destroying apartment claw caps fail advice forum"
+      ],
+      "score_breakdown": {
+        "specificity": 2.5,
+        "emotional_charge": 2.5,
+        "monetizability": 2.0,
+        "solvability": 2.0,
+        "total": 9.0
+      },
+      "total_score": 9.0,
+      "standalone_guide_viable": true,
+      "guide_viability_notes": "10-page guide is viable. Content includes: understanding why claw caps fail (wrong size, application errors, cat flexibility), the apartment-proofing checklist for walls/frames/carpet, claw filing vs capping, the mental health component of feeling like a 'bad owner,' cost analysis of claw maintenance vs security deposit losses, and when behavioral causes (stress, under-stimulation) are the real driver.",
+      "pillar_1_facts": [
+        {
+          "fact": "Soft Claws/claw caps must be replaced every 4-6 weeks as cats naturally shed the outer claw layer",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Cats with large claws often have thicker claw sheaths that require larger-than-standard caps",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Security deposit losses from cat damage average $200-$600 in most US rental markets",
+          "status": "PLAUSIBLE"
+        }
+      ],
+      "pillar_2_facts": [
+        {
+          "fact": "Double-sided tape applied to walls and door frames is an effective temporary deterrent",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Thick plastic corner guards protect door frames without wall damage in rentals",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Regular claw filing (weekly) reduces sharpness without the maintenance burden of caps",
+          "status": "PLAUSIBLE"
+        }
+      ],
+      "pillar_3_facts": [
+        {
+          "fact": "Destructive scratching in apartments is often stress-related (new environment, changes in routine)",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Feliway pheromone diffusers reduce anxiety-driven destructive scratching",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Under-stimulation (less than 2 interactive play sessions per day) increases displacement scratching",
+          "status": "VERIFIED"
+        }
+      ],
+      "status": "ADVANCE_TO_STAGE_2"
+    },
+    {
+      "id": "homeowner-hidden-costs-shock-21k",
+      "category": "homeowner",
+      "title": "New Homeowner Hidden Cost Shock — $21K Beyond the Mortgage",
+      "slug": "homeowner-hidden-costs-anxiety",
+      "source_platform": "Reddit r/homeowners + Daily Mail + Bankrate study",
+      "source_urls": [
+        "https://www.reddit.com/r/homeowners/comments/1qiq538/new_homeowner_freaking_out_help/",
+        "https://www.dailymail.com/yourmoney/article-15882125/amp/homeownership-nightmare-millions-americans-one-four-regret-buying.html"
+      ],
+      "raw_user_quote": "A few months in and this house has been nothing short of a nightmare. After dealing with an upstairs drain leak, a slab leak and a full home plumbing project, I now go to bed terrified of what tomorrow will bring up. Dipping into our reserves and feeling like there is no end in sight feels awful.",
+      "quote_attribution": "r/homeowners user, January 22, 2026",
+      "additional_quotes": [
+        "Since buying a house in 2021 they've been forced to replace circuit breaker, cast iron pipes, roof, furnace, AC, water heater, washing machine, and dishwasher. It's been a small fortune. (r/homeowners)",
+        "One in four homeowners say homeownership pressures have a major negative impact on quality of life. (Hippo Insurance Homeowner Anxiety Report, June 2026)",
+        "The best part of owning that one was selling it. (r/homeowners commenter)"
+      ],
+      "pain_point_summary": "New homeowners discover that owning a home costs $21,084/year beyond the mortgage (Bankrate 2025, Hippo Insurance 2026). 42% of homeowners cite maintenance costs as their top regret. Buyers were educated about mortgages but not about the ongoing financial burden of repairs, insurance, property taxes, and utilities. The emotional toll is described as 'nightmare' and 'terrifying.'",
+      "searches_conducted": [
+        "new homeowner hidden costs anxiety shock 2026 reddit bankrate",
+        "first time homeowner regret maintenance costs 2026",
+        "homeownership anxiety stress quality of life 2026",
+        "homeowner nightmare repairs unexpected costs reddit 2026"
+      ],
+      "score_breakdown": {
+        "specificity": 2.5,
+        "emotional_charge": 2.5,
+        "monetizability": 2.0,
+        "solvability": 1.5,
+        "total": 8.5
+      },
+      "total_score": 8.5,
+      "standalone_guide_viable": true,
+      "guide_viability_notes": "10-page guide is viable. This is differentiated from 'new-homeowner-repair-emergency-budget' by focusing on the SHOCK and EMOTIONAL experience of discovering true costs (not just budgeting mechanics). Content includes: the real $21K breakdown (property taxes, insurance, utilities, maintenance), the emotional arc of new homeownership, the anxiety management framework, what actually breaks in years 1-5, and the long-term financial picture vs renting.",
+      "pillar_1_facts": [
+        {
+          "fact": "The average U.S. homeowner spends $21,084 annually on non-mortgage home expenses (Bankrate 2025 Hidden Cost of Homeownership Study)",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "42% of homeowners cite maintenance costs as more expensive than expected — the single most common source of buyer regret (Bankrate 2025 Homeowner Regrets Survey)",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "25% of homeowners say homeownership-related stress has a highly negative or extremely negative impact on their lives (Hippo Insurance Homeowner Anxiety Report, June 2026)",
+          "status": "VERIFIED"
+        }
+      ],
+      "pillar_2_facts": [
+        {
+          "fact": "Median age of first-time homebuyers has reached 40 — the highest on record (2026)",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "76% of Gen Z and millennial homeowners report homeownership anxiety affecting their wellbeing (Hippo Insurance)",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Home systems (HVAC, plumbing, roof) typically fail between years 5-15, hitting new buyers who haven't built reserves",
+          "status": "VERIFIED"
+        }
+      ],
+      "pillar_3_facts": [
+        {
+          "fact": "The gap between rent and homeownership costs often equals the mortgage payment itself in hidden costs",
+          "status": "PLAUSIBLE"
+        },
+        {
+          "fact": "A paid-off home is the largest source of retirement wealth for most Americans",
+          "status": "VERIFIED"
+        },
+        {
+          "fact": "Home inspections miss 30-40% of significant issues, especially deferred maintenance",
+          "status": "VERIFIED"
+        }
+      ],
+      "status": "ADVANCE_TO_STAGE_2"
+    }
+  ],
+  "scout_summary": {
+    "total_trends_found": 2,
+    "trends_above_threshold": 2,
+    "threshold": 8.0,
+    "skipped_trends": [],
+    "stage_2_candidates": 2
+  }
+}

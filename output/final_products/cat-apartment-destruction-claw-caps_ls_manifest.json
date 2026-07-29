@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Apartment Cat Proof: The Guide to Protecting Your Rental Without Losing Your Deposit",
+    "slug": "cat-apartment-destruction-claw-caps",
+    "description": "A comprehensive guide to cat apartment destruction claw caps.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "cat-apartment-destruction-claw-caps.pdf",
+      "path": "output/final_products/cat-apartment-destruction-claw-caps_v1.pdf",
+      "size_bytes": 35275
+    },
+    {
+      "name": "cat-apartment-destruction-claw-caps_CHECKLIST.pdf",
+      "path": "output/final_products/cat-apartment-destruction-claw-caps_v1_CHECKLIST.pdf",
+      "size_bytes": 20509
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/cat-apartment-destruction-claw-caps",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Apartment Cat Proof: The Guide to Protecting Your Rental Without Losing Your Deposit",
+    "3. Slug: cat-apartment-destruction-claw-caps",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - cat-apartment-destruction-claw-caps_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/cat-apartment-destruction-claw-caps"
+  ]
+}
