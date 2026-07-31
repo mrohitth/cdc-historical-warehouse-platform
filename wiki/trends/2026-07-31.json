@@ -1,0 +1,38 @@
+{
+  "scout_date": "2026-07-31",
+  "scout_session": "TrendScout_Daily",
+  "trends": [
+    {
+      "id": "newborn-sleep-regression-guide",
+      "topic": "Newborn 4-Month Sleep Regression Survival Guide",
+      "source_platform": "Reddit (r/newborns, r/Parenting, r/NewParents)",
+      "total_score": 9.2,
+      "collision": true,
+      "existing_skeleton": "4-month-sleep-regression-guide_v1_SKELETON.md",
+      "collision_reason": ">80% similar - same topic and solution pillars"
+    },
+    {
+      "id": "cat-litter-box-fix-guide",
+      "topic": "Cat Litter Box Problems: The Complete Diagnostic & Fix Guide",
+      "source_platform": "Reddit (r/CatAdvice)",
+      "total_score": 8.6,
+      "collision": true,
+      "existing_skeleton": "cat-litter-box-aversion_v1_SKELETON.md",
+      "collision_reason": ">80% similar - both cover cat house soiling and litter box diagnosis"
+    },
+    {
+      "id": "homeowners-water-emergency-guide",
+      "topic": "Homeowners Water Damage Emergency Response Playbook",
+      "source_platform": "Reddit (r/homeowners, r/HomeMaintenance)",
+      "total_score": 8.4,
+      "collision": true,
+      "existing_skeleton": "plumbing-emergency-budget-guide_v1_SKELETON.md",
+      "collision_reason": ">80% similar - both cover plumbing emergency costs and homeowner financial traps"
+    }
+  ],
+  "pipeline_action": "SKIPPED",
+  "reason": "All 3 trends >80% similar to existing skeletons. No new unique angles found.",
+  "trends_passed": 0,
+  "trends_rejected": 3,
+  "collision_count": 3
+}

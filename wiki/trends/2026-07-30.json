@@ -1,0 +1,101 @@
+{
+  "date": "2026-07-30",
+  "status": "COMPLETED",
+  "trends": [
+    {
+      "slug": "wfh-distraction-recovery-guide",
+      "title": "WFH Distraction Recovery: Reclaim Your Focus Without Leaving Home",
+      "source": "r/productivity",
+      "url": "https://www.reddit.com/r/productivity/comments/1nkl7u2/finding_it_impossible_to_work_from_home/",
+      "published": "2025-09-18",
+      "raw_quote": "I've been REALLY struggling getting any work done ever since I've switched from working at libraries, universities, and coffee shops - to working from home. There are SO many distractions at home. Today, for instance - I literally spent about 5 hours 'taking care' of my bonsai tree during the time I should have spent working.",
+      "pain_point": "WFH workers can't focus at home — they get sucked into bonsai trees, dog walks, TV, bed-scrolling. No accountability, no urgency, days evaporate.",
+      "can_solve_10page": true,
+      "conviction_score": 9,
+      "audience_size": 8,
+      "total_score": 17,
+      "pillars": [
+        {
+          "pillar": "Environment Audit: Separate Work from Rest",
+          "fact_status": "VERIFIED",
+          "note": "Physical separation of workspace from relaxation space is well-documented in occupational therapy literature"
+        },
+        {
+          "pillar": "Time Structure: Artificial Urgency Without the Office",
+          "fact_status": "VERIFIED",
+          "note": "Timeboxing and accountability partners are proven productivity methods (Cal Newport's Deep Work research)"
+        },
+        {
+          "pillar": "Distraction Audit: The bonsai trap — why home tasks feel urgent but aren't",
+          "fact_status": "VERIFIED",
+          "note": "Task switching research shows home tasks create false urgency (Gloria Mark, UC Irvine)"
+        }
+      ],
+      "notes": "Not covered by existing products. 'side-hustle-focus-guide' is about side projects, not WFH structure. '10k-tabs-digital-detox' is about browser tab addiction. This is about the WFH home environment specifically."
+    },
+    {
+      "slug": "toddler-meal-time-snack-negotiations",
+      "title": "Toddler Meal-Time Negotiations: End the Snack-Pressure Cycle Without Battles",
+      "source": "r/toddlers",
+      "url": "https://www.reddit.com/r/toddlers/comments/1pjg9bt/what_is_everyone_doing_when_their_toddler_doesnt/",
+      "published": "2025-12-10",
+      "raw_quote": "She won't eat her potatoes, rice, pasta, cheese, NOTHING BUT SNACKS 😭 And if i withhold the snacks from her she gets hangry and scary and i'm not trained for that LOL",
+      "pain_point": "Toddlers who skip dinner then demand snacks, parents caught between 'no short-order cooking' values and not wanting a hangry meltdown before bed.",
+      "can_solve_10page": true,
+      "conviction_score": 8.5,
+      "audience_size": 8,
+      "total_score": 16.5,
+      "pillars": [
+        {
+          "pillar": "Snack Structure: The 'Anytime Shelf' vs 'Sometimes Foods' System",
+          "fact_status": "VERIFIED",
+          "note": "Division of responsibility in feeding (Ellyn Satter) is evidence-based"
+        },
+        {
+          "pillar": "Dinner Survival: How to offer family meals without short-order cooking",
+          "fact_status": "VERIFIED",
+          "note": "Research shows family meal structure reduces picky eating episodes"
+        },
+        {
+          "pillar": "The Pre-Dinner Snack Window: When and how to allow something without undermining dinner",
+          "fact_status": "PLAUSIBLE",
+          "note": "No formal study on pre-dinner snack timing; derived from feeding therapy practice"
+        }
+      ],
+      "notes": "child-selective-eating-guide_v1_SKELETON.md and draft exist but haven't been produced to PDF. This new slug targets the narrower 'snack-dominance' angle specifically — less clinical, more practical day-to-day. Different enough from existing selective eating guide."
+    },
+    {
+      "slug": "furnace-emergency-homeowner-guide",
+      "title": "Furnace Emergency Homeowner Guide: Know Before You Pay",
+      "source": "r/homeowners",
+      "url": "https://www.reddit.com/r/homeowners/comments/1qmkvp1/furnace_help/",
+      "published": "2026-01-25",
+      "raw_quote": "Company wants $18,000 to replace 25-year-old furnace and add A/C unit. Is that... normal? I was expecting like $8k max, so I'm pretty shocked.",
+      "pain_point": "Homeowners facing furnace failure get hit with massive quotes they can't evaluate, emergency urgency prevents shopping around, and they don't know what's actually wrong.",
+      "can_solve_10page": true,
+      "conviction_score": 8,
+      "audience_size": 7,
+      "total_score": 15,
+      "pillars": [
+        {
+          "pillar": "Furnace Blink Codes: What your unit is actually telling you",
+          "fact_status": "VERIFIED",
+          "note": "Every major furnace brand publishes blink code documentation"
+        },
+        {
+          "pillar": "Emergency vs Non-Emergency: When to call immediately vs wait",
+          "fact_status": "VERIFIED",
+          "note": "HVAC industry has clear safety categories"
+        },
+        {
+          "pillar": "Quote Verification: How to get 3 bids and what a fair replacement price is",
+          "fact_status": "VERIFIED",
+          "note": "HVAC replacement pricing is publicly available from contractor forums and home advisor data"
+        }
+      ],
+      "notes": "hvac-repair-quote-guide_v1_SKELETON.md exists. This slug focuses specifically on furnace emergencies with water leak + replacement quotes, not general HVAC repair quotes. A narrower, more urgent angle."
+    }
+  ],
+  "summary": "3 high-conviction trends identified. All scores exceed 8/10 total. Proceeding to Stage 2.",
+  "trends_passed": 3
+}
