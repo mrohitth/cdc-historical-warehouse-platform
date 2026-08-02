@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-02",
+  "status": "STAGE1_COMPLETE",
+  "trends": [
+    {
+      "id": "toddler-winter-gear-refusal",
+      "source": "reddit/r/toddlers",
+      "url": "https://www.reddit.com/r/toddlers/comments/1ousasi/toddlers_and_winter_garments/",
+      "raw_quote": "It doesn't seem worth it to wear the jacket to the car, take it off, put him in the car seat, get to daycare, put the coat back on him, walk inside, take the coat off. It doesn't seem feasible. He wears a long sleeve shirt and has a thin fleece on. All the other kids are coming in in big winter coats but they are all older. Am I in the wrong?",
+      "pain_point": "Toddler refuses to wear coat, hat, and shoes — daily winter morning battles at daycare drop-off that derail the whole routine",
+      "problem_summary": "Parents of toddlers ages 18mo-3.5 years face daily meltdowns over winter gear. The car seat logistics make it seem pointless. Gentle parenting techniques fail because no structure is provided for the specific transition challenge.",
+      "audience": "Parents of toddlers (18mo-3.5y) in cold-weather climates dealing with daily coat/hat/shoe refusal battles before daycare drop-off",
+      "search_queries": ["toddler coat refusal meltdown daycare", "toddler won't wear winter clothes morning routine", "gentle parenting toddler dressing battles winter"],
+      "total_score": 8.5,
+      "score_breakdown": {
+        "frustration_intensity": 9,
+        "solvability": 8,
+        "audience_size": 8,
+        "monetization_potential": 9,
+        "freshness": 9
+      },
+      "standalone_guide_viable": true,
+      "slug": "toddler-winter-gear-battles",
+      "pillar_1": "The Car Seat Layer System — replacing the coat battle with a climate-smart alternative",
+      "pillar_2": "The Morning Routine Reset — predictable visual schedule that removes the power struggle from dressing",
+      "pillar_3": "The Gentle Boundary Framework — how to hold the line on warmth without coercion or meltdown surrender"
+    },
+    {
+      "id": "pet-insurance-claim-denied-preexisting",
+      "source": "reddit/r/CatAdvice",
+      "url": "https://www.reddit.com/r/CatAdvice/comments/10j4iu6/paying_for_pet_insurance_all_these_years_only_to/",
+      "raw_quote": "They denied my claim because a full health checkup wasn't done when I signed up for their insurance, even though they never bothered to follow up on this missing document for 2 years.",
+      "pain_point": "Pet owners pay insurance premiums for years, then get claims denied for pre-existing conditions they didn't know were excluded — leaving them on the hook for thousands",
+      "problem_summary": "Pet insurance has a pre-existing condition exclusion that catches most owners off guard. The denial comes at the worst moment (actual medical emergency), and the appeal process is opaque.",
+      "audience": "Pet owners who have pet insurance and are confused about what their policy actually covers, or prospective buyers wanting to avoid the pre-existing condition trap",
+      "search_queries": ["pet insurance claim denied pre-existing condition", "pet insurance fine print exclusions", "pet insurance appeal successful"],
+      "total_score": 7.5,
+      "score_breakdown": {
+        "frustration_intensity": 9,
+        "solvability": 7,
+        "audience_size": 8,
+        "monetization_potential": 8,
+        "freshness": 6
+      },
+      "standalone_guide_viable": true,
+      "slug": "pet-insurance-claim-denied",
+      "pillar_1": "The Pre-Existing Condition Trap — what it actually means, which conditions qualify, and how insurers apply it",
+      "pillar_2": "The Appeal Playbook — step-by-step documentation to overturn a denial, including what records to gather and how to escalate",
+      "pillar_3": "The Prevention Framework — how to read a policy to avoid the trap before signing up"
+    },
+    {
+      "id": "daycare-drop-off-meltdown",
+      "source": "reddit/r/workingmoms",
+      "url": "https://www.reddit.com/r/workingmoms/comments/107fj1x/are_mornings_always_chaotic_with_2_littles/",
+      "raw_quote": "Yes mornings were chaotic. Launching my grumpiest, sleepiest teen to school in the morning is not even 1/10 of the stress as getting 2-3 littles dropped off at daycare.",
+      "pain_point": "Working parents with multiple young kids experience extreme morning chaos getting everyone dressed, fed, and out the door to daycare — ending in daily meltdowns",
+      "problem_summary": "Multi-child morning logistics overwhelm working parents. The daycare drop-off window is fixed, kids have different paces, and every morning becomes a crisis. No structured system exists for families with 2+ kids under 5.",
+      "audience": "Working parents with 2+ children under 5 navigating morning daycare drop-off with limited time",
+      "search_queries": ["daycare morning drop off meltdown toddler", "working mom morning routine two toddlers chaos", "toddler separation anxiety daycare drop off"],
+      "total_score": 7.0,
+      "score_breakdown": {
+        "frustration_intensity": 8,
+        "solvability": 8,
+        "audience_size": 7,
+        "monetization_potential": 7,
+        "freshness": 5
+      },
+      "standalone_guide_viable": true,
+      "slug": "daycare-morning-drop-off-survival",
+      "pillar_1": "The 15-Minute Launch Protocol — exact time-blocked sequence for getting 2 kids dressed, fed, and out the door",
+      "pillar_2": "The Drop-Off Goodbye Ritual — evidence-based separation technique that reduces crying and speeds transition",
+      "pillar_3": "The Night-Before System — what to set up after bedtime to eliminate 80% of morning decisions"
+    }
+  ],
+  "stage1_decision": "PROCEED",
+  "selected_trend": {
+    "slug": "toddler-winter-gear-battles",
+    "score": 8.5,
+    "reason": "Highest freshness + intensity score. No existing product covers this specific angle. Daily recurring pain point with strong seasonal component. Standalone guide is clearly viable."
+  }
+}
