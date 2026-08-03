@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-03",
+  "status": "PASS",
+  "trends": [
+    {
+      "trend_name": "Renovation Budget Shock — First-Time Renovators blindsided by real costs",
+      "slug": "renovation-budget-shock-guide",
+      "source": "r/Renovations, r/homeowners, r/AskForAnswers",
+      "raw_quotes": [
+        {
+          "quote": "We did both bathrooms first, and my biggest regret was not just ripping out all of the drywall. Patching and matching the texture was awful. And this was not my first time doing this, this is my second house where I have made the same damn mistake.",
+          "source": "r/Renovations",
+          "url": "https://www.reddit.com/r/Renovations/comments/1o1420d/what_mistakes_did_you_make_during_your_home/",
+          "date": "2025-10-08"
+        },
+        {
+          "quote": "Around 40% of homeowners plan to spend $10,000 or more on renovations in 2025. However, nearly 80% of homeowners went over budget on their last renovation, and two-thirds went into debt to fund home improvement projects.",
+          "source": "r/FluentInFinance",
+          "url": "https://www.reddit.com/r/FluentInFinance/comments/1gk8uj7/over_60_of_homeowners_go_into_debt_for/",
+          "date": "2024-11-05"
+        },
+        {
+          "quote": "The list is long, but one is not having an adequate budget to make renovations that are done right, and appeal to the next buyer. Another would be not putting thought into how long they will own the home, and taking on projects that will be a waste of money in the long run.",
+          "source": "r/AskForAnswers",
+          "url": "https://www.reddit.com/r/AskForAnswers/comments/1ssp5pb/whats_the_biggest_mistake_firsttime_homeowners/",
+          "date": "2026-04-22"
+        },
+        {
+          "quote": "My mistake was that I based my renovated floorplan on what would be the least invasive, instead of thinking what the best use of space would be and just doing it. I took out part of a wall. Once it was all done, I wished I'd taken out more.",
+          "source": "r/InteriorDesign",
+          "url": "https://www.reddit.com/r/InteriorDesign/comments/ag4vvv/homeowners_whats_your_biggest_renovation_regret/",
+          "date": "2019-01-15"
+        }
+      ],
+      "pain_point": "First-time renovators underestimate total project costs by 30-80%, fail to get multiple bids, skip contingency buffers, and make irreversible layout decisions without proper budget context — leading to debt, subpar results, or abandoned projects.",
+      "solution_angle": "A pre-renovation planning guide that walks owners through realistic budget building, bid comparison, contingency planning, and scope decisions BEFORE signing any contract.",
+      "total_score": 9.0,
+      "score_breakdown": {
+        "audience_size": 2.5,
+        "pain_intensity": 2.5,
+        "solution_clarity": 2.0,
+        "monetization_potential": 2.0
+      },
+      "standalone_guide_feasible": true,
+      "existing_overlap": "contractor-proof-your-renovation.pdf exists but focuses on contractor selection/fraud. This guide focuses on financial planning and budget shock prevention — complementary, not overlapping.",
+      "lemon_squeezy_price": 1499
+    },
+    {
+      "trend_name": "Cat House Soiling — Cat Peeing Outside the Litter Box Despite Multiple Fixes",
+      "slug": "cat-house-soiling-fixed",
+      "source": "r/CatAdvice, r/Pets",
+      "raw_quotes": [
+        {
+          "quote": "I have a 10-year-old female cat and I am at my wits end. She will not use the litter box. It is ruining my life and I am desperate for a solution.",
+          "source": "r/Pets",
+          "url": "https://www.reddit.com/r/Pets/comments/1b6m4cc/i_am_at_my_wits_end_with_my_cat_10f_not_using_the/",
+          "date": "2024-03-05"
+        },
+        {
+          "quote": "Not long after we moved, he started to pee outside the litter box. He would still use it to poop, but he would hop in the bathtub when he had to pee. I tried switching to regular litter, he refused to use it.",
+          "source": "r/CatAdvice",
+          "url": "https://www.reddit.com/r/CatAdvice/comments/web4a6/im_at_a_loss_about_what_to_do_with_my_cat_and_his/",
+          "date": "2022-08-02"
+        },
+        {
+          "quote": "The issues you are having with your cat sound very serious... we also suggest getting in touch with a reputable cat behaviorist if at all possible.",
+          "source": "r/CatAdvice",
+          "url": "https://www.reddit.com/r/CatAdvice/comments/199ph1y/cat_litter_box_problems_advice_needed/",
+          "date": "2024-01-18"
+        }
+      ],
+      "pain_point": "Cat owners with house-soiling cats have tried multiple litters, box types, and cleaners — nothing works. They're exhausted, their home smells, and they're considering rehoming. The internet advice contradicts itself: vet vs. behavioral vs. rehome.",
+      "solution_angle": "A step-by-step triage and solution system that rules out medical emergencies first, then systematically audits and fixes the litter box setup and environmental stressors.",
+      "total_score": 9.25,
+      "score_breakdown": {
+        "audience_size": 2.5,
+        "pain_intensity": 2.75,
+        "solution_clarity": 2.0,
+        "monetization_potential": 2.0
+      },
+      "standalone_guide_feasible": true,
+      "existing_overlap": "cat-litter-box-aversion_v1.pdf and _v1.md draft exist but pipeline may have stalled (check draft for Lemon Squeezy checkout URL). cat-litter-box-solutions_v1.pdf, cat-poop-refuses-litter-box_v1.pdf also exist. Multiple similar products suggest HIGH overlap risk — SKIP unless fresh angle found.",
+      "lemon_squeezy_price": 1499
+    }
+  ],
+  "pipeline_decision": {
+    "produce_trends": ["renovation-budget-shock-guide"],
+    "skip_trends": ["cat-house-soiling-fixed — too many existing similar products (cat-litter-box-aversion, cat-litter-box-solutions, cat-poop-refuses-litter-box)"],
+    "skip_reason": "Cat litter box house soiling already covered by multiple existing products"
+  }
+}

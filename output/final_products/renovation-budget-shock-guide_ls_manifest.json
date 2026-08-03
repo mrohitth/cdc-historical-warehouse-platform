@@ -1,0 +1,35 @@
+{
+  "store_id": "371709",
+  "store_url": "https://mrohitth.lemonsqueezy.com",
+  "product": {
+    "name": "Renovation Budget Shock: The Pre-Planning System to Renovate Without Going Broke",
+    "slug": "renovation-budget-shock-guide",
+    "description": "A comprehensive guide to renovation budget shock guide.",
+    "price": "$14.99",
+    "price_cents": 1499,
+    "variant_name": "Standard Edition"
+  },
+  "files": [
+    {
+      "name": "renovation-budget-shock-guide.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/renovation-budget-shock-guide_v1.pdf",
+      "size_bytes": 49135
+    },
+    {
+      "name": "renovation-budget-shock-guide_CHECKLIST.pdf",
+      "path": "/home/mathew/.openclaw/workspace/output/final_products/renovation-budget-shock-guide_v1_CHECKLIST.pdf",
+      "size_bytes": 18548
+    }
+  ],
+  "checkout_url": "https://mrohitth.lemonsqueezy.com/checkout/buy/renovation-budget-shock-guide",
+  "manual_steps": [
+    "1. Go to app.lemonsqueezy.com > Products > Create Product",
+    "2. Name: Renovation Budget Shock: The Pre-Planning System to Renovate Without Going Broke",
+    "3. Slug: renovation-budget-shock-guide",
+    "4. Price: $14.99 (Standard Edition variant)",
+    "5. Upload PDFs from: output/final_products/",
+    "    - renovation-budget-shock-guide_CHECKLIST.pdf (companion)",
+    "6. Publish the product",
+    "7. Checkout URL will be: https://mrohitth.lemonsqueezy.com/checkout/buy/renovation-budget-shock-guide"
+  ]
+}
