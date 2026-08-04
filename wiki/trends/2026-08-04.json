@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-04",
+  "status": "READY",
+  "trends": [
+    {
+      "id": "newborn-sleep-survival-guide",
+      "slug_candidate": "newborn-sleep-survival-guide_v1",
+      "slug": "newborn-sleep-survival-guide_v1",
+      "product_direction": "Newborn Sleep Survival Guide: A Practical System for Exhausted Parents",
+      "category": "parenting",
+      "platform": "reddit",
+      "subreddit": "r/NewParents",
+      "raw_quote": "I think I'm going to die of sleep deprivation. He also has been doing a fun thing where he will stay up for 2 hrs straight just talking and/or crying after being fed.",
+      "pain_point": "New parents face extreme sleep deprivation with no clear system to restore rest",
+      "severity_score": 9,
+      "market_size_score": 9,
+      "actionability_score": 8,
+      "competition_score": 6,
+      "total_score": 8.0,
+      "can_10page_guide_solve": true,
+      "existing_solution_quality": "Low - generic advice, no structured system"
+    }
+  ]
+}
