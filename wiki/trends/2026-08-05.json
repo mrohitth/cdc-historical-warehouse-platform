@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-05",
+  "status": "COMPLETED",
+  "trends": [
+    {
+      "id": "cat-adoption-bond-struggle",
+      "category": "pet-ownership",
+      "slug": "cat-attachment-grief-guide",
+      "title": "Cat Attachment Grief: When You've Waited Years and Still Can't Bond",
+      "problem_summary": "People who spent years preparing to adopt a cat experience unexpected grief and guilt when the bond doesn't form as expected. The cat shows love in its own language, but owners expecting dog-like affection feel like failures.",
+      "raw_quote_1": "I waited 6 years to adopt a cat... and now I regret it. The more she trusts me, the more hopeful I get and accidentally push too far (hugging, kissing, trying to hold her), and then she becomes distant again. I know I should stop crossing her boundaries, but physical affection is naturally how I express love.",
+      "raw_quote_2": "Post adoption regret is normal and real! I was in the same boat: regret, anxiety, doubting myself, crying, mourning my personal space, considering returning my cat, thinking I don't deserve her.",
+      "source": "Reddit r/CatAdvice (May 2026)",
+      "pain_score": 9,
+      "market_score": 7,
+      "total_score": 8.5,
+      "can_standalone_guide": true,
+      "solvability_notes": "Guide focuses on: (1) Understanding cat love languages vs human expectations, (2) Specific trust-building protocols that respect cat boundaries, (3) Grief processing for owners whose mental image of cat ownership doesn't match reality",
+      "similar_skeleton": null,
+      "status": "HIGH_VALUE"
+    },
+    {
+      "id": "parent-postpartum-hypervigilance",
+      "category": "parenting",
+      "slug": "hypervigilance-after-birth",
+      "title": "Hypervigilance After Birth: When You Can't Stop Watching for Danger",
+      "problem_summary": "New parents experience hypervigilance after birth—a constant threat-assessment state that disrupts sleep, causes physical anxiety symptoms, and makes relaxation feel impossible. Often dismissed as 'normal parenting worry' but is actually a treatable stress response.",
+      "raw_quote_1": "Can't relax, can't sleep, always on edge after birth. Hypervigilance is a problem for me as well. It became even more pronounced after the birth of our first child.",
+      "raw_quote_2": "A parent with postpartum anxiety might avoid leaving the house altogether because thoughts of potential car accidents trigger racing heart and shortness of breath. This constant state of threat assessment is called hypervigilance.",
+      "source": "Reddit r/AdultChildren (May 2026), Phoenix Health (2026)",
+      "pain_score": 9,
+      "market_score": 8,
+      "total_score": 8.5,
+      "can_standalone_guide": true,
+      "solvability_notes": "Guide focuses on: (1) Recognizing hypervigilance vs normal parenting worry, (2) Physiological grounding techniques specific to threat-assessment mode, (3) When this crosses into clinical territory and what to do",
+      "similar_skeleton": null,
+      "status": "HIGH_VALUE"
+    },
+    {
+      "id": "homeowner-deferred-maintenance-anxiety",
+      "category": "homeownership",
+      "slug": "homeowner-deferred-maintenance-dread",
+      "title": "The Deferred Maintenance Dread: When Your Home Feels Like a Time Bomb",
+      "problem_summary": "New homeowners discover their home requires thousands in deferred maintenance they didn't budget for, leading to constant anxiety about what will break next. The median cost to catch up is $5,000+ with 69% of homeowners currently behind on maintenance.",
+      "raw_quote_1": "I'm constantly waiting for something to happen. I want to cry every time it rains. It's just constant anxiety.",
+      "raw_quote_2": "Going from relying on a landlord to suddenly managing a mortgage, taxes, yard work, and a never-ending maintenance list is exhausting.",
+      "source": "Reddit r/homeowners (March 2026), Hippo Homeowner Anxiety Report 2026",
+      "pain_score": 8,
+      "market_score": 7,
+      "total_score": 7.5,
+      "can_standalone_guide": true,
+      "solvability_notes": "Similar to existing skeleton 'homeowner-hidden-costs-anxiety' at 91% - SKIP for this cycle",
+      "similar_skeleton": "homeowner-hidden-costs-anxiety",
+      "status": "SKIPPED_SIMILAR"
+    }
+  ],
+  "summary": {
+    "total_trends_found": 3,
+    "high_value_trends": 2,
+    "trends_for_stage2": 2,
+    "skipped_reason": "homeowner-deferred-maintenance-anxiety is 91% similar to existing skeleton homeowner-hidden-costs-anxiety"
+  },
+  "next_action": "PROCEED_TO_STAGE2"
+}
