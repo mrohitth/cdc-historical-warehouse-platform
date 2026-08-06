@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-06",
+  "stage": 1,
+  "status": "CONTINUE",
+  "trends": [
+    {
+      "id": "dog-separation-anxiety-trapped",
+      "slug_candidate": "dog-separation-anxiety-guide",
+      "product_direction": "Freedom From Separation Anxiety: A Practical Protocol for Dogs Who Can't Be Left Alone",
+      "platform": "reddit",
+      "subreddits": ["r/dogs", "r/DogTraining", "r/OpenDogTraining"],
+      "quote": "Anyone else feel trapped because of their dog's separation anxiety? ... My dog a year ago couldn't be left alone and now he's able to be alone.",
+      "quote_date": "2026-03-02",
+      "pain_point": "Dog owners with separation anxiety cannot leave their homes, go on vacation, or have a normal life. Dogs destroy crates, howl, and self-injure when left alone. Owners feel imprisoned.",
+      "can_standalone_guide": true,
+      "total_score": 9,
+      "breakdown": {
+        "emotional_pain": 3,
+        "specificity": 3,
+        "solvability": 3
+      },
+      "notes": "Fresh category — no existing dog skeletons in catalog. Julie Naismith's separation anxiety protocol, crate alternatives, desensitization routines are all well-documented."
+    },
+    {
+      "id": "aging-parent-driving-dangerous",
+      "slug_candidate": "aging-parent-driving-conversation",
+      "product_direction": "The Driving Conversation: A Practical Guide to Helping Your Aging Parent Give Up the Keys",
+      "platform": "reddit",
+      "subreddits": ["r/AgingParents"],
+      "quote": "I've got a grandmother approaching 90 who won't give up driving. She's decided she's unsafe driving at night and on the highway... there could also be resources in your area that transport seniors around.",
+      "quote_date": "2026-01-06",
+      "pain_point": "Adult children watch aging parents become dangerous drivers and cannot convince them to stop. The conversation feels impossible. Fear of injury or killing someone is constant.",
+      "can_standalone_guide": true,
+      "total_score": 8,
+      "breakdown": {
+        "emotional_pain": 3,
+        "specificity": 3,
+        "solvability": 2
+      },
+      "notes": "Fresh topic — we have aging-parent-fall-prevention but NOT driving. Solution pillars: assessment tools, conversation scripts, legal/medical leverage points, transportation alternatives."
+    },
+    {
+      "id": "older-child-selective-eating",
+      "slug_candidate": "school-age-selective-eating-guide",
+      "product_direction": "End the Food Wars: A Consistency System for Parents of School-Age Selective Eaters",
+      "platform": "reddit",
+      "subreddits": ["r/daddit", "r/Parenting"],
+      "quote": "Reaching my wits end. 7 year old son won't eat anything unless it's something he picks. He eats just fine at his grandparents who have had a no tolerance approach since the beginning. Whereas at his mother's parents they don't. So he knows he can get her mom to bend.",
+      "quote_date": "2025-10-01",
+      "pain_point": "Parents of school-age kids (5-10) in a food power struggle. One parent is consistent, the other (or grandparents) undercuts it. Family dinners become battlegrounds. Child loses weight or nutrition suffers.",
+      "can_standalone_guide": true,
+      "total_score": 8,
+      "breakdown": {
+        "emotional_pain": 3,
+        "specificity": 2,
+        "solvability": 3
+      },
+      "notes": "We have toddler-picky-eating-power-struggle and child-selective-eating-guide. This is a distinct angle: school-age (5-10), grandparent inconsistency, the 'everyone else gives in' dynamic. Different enough to justify."
+    }
+  ],
+  "high_value_count": 3
+}
